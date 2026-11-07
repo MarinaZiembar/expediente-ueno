@@ -7,6 +7,7 @@ import { infoStats, slides } from '@/content/slides';
 import type { NewsFile } from '@/content/types';
 import Nav from '@/components/Nav';
 import Deck from '@/components/Deck';
+import Timeline from '@/components/Timeline';
 import Marquee from '@/components/Marquee';
 import Infographic from '@/components/Infographic';
 import News from '@/components/News';
@@ -25,7 +26,8 @@ export default function Page() {
     <>
       <Nav />
       <main>
-        <Deck slides={slides} timeline={timeline} updatedAt={news.updatedAt} />
+        <Deck slides={slides} updatedAt={news.updatedAt} />
+        <Timeline items={timeline} />
         <Marquee items={terms} tone="lime" label="Temas del caso" />
         <Infographic stats={infoStats} nodes={nodes} edges={edges} />
         <Marquee items={headlines} tone="ink" baseSpeed={0.45} label="Últimos titulares" />

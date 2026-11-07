@@ -1,38 +1,31 @@
 'use client';
 
 import { useCallback, useEffect, useMemo, useRef, useState, type CSSProperties } from 'react';
-import type { ExplainSlide, TimelineEntry } from '@/content/types';
-import { Counter, DTitle, Rich, Sources, Shape, pad } from './ui';
+import type { ExplainSlide } from '@/content/types';
+import { Counter, DTitle, Rich, Sources, pad } from './ui';
 import GeometryCanvas from './GeometryCanvas';
 import { fmtDate } from '@/lib/format';
 
 type DeckSlide =
   | { kind: 'cover' }
   | { kind: 'explain'; data: ExplainSlide }
-  | { kind: 'divider' }
-  | { kind: 'event'; data: TimelineEntry; n: number }
   | { kind: 'end' };
 
 type DeckProps = {
   slides: ExplainSlide[];
-  timeline: TimelineEntry[];
   updatedAt: string | null;
 };
 
 const d = (ms: number) => ({ '--d': ms }) as CSSProperties;
 
-const upper = (s: string) => s.toUpperCase();
-
-export default function Deck({ slides, timeline, updatedAt }: DeckProps) {
+export default function Deck({ slides, updatedAt }: DeckProps) {
   const list = useMemo<DeckSlide[]>(
     () => [
       { kind: 'cover' },
       ...slides.map((s) => ({ kind: 'explain' as const, data: s })),
-      { kind: 'divider' },
-      ...timeline.map((t, i) => ({ kind: 'event' as const, data: t, n: i + 1 })),
       { kind: 'end' },
     ],
-    [slides, timeline],
+    [slides],
   );
 
   const [index, setIndex] = useState(0);
@@ -97,9 +90,7 @@ export default function Deck({ slides, timeline, updatedAt }: DeckProps) {
       ? 'Portada'
       : current.kind === 'explain'
         ? current.data.kicker
-        : current.kind === 'divider' || current.kind === 'event'
-          ? 'Cronología'
-          : 'Final';
+        : 'Final';
 
   return (
     <section
@@ -131,8 +122,6 @@ export default function Deck({ slides, timeline, updatedAt }: DeckProps) {
             >
               {s.kind === 'cover' && <Cover active={active} updatedAt={updatedAt} next={() => go(1)} />}
               {s.kind === 'explain' && <Explain data={s.data} active={active} />}
-              {s.kind === 'divider' && <Divider active={active} count={timeline.length} />}
-              {s.kind === 'event' && <Event data={s.data} n={s.n} all={timeline} active={active} />}
               {s.kind === 'end' && <End active={active} restart={() => goTo(0)} />}
             </div>
           );
@@ -234,68 +223,16 @@ function Explain({ data, active }: { data: ExplainSlide; active: boolean }) {
   );
 }
 
-function Divider({ active, count }: { active: boolean; count: number }) {
-  return (
-    <div className="divider">
-      <p className="eyebrow rv" style={d(50)}>
-        <span className="lbar">07 · Paso a paso</span>
-      </p>
-      <DTitle lines={['La cro-', 'no-lo-', 'gía']} size="xl" active={active} swash />
-      <p className="lead rv" style={d(600)}>
-        {count} hechos, en orden, con la fuente de cada uno. Seguí con <kbd>→</kbd>
-      </p>
-      <div className="divider__shapes rv" style={d(750)} aria-hidden>
-        <Shape kind="circle" />
-        <Shape kind="square" />
-        <Shape kind="triangle" />
-        <Shape kind="plus" />
-      </div>
-    </div>
-  );
-}
-
-function Event({ data, n, all, active }: { data: TimelineEntry; n: number; all: TimelineEntry[]; active: boolean }) {
-  return (
-    <div className="ev">
-      <div className="ev__date">
-        <span className="ev__n rv" style={d(80)}>
-          {pad(n)}
-          <small>/{pad(all.length)}</small>
-        </span>
-        <span className="ev__label rv" style={d(220)}>
-          {data.label}
-        </span>
-      </div>
-      <div className="ev__text">
-        <DTitle lines={[upper(data.title)]} size="ev" active={active} as="h3" />
-        <p className="ev__detail rv" style={d(450)}>
-          {data.detail}
-        </p>
-        <div className="rv" style={d(650)}>
-          <Sources list={data.sources} />
-        </div>
-      </div>
-      <ol className="ev__line" aria-hidden>
-        {all.map((t, i) => (
-          <li key={i} className={i + 1 === n ? 'is-now' : i + 1 < n ? 'is-past' : ''}>
-            <span />
-          </li>
-        ))}
-      </ol>
-    </div>
-  );
-}
-
 function End({ active, restart }: { active: boolean; restart: () => void }) {
   return (
     <div className="end">
-      <DTitle lines={['Se-guí', 'el ca-so']} size="xl" active={active} swash />
+      <DTitle lines={['Se-guí', 'ba-jan-do']} size="xl" active={active} swash />
       <p className="lead rv" style={d(500)}>
-        Los números, la red de vínculos y las noticias que se suman cada hora.
+        Abajo: la cronología paso a paso, los números del caso, la red de vínculos y las noticias que se suman cada hora.
       </p>
       <div className="end__btns rv" style={d(700)}>
-        <a className="bigbtn" href="#infografia">
-          Ver la infografía <span aria-hidden>↓</span>
+        <a className="bigbtn" href="#cronologia">
+          Ver la cronología <span aria-hidden>↓</span>
         </a>
         <a className="bigbtn bigbtn--ink" href="#noticias">
           Noticias en vivo <span aria-hidden>↓</span>

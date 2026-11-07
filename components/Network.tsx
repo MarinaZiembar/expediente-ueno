@@ -1,6 +1,6 @@
 'use client';
 
-import { useMemo, useState, type KeyboardEvent } from 'react';
+import { useMemo, useRef, useState, type KeyboardEvent } from 'react';
 import type { GraphEdge, GraphNode, NodeKind } from '@/content/types';
 import { Shape, useInView } from './ui';
 
@@ -29,6 +29,22 @@ function twoLines(name: string): [string, string?] {
 export default function Network({ nodes, edges }: { nodes: GraphNode[]; edges: GraphEdge[] }) {
   const [sel, setSel] = useState<string>('ueno');
   const [ref, inView] = useInView<HTMLDivElement>(0.25);
+  const panel = useRef<HTMLElement>(null);
+
+  /** Elegir una ficha y, si la descripción no se ve completa, bajar hasta ella. */
+  const choose = (id: string) => {
+    setSel(id);
+    requestAnimationFrame(() => {
+      const el = panel.current;
+      if (!el) return;
+      const r = el.getBoundingClientRect();
+      const nav = 72;
+      if (r.top < nav || r.top > window.innerHeight * 0.45) {
+        const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        window.scrollTo({ top: r.top + window.scrollY - nav - 12, behavior: reduced ? 'auto' : 'smooth' });
+      }
+    });
+  };
   const byId = useMemo(() => new Map(nodes.map((n) => [n.id, n])), [nodes]);
   const selected = byId.get(sel);
   const rels = edges.filter((e) => e.from === sel || e.to === sel);
@@ -37,7 +53,7 @@ export default function Network({ nodes, edges }: { nodes: GraphNode[]; edges: G
   const onKey = (e: KeyboardEvent, id: string) => {
     if (e.key === 'Enter' || e.key === ' ') {
       e.preventDefault();
-      setSel(id);
+      choose(id);
     }
   };
 
@@ -79,7 +95,7 @@ export default function Network({ nodes, edges }: { nodes: GraphNode[]; edges: G
                 tabIndex={0}
                 aria-pressed={isSel}
                 aria-label={`${n.name}, ${KIND_LABEL[n.kind]}`}
-                onClick={() => setSel(n.id)}
+                onClick={() => choose(n.id)}
                 onPointerEnter={(e) => e.pointerType === 'mouse' && setSel(n.id)}
                 onKeyDown={(e) => onKey(e, n.id)}
               >
@@ -115,7 +131,7 @@ export default function Network({ nodes, edges }: { nodes: GraphNode[]; edges: G
         </ul>
       </div>
 
-      <aside className="net__panel" aria-live="polite">
+      <aside className="net__panel" aria-live="polite" ref={panel} tabIndex={-1}>
         {selected && (
           <>
             <span className="lbar">{KIND_LABEL[selected.kind]}</span>

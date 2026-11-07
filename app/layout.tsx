@@ -1,11 +1,11 @@
 import type { Metadata, Viewport } from 'next';
 import type { ReactNode } from 'react';
-import { Josefin_Sans, League_Spartan } from 'next/font/google';
+import { Josefin_Sans, Montserrat } from 'next/font/google';
 import './globals.css';
 
-const display = League_Spartan({
+const display = Montserrat({
   subsets: ['latin'],
-  weight: ['400', '600', '700', '800', '900'],
+  weight: ['500', '600', '700', '800', '900'],
   variable: '--font-display',
   display: 'swap',
 });
