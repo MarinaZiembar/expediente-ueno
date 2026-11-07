@@ -11,6 +11,12 @@ export const metadata: Metadata = {
   title: 'Expediente ueno — investigación abierta',
   description:
     'Recorrido interactivo en 3D por la información pública sobre el cierre de ueno bank y sus consecuencias en Paraguay. Archivo de prensa actualizado cada hora.',
+  robots: {
+    index: false,
+    follow: false,
+    nocache: true,
+    googleBot: { index: false, follow: false, noimageindex: true },
+  },
 };
 
 export const viewport: Viewport = { themeColor: '#0d0c0b' };

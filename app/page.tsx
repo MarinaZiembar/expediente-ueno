@@ -20,7 +20,7 @@ export default function Page() {
   return (
     <>
       <MuseumLoader data={data} />
-      {/* Versión en texto para buscadores y lectores de pantalla */}
+      {/* Versión en texto para lectores de pantalla */}
       <section className="sr-only" aria-label="Cronología del caso">
         <h1>Expediente ueno</h1>
         <ol>
