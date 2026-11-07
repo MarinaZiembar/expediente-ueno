@@ -16,7 +16,7 @@
   --ease: cubic-bezier(0.19, 1, 0.22, 1);
   --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
   /* textura gastada para los títulos (ruido → huecos en la tinta) */
-  --grunge: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.55' numOctaves='3' seed='7' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -12 7.2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  --grunge: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.32' numOctaves='4' seed='7' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -18 12.4'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
   /* grano de papel */
   --noise: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E");
 }
@@ -190,8 +190,8 @@ button:hover .roll__inner { transform: translateY(-50%); }
 .w {
   display: inline-block;
   overflow: hidden;
-  padding: 0.06em 0.02em 0.02em;
-  margin: -0.06em -0.02em -0.02em;
+  padding: 0.18em 0.02em 0.02em;
+  margin: -0.18em -0.02em -0.02em;
   vertical-align: top;
 }
 .ch {
@@ -810,7 +810,7 @@ button:hover .roll__inner { transform: translateY(-50%); }
 .pbox--l { grid-column: span 6; }
 .pbox--m,
 .pbox--s { grid-column: span 3; }
-.pbox .num { font-size: clamp(40px, 4.6vw, 76px); }
+.pbox .num { font-size: clamp(34px, 3.5vw, 60px); }
 .pbox--xl .num { font-size: clamp(80px, 12vw, 200px); }
 .pbox--l .num { font-size: clamp(56px, 7vw, 116px); }
 .pbox--lime { background: var(--lime); }
@@ -1082,6 +1082,22 @@ button:hover .roll__inner { transform: translateY(-50%); }
   .pbox--l { grid-column: span 2; grid-row: auto; }
   .pbox--m,
   .pbox--s { grid-column: span 1; min-height: 150px; }
+  .pbox--m .num,
+  .pbox--s .num { font-size: clamp(28px, 7.5vw, 52px); }
+  .pbox--xl .num { font-size: 26vw; }
+  .pbox--l .num { font-size: 15vw; }
+  .pbox__label { font-size: 11px; }
+  .net__board { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .net__svg { min-width: 760px; }
+  .net__board::after {
+    content: '← deslizá para ver toda la red →';
+    display: block;
+    margin-top: 8px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
 }
 
 @media (max-width: 760px) {
@@ -1108,6 +1124,8 @@ button:hover .roll__inner { transform: translateY(-50%); }
   .nav__links a { padding: 14px 0 10px; font-size: 16px; border-bottom: 1.5px solid var(--ink); }
   .nav__links a::after { display: none; }
   .nav__links a.is-active { background: var(--lime); padding-left: 8px; }
+  .dtitle--xl { font-size: 20vw; }
+  .dtitle--lg { font-size: 14vw; }
   .deck__chapter { display: none; }
   .deck__bar { height: 72px; }
   .slide { padding-bottom: calc(72px + 18px); }
