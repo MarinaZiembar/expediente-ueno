@@ -1238,7 +1238,7 @@ button:hover .roll__inner { transform: translateY(-50%); }
   .nav__links a { padding: 14px 0 10px; font-size: 16px; border-bottom: 1.5px solid var(--ink); }
   .nav__links a::after { display: none; }
   .nav__links a.is-active { background: var(--lime); padding-left: 8px; }
-  .dtitle--xl { font-size: 15.5vw; }
+  .dtitle--xl { font-size: 13.5vw; }
   .dtitle--lg { font-size: 12vw; }
   .hs__item { grid-template-columns: minmax(0, 1fr); align-content: start; gap: 14px; box-shadow: 6px 6px 0 var(--ink); }
   .hs__item:nth-child(even) { box-shadow: 6px 6px 0 var(--lime); }
