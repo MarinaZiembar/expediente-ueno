@@ -3,7 +3,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState, type CSSProperties } from 'react';
 import type { ExplainSlide } from '@/content/types';
 import { Counter, DTitle, Rich, Sources, pad } from './ui';
-import GeometryCanvas from './GeometryCanvas';
 import { fmtDate } from '@/lib/format';
 
 type DeckSlide =
@@ -155,7 +154,6 @@ export default function Deck({ slides, updatedAt }: DeckProps) {
 function Cover({ active, updatedAt, next }: { active: boolean; updatedAt: string | null; next: () => void }) {
   return (
     <>
-      <GeometryCanvas className="cover__canvas" paused={!active} />
       <div className="cover">
         <div className="cover__head">
           <p className="eyebrow rv" style={d(100)}>
