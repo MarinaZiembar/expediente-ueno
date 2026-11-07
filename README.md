@@ -1,6 +1,6 @@
 # Expediente ueno
 
-Recorrido interactivo en 3D (Next.js + React Three Fiber) por la información pública sobre el cierre de ueno bank. Estética de expediente / sala de evidencia. Todo gratis: Vercel Hobby + GitHub Actions.
+Presentación interactiva que explica en lenguaje simple el cierre de ueno bank, con infografía, red de vínculos y noticias que se actualizan cada hora. Estética de póster/infografía impresa (papel, negro y verde lima). Next.js, sin dependencias extra. Todo gratis: Vercel Hobby + GitHub Actions.
 
 ## Cómo funciona
 
@@ -13,17 +13,12 @@ GitHub Actions (cada hora)
 
 No hay base de datos ni API keys. El historial de prensa queda versionado en git.
 
-## Recorrido
+## Secciones
 
-| Tecla | Acción |
-|---|---|
-| ← → / A D | moverse entre secciones |
-| 1–6 | saltar a una sección |
-| Enter / E | abrir el expediente de la sección |
-| Esc | cerrar |
-| P | modo pixel |
-
-En celular: deslizar o usar los botones de abajo.
+1. **Presentación** (pantalla completa): diapositivas que se pasan con ← → (o deslizando). Explicación simple + cronología, una diapositiva por hecho.
+2. **Infografía**: cifras con su fuente y red de vínculos interactiva.
+3. **Noticias en vivo**: titulares que se suman cada hora, con buscador y filtro por medio. Debajo, los posteos de redes cargados a mano.
+4. **Lo que sabemos los empleados**: entradas cargadas a mano.
 
 ## Qué editar a mano
 
@@ -31,6 +26,7 @@ En celular: deslizar o usar los botones de abajo.
 |---|---|
 | `content/empleados.ts` | Sección "Lo que sabemos los empleados" |
 | `content/posts.ts` | Posteos de Instagram u otras redes |
+| `content/slides.ts` | Diapositivas explicativas y cifras de la infografía |
 | `content/timeline.ts` | Cronología (cada hecho con su fuente) |
 | `content/graph.ts` | Red de vínculos y estados de cada persona/entidad |
 | `content/meta.ts` | Aviso legal y créditos |

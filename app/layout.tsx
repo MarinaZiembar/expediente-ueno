@@ -1,16 +1,25 @@
 import type { Metadata, Viewport } from 'next';
 import type { ReactNode } from 'react';
-import { IBM_Plex_Mono, Libre_Caslon_Text, Special_Elite } from 'next/font/google';
+import { Josefin_Sans, League_Spartan } from 'next/font/google';
 import './globals.css';
 
-const typewriter = Special_Elite({ weight: '400', subsets: ['latin'], variable: '--font-type', display: 'swap' });
-const mono = IBM_Plex_Mono({ weight: ['400', '600'], subsets: ['latin'], variable: '--font-mono', display: 'swap' });
-const serif = Libre_Caslon_Text({ weight: ['400', '700'], subsets: ['latin'], variable: '--font-serif', display: 'swap' });
+const display = League_Spartan({
+  subsets: ['latin'],
+  weight: ['400', '600', '700', '800', '900'],
+  variable: '--font-display',
+  display: 'swap',
+});
+const body = Josefin_Sans({
+  subsets: ['latin'],
+  weight: ['300', '400', '600', '700'],
+  variable: '--font-body',
+  display: 'swap',
+});
 
 export const metadata: Metadata = {
-  title: 'Expediente ueno — investigación abierta',
+  title: 'El caso ueno — explicado simple',
   description:
-    'Recorrido interactivo en 3D por la información pública sobre el cierre de ueno bank y sus consecuencias en Paraguay. Archivo de prensa actualizado cada hora.',
+    'Qué pasó con ueno bank y por qué la crisis llegó al presidente de Paraguay: presentación, infografía y noticias actualizadas cada hora.',
   robots: {
     index: false,
     follow: false,
@@ -19,12 +28,12 @@ export const metadata: Metadata = {
   },
 };
 
-export const viewport: Viewport = { themeColor: '#0d0c0b' };
+export const viewport: Viewport = { themeColor: '#f1f0ec' };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="es">
-      <body className={`${typewriter.variable} ${mono.variable} ${serif.variable}`}>{children}</body>
+      <body className={`${display.variable} ${body.variable}`}>{children}</body>
     </html>
   );
 }

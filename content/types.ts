@@ -68,6 +68,33 @@ export type EmployeeNote = {
   source?: Source;
 };
 
+/** Cifra grande. Si tiene `value`, se anima contando; si no, se muestra `text`. */
+export type Stat = {
+  label: string;
+  value?: number;
+  decimals?: number;
+  prefix?: string;
+  suffix?: string;
+  text?: string;
+};
+
+export type ExplainSlide = {
+  kicker: string;
+  /** Cada string es una línea del título; los guiones cortan como en un póster. */
+  title: string[];
+  /** Párrafos. Envolvé palabras entre **dobles asteriscos** para resaltarlas. */
+  body: string[];
+  stat?: Stat;
+  terms?: { term: string; def: string }[];
+  sources: Source[];
+};
+
+export type InfoStat = Stat & {
+  source: Source;
+  size: 'xl' | 'l' | 'm' | 's';
+  tone?: 'lime' | 'outline' | 'ink';
+};
+
 export type Dataset = {
   timeline: TimelineEntry[];
   nodes: GraphNode[];
