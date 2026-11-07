@@ -1250,6 +1250,9 @@ button:hover .roll__inner { transform: translateY(-50%); }
   .hs__bar { height: 64px; }
   .hs__track { padding-bottom: 64px; }
   .net__panel { position: static; max-height: none; }
+  .chips { flex-wrap: nowrap; overflow-x: auto; margin: 0 calc(-1 * var(--gut)); padding: 0 var(--gut) 4px; scrollbar-width: none; }
+  .chips::-webkit-scrollbar { display: none; }
+  .chip { flex: none; }
   .ncard { flex-basis: 80vw; }
   .ncard a { min-height: 280px; }
   .carousel__count { display: none; }
