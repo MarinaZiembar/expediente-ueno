@@ -24,7 +24,7 @@ export default function Page() {
         <Timeline items={timeline} />
         <Infographic stats={infoStats} nodes={nodes} edges={edges} />
         <News news={news} posts={posts} />
-        <Employees notes={notes} />
+        <Employees notes={notes} news={news.items} />
       </main>
       <Footer />
       <Cursor />

@@ -1,10 +1,15 @@
 'use client';
 
-import type { EmployeeNote, NoteStatus, Region } from '@/content/types';
+import { useMemo, useRef, useState, type KeyboardEvent } from 'react';
+import type { EmployeeNote, NewsItem, NoteStatus, Region } from '@/content/types';
 import { DTitle, Reveal } from './ui';
 import { fmtDate } from '@/lib/format';
 
-const REGIONS: Region[] = ['Paraguay', 'Argentina', 'Otros países'];
+const REGIONS: { id: Region; flag: string }[] = [
+  { id: 'Paraguay', flag: 'PY' },
+  { id: 'Argentina', flag: 'AR' },
+  { id: 'Otros países', flag: '+' },
+];
 
 const STATUS_LABEL: Record<NoteStatus, string> = {
   oficial: 'Comunicado oficial',
@@ -14,56 +19,129 @@ const STATUS_LABEL: Record<NoteStatus, string> = {
   'sin confirmar': 'Sin confirmar',
 };
 
-export default function Employees({ notes }: { notes: EmployeeNote[] }) {
+/** Palabras para encontrar titulares del archivo de prensa relacionados con cada país. */
+const strip = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+const WORK = /(trabajador|emplead|funcionari|despid|suspend|sueldo|salari|liquidaci|ministerio de trabajo)/;
+const MATCH: Record<Region, (t: string) => boolean> = {
+  Paraguay: (t) => WORK.test(t) && !/(argentin|kaitel|urugua|colombi)/.test(t),
+  Argentina: (t) => /(argentin|kaitel|buenos aires)/.test(t),
+  'Otros países': (t) => /(urugua|colombi|brasil|chile|peru|bolivia)/.test(t),
+};
+
+function NoteCard({ n }: { n: EmployeeNote }) {
+  const [open, setOpen] = useState(false);
+  const id = `note-${n.id}`;
+  return (
+    <li className={`note ${open ? 'is-open' : ''}`}>
+      <h4 className="note__title">{n.title}</h4>
+      <div className="note__more" id={id} hidden={!open}>
+        <div className="note__top">
+          <span className="note__date">{n.dateLabel ?? fmtDate(n.date)}</span>
+          <span className={`status status--${n.status.replace(' ', '-')}`}>{STATUS_LABEL[n.status]}</span>
+        </div>
+        <p>{n.body}</p>
+        {n.source && (
+          <a className="note__src" href={n.source.url} target="_blank" rel="noopener noreferrer">
+            Ir a la fuente: {n.source.name} ↗
+          </a>
+        )}
+      </div>
+      <button className="note__toggle" onClick={() => setOpen((o) => !o)} aria-expanded={open} aria-controls={id}>
+        {open ? 'Ver menos' : 'Ver más'} <span aria-hidden>{open ? '−' : '+'}</span>
+      </button>
+    </li>
+  );
+}
+
+export default function Employees({ notes, news }: { notes: EmployeeNote[]; news: NewsItem[] }) {
+  const [region, setRegion] = useState<Region>('Paraguay');
+  const tabs = useRef<(HTMLButtonElement | null)[]>([]);
+
+  const list = notes.filter((n) => n.region === region);
+  const related = useMemo(() => news.filter((n) => MATCH[region](strip(n.title))).slice(0, 6), [news, region]);
+
+  const onKey = (e: KeyboardEvent, i: number) => {
+    const delta = e.key === 'ArrowRight' ? 1 : e.key === 'ArrowLeft' ? -1 : 0;
+    if (!delta) return;
+    e.preventDefault();
+    const next = (i + delta + REGIONS.length) % REGIONS.length;
+    setRegion(REGIONS[next].id);
+    tabs.current[next]?.focus();
+  };
+
   return (
     <section id="empleados" className="sec">
       <header className="sec__head">
         <DTitle lines={['¿Cuál es nuestra', 'situación?']} size="lg" swash />
         <Reveal className="sec__lead" delay={200}>
-          <p>
-            Qué les pasó a los trabajadores del grupo, país por país. Cada dato indica si viene de un comunicado oficial,
-            de la prensa o del testimonio de un trabajador, y enlaza a su fuente.
-          </p>
+          <p>Qué les pasó a los trabajadores del grupo. Elegí un país y tocá “Ver más” en cada tarjeta para leer el detalle y la fuente.</p>
         </Reveal>
       </header>
 
-      {notes.length === 0 ? (
-        <Reveal>
-          <p className="empty">Sin actualizaciones publicadas todavía.</p>
-        </Reveal>
-      ) : (
-        REGIONS.map((region) => {
-          const list = notes.filter((n) => n.region === region);
-          if (list.length === 0) return null;
+      <div className="tabs" role="tablist" aria-label="País">
+        {REGIONS.map((r, i) => {
+          const count = notes.filter((n) => n.region === r.id).length;
+          const on = r.id === region;
           return (
-            <div className="region" key={region}>
-              <Reveal variant="mask">
-                <h3 className="region__title">
-                  <span className="lbar lbar--lg">{region}</span>
-                  <small>{list.length} {list.length === 1 ? 'dato' : 'datos'}</small>
-                </h3>
-              </Reveal>
-              <ol className="notes">
-                {list.map((n, i) => (
-                  <Reveal as="li" key={n.id} className="note" delay={(i % 3) * 100}>
-                    <div className="note__top">
-                      <span className="note__date">{n.dateLabel ?? fmtDate(n.date)}</span>
-                      <span className={`status status--${n.status.replace(' ', '-')}`}>{STATUS_LABEL[n.status]}</span>
-                    </div>
-                    <h4 className="note__title">{n.title}</h4>
-                    <p>{n.body}</p>
-                    {n.source && (
-                      <a className="note__src" href={n.source.url} target="_blank" rel="noopener noreferrer">
-                        Fuente: {n.source.name}
-                      </a>
-                    )}
-                  </Reveal>
-                ))}
-              </ol>
-            </div>
+            <button
+              key={r.id}
+              ref={(el) => {
+                tabs.current[i] = el;
+              }}
+              role="tab"
+              id={`tab-${i}`}
+              aria-selected={on}
+              aria-controls="region-panel"
+              tabIndex={on ? 0 : -1}
+              className={`tab ${on ? 'is-on' : ''}`}
+              onClick={() => setRegion(r.id)}
+              onKeyDown={(e) => onKey(e, i)}
+            >
+              <span className="tab__flag" aria-hidden>
+                {r.flag}
+              </span>
+              <span className="tab__name">{r.id}</span>
+              <span className="tab__count">{count}</span>
+            </button>
           );
-        })
-      )}
+        })}
+      </div>
+
+      <div
+        id="region-panel"
+        role="tabpanel"
+        aria-labelledby={`tab-${REGIONS.findIndex((r) => r.id === region)}`}
+        className="region"
+        key={region}
+      >
+        {list.length === 0 ? (
+          <p className="empty">Todavía no hay datos cargados para {region}.</p>
+        ) : (
+          <ol className="notes">
+            {list.map((n) => (
+              <NoteCard key={n.id} n={n} />
+            ))}
+          </ol>
+        )}
+
+        {related.length > 0 && (
+          <div className="related">
+            <h4 className="related__title">Noticias relacionadas</h4>
+            <ul className="related__list">
+              {related.map((n) => (
+                <li key={n.id}>
+                  <a href={n.url} target="_blank" rel="noopener noreferrer">
+                    <span>{n.title}</span>
+                    <small>
+                      {n.source} · {fmtDate(n.publishedAt)} ↗
+                    </small>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </div>
     </section>
   );
 }

@@ -115,13 +115,10 @@ export default function News({ news, posts }: { news: NewsFile; posts: SocialPos
             {cards.map((n, i) => (
               <li key={n.id} className={`ncard ncard--${i % 7 === 0 ? 'lime' : i % 5 === 3 ? 'ink' : 'plain'}`}>
                 <a href={n.url} target="_blank" rel="noopener noreferrer" data-cursor="leer">
-                  <span className="ncard__top">
-                    <span className="ncard__src">{n.source}</span>
-                    <span className="ncard__date">{fmtDate(n.publishedAt, true)}</span>
-                  </span>
                   <span className="ncard__title">{n.title}</span>
                   <span className="ncard__foot">
-                    Leer nota <span aria-hidden>↗</span>
+                    Ver más <span aria-hidden>↗</span>
+                    <small>{n.source}</small>
                   </span>
                 </a>
               </li>
