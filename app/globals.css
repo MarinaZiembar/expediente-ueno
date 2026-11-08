@@ -1582,6 +1582,37 @@ button:hover .roll__inner { transform: translateY(-50%); }
 .footer__me { font-weight: 800; text-decoration: none; background: var(--lime); padding: 2px 6px 0; }
 .footer__me:hover { background: var(--ink); color: var(--lime); }
 .footer { padding: 36px var(--gut) 40px; }
+.footer__legal {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+.footer__legal:hover,
+.footer__legal:focus-visible { background: var(--lime); }
+.fmodal__box--wide { width: min(760px, 100%); }
+.legal { display: grid; gap: 22px; padding: 22px; }
+.legal__sec h4 {
+  margin: 0 0 8px;
+  font-family: var(--font-display), sans-serif;
+  font-size: 17px;
+  font-weight: 900;
+  text-transform: uppercase;
+  line-height: 1.15;
+}
+.legal__sec h4 span { display: inline-block; margin-right: 6px; padding: 1px 6px 0; background: var(--ink); color: var(--lime); font-size: 13px; vertical-align: 2px; }
+.legal__sec p { margin: 0 0 10px; font-size: 15px; line-height: 1.55; }
+.legal__sec p:last-child { margin-bottom: 0; }
+.legal__sec a { font-weight: 700; background: var(--lime); padding: 0 4px; color: var(--ink); text-decoration: none; }
+.legal__date { margin: 0; font-size: 12px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); }
+.legal .bigbtn { justify-self: start; }
 .footer__disc { max-width: 90ch; margin: 0 0 22px; font-size: 13px; line-height: 1.5; color: var(--ink-2); }
 .footer__line {
   display: flex;

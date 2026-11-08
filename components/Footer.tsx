@@ -1,4 +1,5 @@
 import { CREDITS, DISCLAIMER } from '@/content/meta';
+import Legal from './Legal';
 
 export default function Footer() {
   return (
@@ -17,6 +18,8 @@ export default function Footer() {
         </span>
         <span aria-hidden>●</span>
         <span>Noviembre 2026</span>
+        <span aria-hidden>●</span>
+        <Legal />
       </div>
     </footer>
   );
