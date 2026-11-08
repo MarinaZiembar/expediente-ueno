@@ -6,9 +6,9 @@ import { RollText } from './ui';
 const LINKS = [
   { href: '#presentacion', label: 'Qué pasó' },
   { href: '#cronologia', label: 'Cronología' },
-  { href: '#infografia', label: 'Infografía' },
+  { href: '#infografia', label: 'Datos clave' },
   { href: '#noticias', label: 'Noticias' },
-  { href: '#empleados', label: 'Empleados' },
+  { href: '#empleados', label: 'Nuestra situación' },
 ];
 
 export default function Nav() {

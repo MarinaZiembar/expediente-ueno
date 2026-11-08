@@ -126,7 +126,7 @@ export default function Timeline({ items }: { items: TimelineEntry[] }) {
             <p className="eyebrow rv" style={d(50)}>
               <span className="lbar">Paso a paso</span>
             </p>
-            <DTitle lines={['La cro-', 'no-lo-', 'gía']} size="lg" active={introIn} swash />
+            <DTitle lines={['Cronología']} size="lg" active={introIn} swash />
             <p className="lead rv" style={d(500)}>
               {items.length} hechos, en orden, con la fuente de cada uno.
             </p>

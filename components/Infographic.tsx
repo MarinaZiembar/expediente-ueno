@@ -25,7 +25,7 @@ export default function Infographic({ stats, nodes, edges }: { stats: InfoStat[]
   return (
     <section id="infografia" className="sec">
       <header className="sec__head">
-        <DTitle lines={['In-fo-', 'gra-fía']} size="lg" swash />
+        <DTitle lines={['Datos', 'clave']} size="lg" swash />
         <Reveal className="sec__lead" delay={200}>
           <p>Las cifras del caso y quién está conectado con quién. Cada dato enlaza a la nota de donde sale.</p>
         </Reveal>

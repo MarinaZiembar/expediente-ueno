@@ -56,12 +56,24 @@ export type SocialPost = {
   image?: string;
 };
 
-export type NoteStatus = 'confirmado' | 'sin confirmar' | 'en curso';
+/**
+ * Tipo de dato:
+ * - oficial: comunicado de la empresa o de un organismo
+ * - prensa: informado por medios
+ * - testimonio: relato de un trabajador publicado en un medio
+ * - en curso / sin confirmar: para cargas propias
+ */
+export type NoteStatus = 'oficial' | 'prensa' | 'testimonio' | 'en curso' | 'sin confirmar';
+
+export type Region = 'Paraguay' | 'Argentina' | 'Otros países';
 
 export type EmployeeNote = {
   id: string;
-  /** ISO, p. ej. "2026-11-07" */
+  region: Region;
+  /** ISO, p. ej. "2026-11-07" (se usa para ordenar) */
   date: string;
+  /** Texto de fecha opcional cuando no hay día exacto, p. ej. "Ago 2025" */
+  dateLabel?: string;
   title: string;
   status: NoteStatus;
   body: string;
@@ -80,7 +92,7 @@ export type Stat = {
 
 export type ExplainSlide = {
   kicker: string;
-  /** Cada string es una línea del título; los guiones cortan como en un póster. */
+  /** Cada string es una línea del título. */
   title: string[];
   /** Párrafos. Envolvé palabras entre **dobles asteriscos** para resaltarlas. */
   body: string[];

@@ -8,7 +8,7 @@ import { SRC } from './timeline';
 export const slides: ExplainSlide[] = [
   {
     kicker: '01 · El banco',
-    title: ['¿Qué es', 'ue-no?'],
+    title: ['¿Qué es', 'ueno?'],
     body: [
       'ueno es un **banco digital** paraguayo. Nació en 2021, cuando el Grupo Vázquez compró Financiera El Comercio.',
       'Creció muy rápido: llegó a tener unos **2,9 millones de clientes**.',
@@ -18,7 +18,7 @@ export const slides: ExplainSlide[] = [
   },
   {
     kicker: '02 · El cierre',
-    title: ['¿Qué', 'pa-só?'],
+    title: ['¿Qué', 'pasó?'],
     body: [
       'El martes 3 de noviembre de 2026, a las 3:24 de la madrugada, el **Banco Central del Paraguay** anunció el cierre de ueno.',
       'El motivo que dio: **falta de solvencia**.',
@@ -29,7 +29,7 @@ export const slides: ExplainSlide[] = [
   },
   {
     kicker: '03 · Los ahorros',
-    title: ['¿Y la', 'pla-ta?'],
+    title: ['¿Y la', 'plata?'],
     body: [
       'Desde el cierre, los clientes **no pueden usar el dinero** que tenían depositado.',
       'El Congreso aprobó una **ley de emergencia**, promulgada el 4 de noviembre, para acelerar la devolución de los depósitos.',
@@ -40,7 +40,7 @@ export const slides: ExplainSlide[] = [
   },
   {
     kicker: '04 · El vínculo político',
-    title: ['¿Por qué', 'Pe-ña?'],
+    title: ['¿Por qué', 'Peña?'],
     body: [
       'Santiago Peña, entonces presidente, fue **accionista de ueno Holding**, la sociedad matriz del banco, hasta marzo de 2025.',
       'En 2023 designó al frente del Banco Central, el organismo que controla a los bancos, a **Carlos Carvallo**, que había presidido Financiera Ueno.',
@@ -51,7 +51,7 @@ export const slides: ExplainSlide[] = [
   },
   {
     kicker: '05 · La Justicia',
-    title: ['¿Qué hi-zo la', 'Jus-ti-cia?'],
+    title: ['¿Qué hizo la', 'Justicia?'],
     body: [
       'La Policía detuvo a **ocho directivos**, entre ellos Miguel Vázquez, presidente del Grupo Vázquez.',
       'La Fiscalía **imputó a 27 personas** del grupo. Investiga créditos por US$ 146 millones otorgados a tres empresas vinculadas.',
@@ -63,7 +63,7 @@ export const slides: ExplainSlide[] = [
   },
   {
     kicker: '06 · El Gobierno',
-    title: ['¿Qué pa-só', 'con Pe-ña?'],
+    title: ['¿Qué pasó', 'con Peña?'],
     body: [
       'El 5 de noviembre, después de que Horacio Cartes le retirara su apoyo, Peña **anunció su renuncia**.',
       'Según CNN, el Senado aprobó su **destitución por juicio político** con 44 de 45 votos.',

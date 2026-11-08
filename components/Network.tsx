@@ -62,7 +62,10 @@ export default function Network({ nodes, edges }: { nodes: GraphNode[]; edges: G
       <div className="net__board">
         <svg viewBox={`0 0 ${W} ${H}`} className="net__svg" role="img" aria-label="Red de vínculos entre personas, empresas e instituciones">
           <g className="net__edges">
-            {edges.map((e, i) => {
+            {/* las conexiones activas se dibujan al final para quedar por encima de las otras líneas */}
+            {[...edges]
+              .sort((a, b) => Number(a.from === sel || a.to === sel) - Number(b.from === sel || b.to === sel))
+              .map((e, i) => {
               const a = byId.get(e.from);
               const b = byId.get(e.to);
               if (!a || !b) return null;
@@ -72,7 +75,7 @@ export default function Network({ nodes, edges }: { nodes: GraphNode[]; edges: G
               const x2 = X(b.pos[0]);
               const y2 = Y(b.pos[1]);
               return (
-                <g key={i} className={`edge ${on ? 'is-on' : ''}`} style={{ transitionDelay: `${i * 40}ms` }}>
+                <g key={`${e.from}-${e.to}`} className={`edge ${on ? 'is-on' : ''}`} style={{ transitionDelay: `${i * 40}ms` }}>
                   <line className="edge__hl" x1={x1} y1={y1} x2={x2} y2={y2} />
                   <line className="edge__ink" x1={x1} y1={y1} x2={x2} y2={y2} pathLength={1} />
                 </g>

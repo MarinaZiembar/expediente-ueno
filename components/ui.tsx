@@ -87,7 +87,7 @@ function Split({ text, offset = 0 }: { text: string; offset?: number }) {
 }
 
 /**
- * Título tipo póster: mayúsculas enormes, textura gastada, una línea por string.
+ * Título tipo póster: mayúsculas grandes, una línea por string.
  * Si `active` es undefined, se anima solo al entrar en pantalla.
  */
 export function DTitle({
@@ -107,7 +107,7 @@ export function DTitle({
   const on = active ?? inView;
   const Tag = as as ElementType;
   return (
-    <Tag ref={ref} className={`dtitle dtitle--${size} ${on ? 'is-on' : ''}`} aria-label={lines.join(' ').replace(/-/g, '')}>
+    <Tag ref={ref} className={`dtitle dtitle--${size} ${on ? 'is-on' : ''}`} aria-label={lines.join(' ')}>
       {swash && <span className="swash swash--a" aria-hidden />}
       {swash && <span className="swash swash--b" aria-hidden />}
       {lines.map((l, li) => (

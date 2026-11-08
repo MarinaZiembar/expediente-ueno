@@ -65,7 +65,7 @@ export default function News({ news, posts }: { news: NewsFile; posts: SocialPos
   return (
     <section id="noticias" className="sec sec--news">
       <header className="sec__head">
-        <DTitle lines={['No-ti-cias', 'en vi-vo']} size="lg" swash />
+        <DTitle lines={['Noticias', 'en vivo']} size="lg" swash />
         <Reveal className="sec__lead" delay={200}>
           <p className="live">
             <span className="live__dot" aria-hidden />

@@ -1,7 +1,10 @@
 const TZ = 'America/Asuncion';
 
+/** Fecha sin hora ("2026-11-03"): se toma al mediodía UTC para que no cambie de día por el huso horario. */
+const parse = (iso: string) => new Date(/^\d{4}-\d{2}-\d{2}$/.test(iso) ? `${iso}T12:00:00Z` : iso);
+
 export function fmtDate(iso: string, withTime = false): string {
-  const d = new Date(iso);
+  const d = parse(iso);
   if (Number.isNaN(d.getTime())) return iso;
   return new Intl.DateTimeFormat('es-AR', {
     timeZone: TZ,
@@ -12,7 +15,7 @@ export function fmtDate(iso: string, withTime = false): string {
 }
 
 export function dayKey(iso: string): string {
-  const d = new Date(iso);
+  const d = parse(iso);
   if (Number.isNaN(d.getTime())) return 'Sin fecha';
   return new Intl.DateTimeFormat('es-AR', {
     timeZone: TZ,
