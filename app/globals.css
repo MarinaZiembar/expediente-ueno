@@ -500,6 +500,16 @@ button:hover .roll__inner { transform: translateY(-50%); }
 
 .deck__btns { display: flex; gap: 8px; }
 
+/* Portada */
+.cover {
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(260px, 1fr);
+  align-items: end;
+  gap: clamp(20px, 4vw, 64px);
+}
+.cover__side { max-width: 480px; padding-bottom: 1vh; }
+.cover__side .bigbtn { margin-top: 10px; }
+
 /* Explicativas */
 .ex {
   display: grid;
