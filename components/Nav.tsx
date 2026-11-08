@@ -8,6 +8,7 @@ const LINKS = [
   { href: '#cronologia', label: 'Cronología' },
   { href: '#infografia', label: 'Datos clave' },
   { href: '#noticias', label: 'Noticias' },
+  { href: '#videos', label: 'Videos' },
   { href: '#empleados', label: 'Nuestra situación' },
 ];
 

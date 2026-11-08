@@ -10,6 +10,8 @@ import Deck from '@/components/Deck';
 import Timeline from '@/components/Timeline';
 import Infographic from '@/components/Infographic';
 import News from '@/components/News';
+import Videos from '@/components/Videos';
+import { videos } from '@/content/videos';
 import Employees from '@/components/Employees';
 import { relatedByRegion } from '@/lib/related';
 import Footer from '@/components/Footer';
@@ -25,6 +27,7 @@ export default function Page() {
         <Timeline items={timeline} />
         <Infographic stats={infoStats} nodes={nodes} edges={edges} />
         <News news={news} posts={posts} />
+        <Videos videos={videos} />
         <Employees notes={notes} related={relatedByRegion(news.items)} />
       </main>
       <Footer />

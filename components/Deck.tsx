@@ -1,6 +1,6 @@
 'use client';
 
-import type { CSSProperties, ReactNode } from 'react';
+import { useEffect, useRef, type CSSProperties, type ReactNode } from 'react';
 import type { ExplainSlide } from '@/content/types';
 import { Counter, DTitle, Rich, Sources, pad, useInView } from './ui';
 import { fmtDate } from '@/lib/format';
@@ -8,13 +8,56 @@ import { fmtDate } from '@/lib/format';
 const d = (ms: number) => ({ '--d': ms }) as CSSProperties;
 
 /**
- * Presentación vertical: cada diapositiva ocupa la pantalla y, al bajar,
- * la siguiente sube y se apoya sobre la anterior.
+ * Tarjetas apiladas: al bajar, cada tarjeta sube y se apoya sobre la anterior,
+ * que se achica y oscurece un poco para que se vea la pila.
  */
 export default function Deck({ slides, updatedAt }: { slides: ExplainSlide[]; updatedAt: string | null }) {
   const total = slides.length + 1;
+  const deck = useRef<HTMLElement>(null);
+
+  useEffect(() => {
+    const root = deck.current;
+    if (!root) return;
+    const mq = window.matchMedia('(min-width: 901px) and (min-height: 641px)');
+    const reduced = window.matchMedia('(prefers-reduced-motion: reduce)');
+    let raf = 0;
+
+    const update = () => {
+      raf = 0;
+      const cards = Array.from(root.querySelectorAll<HTMLElement>('.slide'));
+      if (!mq.matches || reduced.matches) {
+        cards.forEach((c) => (c.style.transform = c.style.filter = ''));
+        return;
+      }
+      const vh = window.innerHeight;
+      // cuánto avanzó cada tarjeta hacia su lugar en la pila (0 → 1)
+      const prog = cards.map((c) => {
+        const stick = parseFloat(getComputedStyle(c).top) || 0;
+        const top = c.getBoundingClientRect().top;
+        return Math.min(1, Math.max(0, (vh - top) / Math.max(1, vh - stick)));
+      });
+      cards.forEach((c, i) => {
+        let depth = 0;
+        for (let j = i + 1; j < cards.length; j++) depth += prog[j];
+        c.style.transform = depth ? `scale(${1 - Math.min(depth, 4) * 0.035})` : '';
+        c.style.filter = depth ? `brightness(${1 - Math.min(depth, 3) * 0.05})` : '';
+      });
+    };
+    const onScroll = () => {
+      if (!raf) raf = requestAnimationFrame(update);
+    };
+    update();
+    window.addEventListener('scroll', onScroll, { passive: true });
+    window.addEventListener('resize', onScroll);
+    return () => {
+      cancelAnimationFrame(raf);
+      window.removeEventListener('scroll', onScroll);
+      window.removeEventListener('resize', onScroll);
+    };
+  }, []);
+
   return (
-    <section id="presentacion" className="deck" aria-label="Qué pasó">
+    <section id="presentacion" ref={deck} className="deck" aria-label="Qué pasó">
       <Slide n={1} total={total} kind="cover">
         {(active) => <Cover active={active} updatedAt={updatedAt} />}
       </Slide>
@@ -40,7 +83,12 @@ function Slide({
 }) {
   const [ref, active] = useInView<HTMLDivElement>(0.25);
   return (
-    <div ref={ref} id={`slide-${n}`} className={`slide slide--${kind} ${active ? 'is-active' : ''}`}>
+    <div
+      ref={ref}
+      id={`slide-${n}`}
+      className={`slide slide--${kind} ${active ? 'is-active' : ''}`}
+      style={{ '--i': n - 1 } as CSSProperties}
+    >
       <div className="slide__inner">{children(active)}</div>
       <span className="slide__count" aria-hidden>
         {pad(n)} / {pad(total)}
