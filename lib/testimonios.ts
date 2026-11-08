@@ -11,8 +11,13 @@ import { pressTestimonials } from '@/content/testimonios';
  * Variables de entorno (en Vercel → Settings → Environment Variables):
  *   TESTIMONIOS_GITHUB_TOKEN  token "fine-grained" con permiso Issues: Read and write
  *                             sobre el repositorio privado (obligatoria)
+ *   TESTIMONIOS_INVITE        código del link de invitación para empleados (obligatoria).
+ *                             Link: https://expediente-ueno.vercel.app/?invitacion=CÓDIGO
+ *                             Para invalidar el link, cambiá este valor y redeployá.
  *   TESTIMONIOS_REPO          "usuario/repositorio" (opcional, ver valor por defecto)
  */
+
+import { timingSafeEqual } from 'node:crypto';
 
 export type Testimonial = {
   id: string;
@@ -29,6 +34,13 @@ export { COUNTRIES } from './countries';
 
 export const TESTIMONIOS_REPO = process.env.TESTIMONIOS_REPO || 'MarinaZiembar/expediente-ueno-testimonios';
 export const TESTIMONIOS_TOKEN = process.env.TESTIMONIOS_GITHUB_TOKEN || '';
+const INVITE = process.env.TESTIMONIOS_INVITE || '';
+
+/** Compara el código recibido con el de invitación sin filtrar información por tiempos. */
+export function validInvite(code: unknown): boolean {
+  if (!INVITE || typeof code !== 'string' || code.length !== INVITE.length) return false;
+  return timingSafeEqual(Buffer.from(code), Buffer.from(INVITE));
+}
 
 export const ghHeaders = () => ({
   Accept: 'application/vnd.github+json',

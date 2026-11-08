@@ -7,6 +7,45 @@ import { DTitle, Reveal } from './ui';
 import { fmtDate } from '@/lib/format';
 
 const INTERVAL = 6500;
+const STORE_KEY = 'expediente-invitacion';
+
+/**
+ * Lee el código del link de invitación (?invitacion=…), lo valida con el servidor,
+ * lo recuerda en este navegador y lo saca de la barra de direcciones.
+ */
+function useInvite() {
+  const [invite, setInvite] = useState<string | null>(null);
+  useEffect(() => {
+    const url = new URL(window.location.href);
+    let code = url.searchParams.get('invitacion');
+    if (!code) {
+      try {
+        code = window.localStorage.getItem(STORE_KEY);
+      } catch {}
+    }
+    if (!code) return;
+    let cancelled = false;
+    fetch(`/api/testimonios/invitacion?c=${encodeURIComponent(code)}`)
+      .then((r) => r.json() as Promise<{ valid?: boolean }>)
+      .then(({ valid }) => {
+        if (cancelled) return;
+        try {
+          if (valid) window.localStorage.setItem(STORE_KEY, code as string);
+          else window.localStorage.removeItem(STORE_KEY);
+        } catch {}
+        if (valid) setInvite(code);
+        if (url.searchParams.has('invitacion')) {
+          url.searchParams.delete('invitacion');
+          window.history.replaceState(null, '', url.pathname + url.search + url.hash);
+        }
+      })
+      .catch(() => {});
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+  return invite;
+}
 const MAX_TEXT = 2000;
 const MIN_TEXT = 40;
 
@@ -15,6 +54,7 @@ export default function Testimonials({ items }: { items: Testimonial[] }) {
   const [paused, setPaused] = useState(false);
   const [userPaused, setUserPaused] = useState(false);
   const [formOpen, setFormOpen] = useState(false);
+  const invite = useInvite();
   const count = items.length;
 
   const go = useCallback((i: number) => setIndex(((i % count) + count) % count), [count]);
@@ -105,19 +145,23 @@ export default function Testimonials({ items }: { items: Testimonial[] }) {
         </div>
       )}
 
-      <div className="tst__cta">
-        <button className="bigbtn" onClick={() => setFormOpen(true)}>
-          Dejá tu testimonio <span aria-hidden>+</span>
-        </button>
-        <p>Es anónimo y se revisa antes de publicarse.</p>
-      </div>
+      {invite ? (
+        <div className="tst__cta">
+          <button className="bigbtn" onClick={() => setFormOpen(true)}>
+            Dejá tu testimonio <span aria-hidden>+</span>
+          </button>
+          <p>Es anónimo y se revisa antes de publicarse.</p>
+        </div>
+      ) : (
+        <p className="tst__only">Los testimonios los envían trabajadores del grupo con un link de invitación y se revisan antes de publicarse.</p>
+      )}
 
-      {formOpen && <TestimonialForm onClose={() => setFormOpen(false)} />}
+      {formOpen && invite && <TestimonialForm invite={invite} onClose={() => setFormOpen(false)} />}
     </section>
   );
 }
 
-function TestimonialForm({ onClose }: { onClose: () => void }) {
+function TestimonialForm({ invite, onClose }: { invite: string; onClose: () => void }) {
   const [state, setState] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle');
   const [error, setError] = useState('');
   const [text, setText] = useState('');
@@ -152,6 +196,7 @@ function TestimonialForm({ onClose }: { onClose: () => void }) {
           role: f.get('role'),
           text: f.get('text'),
           accepted: f.get('accepted') === 'on',
+          invite,
           website: f.get('website'),
           elapsed: Date.now() - opened.current,
         }),

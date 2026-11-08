@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { COUNTRIES, TESTIMONIOS_REPO, TESTIMONIOS_TOKEN, ghHeaders, issueBody } from '@/lib/testimonios';
+import { COUNTRIES, TESTIMONIOS_REPO, TESTIMONIOS_TOKEN, ghHeaders, issueBody, validInvite } from '@/lib/testimonios';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
@@ -44,6 +44,11 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: 'No pudimos leer el formulario.' }, { status: 400 });
   }
 
+  // solo con el link de invitación para empleados
+  if (!validInvite(data.invite)) {
+    return NextResponse.json({ error: 'Este formulario es solo para trabajadores con el link de invitación.' }, { status: 403 });
+  }
+
   // campo trampa para bots: si viene completo, se descarta sin avisar
   if (typeof data.website === 'string' && data.website.trim()) return NextResponse.json({ ok: true });
   if (typeof data.elapsed !== 'number' || data.elapsed < 4000) {
@@ -68,7 +73,7 @@ export async function POST(req: Request) {
   }
 
   const date = new Date().toISOString().slice(0, 10);
-  const labels = ['pendiente', ...(FLAG.test(`${role} ${text}`) ? ['revisar-lenguaje'] : [])];
+  const labels = ['pendiente', 'via-invitacion', ...(FLAG.test(`${role} ${text}`) ? ['revisar-lenguaje'] : [])];
 
   try {
     const res = await fetch(`https://api.github.com/repos/${TESTIMONIOS_REPO}/issues`, {

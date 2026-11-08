@@ -1385,6 +1385,7 @@ button:hover .roll__inner { transform: translateY(-50%); }
 @keyframes tstfill { from { transform: scaleX(0); } to { transform: scaleX(1); } }
 .tst__cta { display: flex; flex-wrap: wrap; align-items: center; gap: 14px 20px; margin-top: clamp(32px, 4vw, 48px); }
 .tst__cta p { margin: 0; font-size: 14px; color: var(--ink-2); }
+.tst__only { margin: clamp(24px, 3vw, 36px) 0 0; max-width: 60ch; font-size: 14px; color: var(--ink-2); }
 
 /* Formulario en modal */
 .fmodal {
