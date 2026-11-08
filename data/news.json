@@ -1,12 +1,180 @@
 {
-  "updatedAt": "2026-11-08T00:28:20.443Z",
+  "updatedAt": "2026-11-08T07:13:16.220Z",
   "items": [
+    {
+      "id": "ef9f50d2ddd5",
+      "title": "Pedro Alliana Assumes Presidency of Paraguay as Ueno Bank Probe Raises Questions About Political Change",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1VCek9xZnhDQ2xwVXkzekFDVGtTMUVDUVJYNi1WRWJEYldiZU4tdFpUaW1CYXNYNXBZenE1T3V0TWZ4WEljY0lVMjBCeVMtYTFtN0ZKN0hobkNiT1pxUFNpN0FTQnpLbUZPM2dEdXVvTFdqaWktSmVfbjBMNzdreUdJay1sU2lJMVRVQU9nbHhMaTRWWk5YZFJQZlYzdVRiTDdYTHNwRXRQc2kxRmZSZ0hYWXJFR1d6UDBtSFZEX2I3SFltOUF6eTBybw?oc=5",
+      "source": "Orinoco Tribune",
+      "publishedAt": "2026-11-08T05:40:32.000Z",
+      "via": "google"
+    },
+    {
+      "id": "cdc6682e7f10",
+      "title": "La Fiscalía lo señala por presuntas irregularidades en el manejo de recursos públicos y posibles beneficios a Ueno Bank; el exmandatario rechaza las acusaciones",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNS29ldWJfdU9MMFJNZTBfV29NVnF1emRoR3RpYUVCVjRCRWt2dmJ4a2JkSmdqdEZ2M3NpWVpxNDRwZ0F4Smw2dVpFZkw4eGVrTER0Z2dQNUREb090RGlQYV82a3c0SUtEZ2ZRbmNWLWVJSnRCN2xBT09oS19mZ2pBbTNINUpYZ01ZSFFVOXhXZGZjVUtXdTh6czJIWkxjckVaeUlMNkc4a1BRdGpsR0lTb1J5UWpBdkhGQndpQngwYmRLSFZPcXh4MzFqLXk3VVZQRUprb18zak5DMG1zR2E0ME5jWnE1OGUwX1Q3VHlYYXlyZnJTaTRQbDR1R25Da040cm5pWXJTUjRHOTVBdGpwS21sQ0ZEMllTTzVQdw?oc=5",
+      "source": "Serpientes y Escaleras",
+      "publishedAt": "2026-11-08T04:04:51.000Z",
+      "via": "google"
+    },
+    {
+      "id": "053f0667b275",
+      "title": "'Perdí 16 años de trabajo': el desconsuelo de los ahorristas de Ueno Bank en Paraguay",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVVRTzNHbFpnbF93Sm41V01EcXNHWGdDVWFhVlZndi1GQWFKY3VaaTQwRkhQTHIyN2NvY0J3OVlTb3E0YW5VTDRnXzBFTjV1T2NtNzNJaVlDNnRwSUlMMnFpdHJ5UUJidEs4OHFLMzBCdnNoOWt0eWRycmhwMXVocE82a2VLektvOWRaM3RaX1bSAZYBQVVfeXFMTXROUm9qLUl4UDFoUUIzTkozYVo3Q0NDTXBTb3lJS0hlb0tPajlkdVJrc0trMnhTVW9rZWc5TGg0M01tZVdVZG5kSjFnTjNTb1d6Y1R4TENtdmlRZkF4RXVpclBsTTdQbUhabVQ2ZWRNd3lIcnNEOWM1UVVZWDhrc0Q0U0J1Vm95N0NKSy1HRmtyb3BPLU5n?oc=5",
+      "source": "Tvn Panamá",
+      "publishedAt": "2026-11-08T04:00:25.000Z",
+      "via": "google"
+    },
+    {
+      "id": "40817050e3ba",
+      "title": "Caso Ueno: perjuicio causado por Santiago Peña superaría US$ 809 millones - Nacionales",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUUdjSHRPUGdyVlRUZGpyOGgwdElUQV85UVk3NFI3aU1oOUI1RW40d1UxNENUd3VhS3ZfOWJLeFhyZmcxS09OUUNBZzRoc3czZU92M0ZEYXhyREstNUd4MjlJMUtRaUhxNnAxOVpIcV95STkwZFgteHk4TWhhcHEwamhTdmlndzdZVUczUmp0ZHBnT0VtZFpkeFBESXRNOVRuTGlQSTdJY1hEOEd6dzYyLTZkWEMzNDU2VG1ZcmtIUEY?oc=5",
+      "source": "ABC Color",
+      "publishedAt": "2026-11-08T04:00:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "dd8890aedb23",
+      "title": "Itaipú dice tener unos 183 millones de dólares en el extinto Ueno bank",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWG05TWROZ2VxNjhGVzE3M0VnblJLa0I1WHpsSW9SVXBSV3FDV0NaN0NOMGpSUFlxc0FJYkZxRHg5ei1uVU1memUyRDI1cDF1dzdpUXFKNklTUHZhVmtNNnlNamNyeVRrZlhYaXVnOUhTTXN4cHlVSElaQXczdE05S3NaWjVJTTFmUm9XZkdBLU1wRllfNXFOMg?oc=5",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-08T03:24:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "4768ab59a284",
+      "title": "¿Cómo se produjo la quiebra del Banco Ueno en Paraguay?",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTZSeVRKbmw4bnA1aExsY0VDcDkyTDBPcFZWaHFhS0FEQ1hzcFAzWFdyUmU3X1RiczBuS2U4SURockF3OGdpcWJkbkpVSTdCVl9EOHVkTHpOQWx6YUdWNEpJV0Y1eE8taDl1UWdfT2tFczE5QV82eDhXX2haM2NYMG15NA?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-11-08T02:54:11.000Z",
+      "via": "google"
+    },
+    {
+      "id": "4d97b78022c5",
+      "title": "Paraguay: Fiscalía solicita prisión preventiva para Santiago Peña por caso Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXloWENBY0Jfc3lPYkJTUVprbWw2QUJSbl92NDkwQ0x1RjU1RWZoSjE5cG1qWWcxUS15bm5XUUxUZU1tZWotdnNSWEhJd3BIRzdHT1dpb0t5am9DN1JVOTBhb05UU1BkVWxCa3hLa1BzeXZpUmxhMHhsd2duUVNWSElVMllhVU54ZDdfZ0pfWXFTVC1VanBnc05DLTlhb0hzQVFIeEJxdlhhTlRRa2VBTFdZRUp1TnRSNUNRX093?oc=5",
+      "source": "https://auroranoticias.cl/",
+      "publishedAt": "2026-11-08T02:54:07.000Z",
+      "via": "google"
+    },
+    {
+      "id": "5c96700e6050",
+      "title": "Expresidente Peña declara tras escándalo del Ueno Bank: Fiscalía solicitó prisión preventiva",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZTFCQVJkN3dlTVJOYVp6TGRJS013M2lkanMxQS1iXzlrSlhaTkRFZGJUTHlQbk04eWVVbHJKSFkxdGRtRVNPdzJWM2lFRVZBWEFtSkFNN0k0TEt4YUtTQS1yR3VGS0Y0YXgzVmUtSV9Xc1VzdmNDd0ExRUV6TDB3ZUFXMUZMSGROYUp1dTNFU0prRzk3aDhJbjQtc0RwWGtGYnRYTThDeTJJendlRXNPMjh0b3kybjNZampaaWt4elNQUDQ?oc=5",
+      "source": "G5noticias",
+      "publishedAt": "2026-11-08T02:22:44.000Z",
+      "via": "google"
+    },
+    {
+      "id": "c23c0887d2b4",
+      "title": "How did Ueno Bank in Paraguay collapse?",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSE1pcmsyUUlubjJ6Q3JSanVNb01NdjQ5WGZiOC1DS1dGRTdRMHBTV3BEV2J4d3RVcmlfZWhYbGt1dDMzUkpkVHhmb2w1QVZIOEl2bXZjSmVjSEp6dmdJamVpc1ZTYnJOc1V4ZUtCVmRBT0Fmb2c4YndnNjRtSGU5eU5paw?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-11-08T02:16:11.000Z",
+      "via": "google"
+    },
+    {
+      "id": "d39c76c5d40b",
+      "title": "Un juez de Paraguay ordena la prisión preventiva para el expresidente Peña por el caso Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00Mk93Ukhidzg1N2MwVF9TM3dxTDVrbVR3SUNCY2t3WjZRanlYdm4xMkQ4QVl6eHRac2R1RURLeTVxN21oZzU1Zmx6MlI3WHNJU2lUWm5CRUN5M1Vj0gFiQVVfeXFMTmVkTHhXUUJNUWpHaTVrcmlWbG1ob2toOVpzcHZaNTkwVDlra1pmUUMzbHV1NnVMZWN0aGNfWlBJbjBVVnVVS0plU3hXZ1FOUDhOdFhWaFd1UDlGN2JXSzBySUE?oc=5",
+      "source": "BBC",
+      "publishedAt": "2026-11-08T01:56:16.000Z",
+      "via": "google"
+    },
+    {
+      "id": "58e99b466f95",
+      "title": "La Fiscalía de Paraguay imputa a Santiago Peña y pide su prisión preventiva por la caída de Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXlNZUlOeFd2eHRjZmJZUzlnY0NfWmM2UE1iUGg3VDl2ZEJKeGN2aDNDc1VKUzI2MkRZRXF3MV85RjhLVXEwWDdFLXVtMlR0aGNZcnU4bERYN3U3S3p0NWN4N3JqRWtFR3AwYXpFbHlDWmZyZUhzekl1cXlWeF9DZU5RMzJuS2dmTjc1b25qMzV4eENndkRlWm5VREx1TVNjUGwwLUpOeUhrUnpiYmtDZ1FWQ1JlUTZnbl82d2x4ZzViQjQ0dU5YandlVS1ZNm80OUc4RA?oc=5",
+      "source": "MercoPress",
+      "publishedAt": "2026-11-08T01:53:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "9ba2cf527087",
+      "title": "Paraguay’s prosecutors charge Santiago Peña and seek his pre-trial detention over the Ueno Bank collapse",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc2JRVk85RUYzdnk4bnFiNEUyRkgtcG8zM2I0OFNrWU9keXlkOEVjM3Z0Z2RZTWRqWTUzRmlJY2gyM2VaLUYzc0laYkhTcm4xWi05M3Z1SXJYSTdveTRXTnJFeXh1RDFoWFd3QWJlQ1lLbzBHaUpoQkNWZDlLWUZPZ0c2aTZKaHNCT1BBYlZjUlo2bmhyUkh6TWVnUnZpTkg3VVJOYjNaeDllbjlBOGxqdVQzb3hKZzNiWFFiM3lUYWFNcEgxSXU3X2FBMEVxTUVHbmZ3NGxObXI?oc=5",
+      "source": "MercoPress",
+      "publishedAt": "2026-11-08T01:53:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "f6e90529443a",
+      "title": "\"Perdí 16 años de trabajo\": la espera de los ahorristas de Ueno Bank en Paraguay",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdmZBS2NabzNlXzE5bGVqT1NnX1JtTHVIb1F6c0pId3ZmSldiaTlvSjJQbUU0VXdsZTV0ZmpmaF9zdEoxSUlPNXhUZmdUQV9NLTUzZzctV0lQNlpjNlJXMHllOWRXekQxTEJGelhtRlByUlRMZVpMLTFhdTFGUGktbzI5MVE0aUlnR1V2TjdaZl94cm42X2JrbDU2bEYtaVJ2YTJDMnIxMHduQUtQV3VUOFZ3WW15OGV2TGItY3VoV2RJWGV3UU1MQlNkVkUzc1JLOVE?oc=5",
+      "source": "RFI",
+      "publishedAt": "2026-11-08T01:28:12.000Z",
+      "via": "google"
+    },
+    {
+      "id": "8bd98fd808f7",
+      "title": "Paraguay prosecutors charge ex-president Santiago Peña over Ueno bank collapse | World News",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVlFZdGhVZHp6UjZQd0xIeDRtQzdBVkp3UGFfTFFiQnlzZXAxSTdkQWh0V1FwUnA2VUxsMUJYTE04dUVEODIxUkE4SER0QjlBdGx6bmlxaG5tWFRkdlF4WVVlZE5sNk5aSGswY1VTUlJQdHdXRG45dG52TzByZTZOUkJpSC1HcXRQclhBbjRraGZYcUo3akg4Q0NnR2VOVnY0WTczQkNyZmhBdGRfTWwyTFBmVG9HelB5Mm1xWGZ0cGN1VVNBY3JfVEVwMVdCTTVfMFB5STdWLVnSAd4BQVVfeXFMTVlDaVAzcmlLWVpEanlTQkhOd0RoZ05VWjgxTDU0bnpSTmJSRGdyaURFeFYyZTlDVVdwTEcxSmZ4Y1IyTjdycHM3b3JSLVBNNTJRTXBmTFJFcGFfbGtjR2d3Z1huQ3k3bDJJR2RKaWF1cGpEd25DYmtLZTl2NkdZMDBFUDN6X1NkWDJURFBQOXhDSW55LVdfamtubG9VUmpHdDEtSEsxU21GbnFlSGVNcEJwdG5Nd2Jnc1N5TS1ad0tOcHV6dUFCWk9vc3VxeFlhM1VscWxFS085UjBzajBB?oc=5",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-11-08T01:26:49.000Z",
+      "via": "google"
+    },
+    {
+      "id": "f2e7851af944",
+      "title": "Dan prisión preventiva a expresidente de Paraguay por caso Ueno bank",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHlQYTdOdlJqZXloNkVMa19XRjJ2bm1MN0xUUWcxRkgwV1h2R0V3U2NjbGVSelNrekJ6RUtLTlVWRGU4SXQ0bGRfdVVhRkhsbkFnQjZLbzBQY1pyS0lleDExN0NtQ0l1RVZYSGxUYS0waFF1cEQ0R1Y3QzJuMUNFRVQzcFdOUTJ5RDQwZm5QeGc5WVJTVElnVVdrSlNXY1M3M2R4eEw4cExNQkhmLWVr?oc=5",
+      "source": "Aristegui Noticias",
+      "publishedAt": "2026-11-08T00:46:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "3a375f547e8b",
+      "title": "Expresidente de Paraguay es acusado de delitos vinculados al colapso del Banco Ueno",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMnl2YkNteUxuZEJidk15V0Q1NjV0TmNpelpNS3FUOTVQdmttWjVzb3BjYjZfV2JGODZ6SEJ1SndYUV9kM29mdGtjQ21TTDRYLTI1V09RbWxUTWtHQjd2am1GVkFERzBleFpzcmdqdlpTNnFLdzZrQkc5am56Y1RzWkc5VF9hRVNKeW1qclE4bFpYb0Z2MW5WM2R3WkNFUzE0cGFKYVdB0gGuAUFVX3lxTFBUYmxsbEpUWjdyekE0WHBWb0hQOC1kU0xUMXBtaHJTc3g2YnY3dFlULUhFV1RLb1Vmbm9nVkh4X3drZWtOZTdBRTlxRkNPZGZpdnl1UG9CNk5yTzN0ck5YQTVxMUdvZXUwdGp3bDVmN1ljem9keHFGdUFleFdrbHBMSVZxVE84MmZDY0lnYXRhYnpIZEFIN3EtemdzbmtSUGp5cEdrMHhPRlJLR0JWQQ?oc=5",
+      "source": "Telemundo Puerto Rico",
+      "publishedAt": "2026-11-08T00:42:16.000Z",
+      "via": "google"
+    },
+    {
+      "id": "b092bb6a4c15",
+      "title": "Dictan prisión preventiva contra Santiago Peña, expresidente de Paraguay, por caso Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTllRZjR3UTRCOGNkemlRWFk2XzFRZUtyX2h3dXdwMXB0ZXlmVXFLS2Y5bmNCdS1VdzVSM3hWQ3JPV3JuWFNEaHBGQkZ4UEkxZUR4NHRwOTEzWjFfT3VZejh0Z09ScFQ5YU1kcW1oRVI2UWh6MGFyMm4xWWllU2RBZ0JEWGdncGdNWC1nZXM3emNRZWRicFJOTVprZ3k2RHNOcnhlbFQ2Z29UbnZzcm5IckhXejhlSlhwMVZzSlFFQzdyY2luWjByYkZNVVpfYmpyN2N4c2pZS3FTYWVEUHdRV1ZQZmdUZVFEbDlSbFE3aVpYdl9w?oc=5",
+      "source": "Nación321",
+      "publishedAt": "2026-11-08T00:37:54.000Z",
+      "via": "google"
+    },
+    {
+      "id": "0e458100933e",
+      "title": "Fiscalía paraguaya pide prisión preventiva contra Santiago Peña por caso Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHFqZUJkd0trbHI5bWdLS3ZUdTA1aTFGMlJQNEhETnRMSlpHbVhSNkRhWmR1UHZhaWdCVjhyaTFtQWhtY2JZZEFnT0xZeFpJZmc3VHF2eUxqMXo3QVBPamNVSkVTclk3ekRiRDZDVkFleUk1dXpMbUxOYVdocE5wM1RnNkVRb1QxVXZGOVVZZURtbEJlV1F2VW1kZVBIZmNXbzhqZ3AyRi1Nb2ZJMzlhV21R?oc=5",
+      "source": "diarioeloriental.com",
+      "publishedAt": "2026-11-08T00:30:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "92f8cfbc2d88",
+      "title": "El ex presidente de Paraguay Santiago Peña quedó en prisión preventiva tras ser imputado por el colapso del Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVlJsdDVnOGt3RURSYVJiOWV4aVhkM3FJM2FYaGdMU3hhYUpDWWN1dFdNMkpJUURXcHViaHVPRFZsRTZxY1l4M1NsYTVUZWg3V0ptQkU0ZUI2ZzhlbWRxWWU2SlhIUzZJZzVHbXp3VUJlOE9jY2pEeHp2MmxuMHViYk5seUtjeWhISUpUVEtwZl93WlIxbUt6NmxwNEF4ckpSY3pUUFEycEhqdFM0RUZuS3NqSFJvdGtURUxMYnUzbWpudmhIUG54T3dYMnF2aGNqME1NamNRV1NHQWVPVXZPbGhVMHIwaVF2MFVNRGJWb3lIeTMxNW5oVHBXN01Odkdf0gGbAkFVX3lxTE9qX09ZUy1STncyOHlMdGUxWktrWFBhRkRJQjVJVFZucGdETkZNM0dRbmtYSUdVZUlfRFNkZVc5cW5hZmtBb0NCSmVZWWpIYkxzSXNMOWNQVFNCZk41QzVRQTFXZURTSVFnTE1DLVB0cXBma2tSYTVpakdLSC1qN0dwWFl3TVJ4X2FsQjQ5al9kY204b3A2aDU2b05xbXdnQjF5QnhFT3puTnBVUlJ4OFVSdl9HenlMTlFCV1JFRUI5Wk9Xa3VfVDRUSFhfWkFJTlBEV1JRUncyU3BiQlN5SDBJWkZrOFdWTmhnZ3NoY3VVX1lqV2ZJb1ZKMV9lNU5aSldXVkk2RmpneUlNalpfYS1iSXJSWk9FaEpIcGc?oc=5",
+      "source": "Infobae",
+      "publishedAt": "2026-11-08T00:16:43.000Z",
+      "via": "google"
+    },
+    {
+      "id": "cb362cf095a2",
+      "title": "¿Cómo la crisis del Ueno Bank derivó en la salida e imputación de Peña?",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzJLVVVmSVJQczJyVGFxTzlCNHBZanRuM1NEZ1NzMWZSNjlBZU56QVRidktzX09wNDQwYUsxbUROczdiR0lPYjZzVkxSUHpnbDUyN3pEbnAyaXJrVVRoVGgxaDVDcGNRM25JR0VkdWtwbFpkRFhXQ21heGI4SDhJUE5hR3ZnSG1GNkNsa0lsWElpUW9iUDNFa0hTOFJrQldRNlQ5VVQ0WDNmbEk?oc=5",
+      "source": "CNN en Español",
+      "publishedAt": "2026-11-08T00:14:30.000Z",
+      "via": "google"
+    },
     {
       "id": "6c3a5d925223",
       "title": "Juez envió a prisión preventiva a Santiago Peña por el caso del intervenido Ueno Bank",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlhiTU83X0xqc0ZCUkJZSDViSFVFN0E5NjlXeTlIeUc2blpxV3RkdjZIU0RKRF95REdzSHpxc2drc0tWLV9fWWdtMEJKdWctWkVrUm1UbkFIYzR1SG9lYWNzY2Q0NGJLSE93MVZKemFQanl6QjZhS2ZSaGJydTBoSWdJOUdjX2oySDVoY2xxNWtTVjE3OXNmOFEtTVh5WkhiNklKMFhmamVlSHZtVnlIWWl5NHFjSW5Ca1RIM0N3?oc=5",
       "source": "El Nacional",
       "publishedAt": "2026-11-08T00:11:15.000Z",
+      "via": "google"
+    },
+    {
+      "id": "c4d675be8734",
+      "title": "Santiago Peña renuncia a la presidencia de Paraguay tras el quiebre masivo de Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZzZJalNXVmtGT3dFb2xCMFFxZEhTNFNZVlMxNUt6MENkS0Y2SlhjSDN4RVg4NHNxWGk2eFZrSmpwRW5ld1R1V1NYZmtSYmJveF84czdSei16LS1PWVhSczRYZjJZdUNPRUlVXzItaW9SWjZmckNxTEp1TTI0VnJfUG92TlZwMDdUbkg4dzV0MndWUDJfQV85WEQzcTRGMmRaUFp1SFJVMUQ5c2ZZejRxS2pGckVOMTZTS1phc1ExbjZxMjFXWVJRc2c2U01tQlU2bnpJX3VoZHAzMDlIT2c?oc=5",
+      "source": "Univision",
+      "publishedAt": "2026-11-08T00:06:00.000Z",
       "via": "google"
     },
     {
@@ -26,11 +194,27 @@
       "via": "google"
     },
     {
+      "id": "360fb0627f73",
+      "title": "🇵🇾 Tras la crisis en Paraguay y el colapso de Ueno Bank, influencer rompe en llanto: “Muchas familias está tocando puertas para pedir un vaso de agua” https://mile.io/4AnGnXr",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTnFfaEFXMVFTLTExcXctWjR2TzlFTmpRbFFFSi0zTUh2MHdwUWxEMlRtVmFYb3M3ZkszQmZ2UnZ5ZFJpcF91RVRTY2R6bTNCc0RoVkg0aTRELW05QU4xLXlxY1FmOFRNTGMyTEpYaEJfT0NBTVRmZldMSmVkOTFWWm41LUx4ajZLQ05WOEx2MzdkTm5RNHgtSG5MUjJ0UkdHUUtvUnVZbGdSNXhlbml0WGMtYlhtNV9hQWxOeGNMTU04NGtrU1dNOENtM3c0RmZRWlFjVHg4UkVzZjQ?oc=5",
+      "source": "Facebook",
+      "publishedAt": "2026-11-07T23:32:20.000Z",
+      "via": "google"
+    },
+    {
       "id": "8a3afe9b445c",
       "title": "Paraguay: juez envía a prisión preventiva al expresidente Santiago Peña por caso Ueno Bank",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV09YZFN3Q2p4Nko5OVBMZWdsUW43SER4T2U3RTh0Y3ZKcjRtaUl3WXh2X1laMWVJMlVlNnlad2E0T0lTLU9oU2kzblBkWFNxeU55Q2xOWmw5UXFYbUxscG5pZzFBd2I4R0c4SU9uaktBbC1KSllzMm1fV0xaZGZDZlQtNWVkaVBnSzUxallTc3JwWEEwS09hcnFFVWQ0MzNxS2htc25QMnZHTzIwTmpzT01GNA?oc=5",
       "source": "La Silla Rota",
       "publishedAt": "2026-11-07T23:26:44.000Z",
+      "via": "google"
+    },
+    {
+      "id": "e0e903371baf",
+      "title": "Santiago Peña, expresidenta de Paraguay, seguirá en prisión por caso Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYUxxRVRUWm9uU2ZrWjVtTVZGX3pSZXNTX3F6WTk1OWhxV19xd1owM0lCMW5hX2h5dnZ4bnd5aTljQl9vQVhxdHYwOU9GT3pzc3J0ZVRtcnQ0a2kzVUNweE9DQjFZbmtTemNxcFRmSUxSbVlPUXJnUl9fNmFVUUlwWlhZdXBFOVlFd2dCbTRMeXR0YlNabFBwa0EzRkRyVVdlX0F4cXFZZi1NYUFNX0tQR29IOHRiZw?oc=5",
+      "source": "López-Dóriga Digital",
+      "publishedAt": "2026-11-07T23:17:24.000Z",
       "via": "google"
     },
     {
@@ -106,6 +290,14 @@
       "via": "google"
     },
     {
+      "id": "fbf734e318e2",
+      "title": "Juez imputa prisión preventiva al expresidente Santiago Peña por el caso Ueno Bank en Paraguay",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1NfQWVwREZYMGdWQWxnYTU4OERLZjh3dDRpQndhZk9sbFI1ZVhPVmJ6U3QyZnBzUndaekZydVFOSThsTzI4Z0VWX191S3pfazRuVFpGUTlBVEFnQ2lNdDJqVFVZZ2p4MS1vT2pIYVgtX3NYMkItSERCRTUxLVhoNWFkc05rektIZTVRakhhQUtUVzRsRjN1QVRDSFBSTmFMdEHSAaIBQVVfeXFMUGhacUdxYndVUUwtSmZwMVFoMHM4dV8zVDJzMjBNdlk4bTZmN2hCV21PYjB4ajRJSTdadUJBMi1pdjgzZDZQaG9pX3lpV3FleEQwdnZ3RUN2LWhaX1BDQ2xIelc2SC1GWmZTWXBjUzdXQXdUTVZ0LWh3Z0JibVpsSW5wem1FdmppYTVsMmx2MDlHSnhKaXg0QmZ6VkhYLXd1c0J3?oc=5",
+      "source": "MILENIO",
+      "publishedAt": "2026-11-07T22:13:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "6f7d20fb66bf",
       "title": "Ordenan prisión preventiva contra Santiago Peña por caso de Ueno bank",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0FYTmlKRFFDRlNLVnJWbjUyODJuckZiR0tzMXB3Q1JDQTQxaGRYYkdfeXRJVlM5cVRMTDc2R2YtVDlpQXdXQXdaTGEyODd3azJhNE5pd3VrejJOOGh4Uy04dzR3c0dRQ1ZWTXV6a2pEcDA0aUFnX2dDLWZidWgwVUxrMWx6b0wxVWw3SjZEbXlyaWZNU1AzRkhONXFMQ2VwTU5PUVI4b0VGb1E3Y0xRWEJadUNlSDlRS3czTlZR?oc=5",
@@ -138,6 +330,14 @@
       "via": "google"
     },
     {
+      "id": "e6a70c47cacf",
+      "title": "Dan prisión preventiva contra el expresidente paraguayo Santiago Peña por presunta corrupción en caso Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTV8xeHZiSmo3R0V2YjRkVW1MVjM5QnZYZmNTRlJDOG1qQUV5N2NxLTJseVJHTmNjbTZkZ3M4RFNrZDd6MmUzOU4zODk5TEozcXVyRGwyQ1lNcGhTLWVib3lwMDJTcmc2SUE1OVdzZ01lTENCbWVNZnpBbkxJNjVxWlI1UThMWEwwOWhiX3lwMVJtcndvTlQ1a09kSU5Kd0VVU25zODJEVGtMZXpPRFB0eVJ6eGZlZno5V2Y1YkNzaVlnLVhKUmZCSlRDT2ZaOFNiM1ZZMUt1MDBmZ2dDZWZOZmJXWUpJZjJfQ0VOOE5B?oc=5",
+      "source": "LatinUS",
+      "publishedAt": "2026-11-07T21:59:03.000Z",
+      "via": "google"
+    },
+    {
       "id": "16970a0e6cd5",
       "title": "Ueno Bank: el testimonio de los ahorristas paraguayos que se quedaron sin acceso a su dinero",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRXlxR0Vadmpyc3BmM0ZjT3hQOWxQZklQSTdiblJOSEJqVHEwTFh1VUxTY0Z6UlBWMU56VzFqeURDZmdmU29uLWIzRzB4UkJLTkhGb1RWZDhfdS1BTGVweUxPNDl1Mi1YVzdWMzhEQXlmaFJ1UWtwZ2I5QWxEX1lLZGFTMUlXS3BENVBSOW5mLVNRSkx0dE9xZGJ1RFNiRXZZUGJwN0FzY0xlaVlyY2J2azFIZw?oc=5",
@@ -159,6 +359,14 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmRnRDA1aXhsSElnTUZpbEhwTTZDMktnVV9ON3JzelpmZ01xRlZ1SjBGX01VZF9zT040aXh5aDlzQTZ3R1plSTh6WENHekJtREpERlY1SVA1WmlrUkdaaGpTOERxYUdCM1VpcldoQ1NDY0xOeVdvbWdVdlo5ci1tekRkalhFdl9vMm53emZTc3d2X0FzTW1jcWxDMFJzejlJMWI2azVWUUdjN3M?oc=5",
       "source": "HolaNews",
       "publishedAt": "2026-11-07T21:46:26.000Z",
+      "via": "google"
+    },
+    {
+      "id": "27e871c12524",
+      "title": "Paraguay: juez envía a Santiago Peña a prisión preventiva en caso Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16elBSQ09ZWXVLTGY4OW9OY1pFZTBSdUFHRURHUzhxa01PM0xCT3dPUFZvb0V4MEotNjdCSW95NTlHT29fbTZhM2kzNTFvSlpWcHdRM21sLWxJRFc3M2RwcTN2TFE0elgxSWoycE9nVVhHdVh2LUU1Yg?oc=5",
+      "source": "teleSUR",
+      "publishedAt": "2026-11-07T21:40:00.000Z",
       "via": "google"
     },
     {
@@ -186,8 +394,40 @@
       "via": "google"
     },
     {
+      "id": "378c74364a8d",
+      "title": "La Fiscalía pide prisión preventiva contra Peña por el caso Ueno",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWFCWWVEeU9EZ2J5Q2xFTGk0ZzBmbURBQU1BUzJSVVZNV3FJRlVwbjRHekczdUNMYnA5M2RMZFRST1YzU3I5WGZnSTFmcHZtZkV2RFRHSkg3TmdoMDVHMTRJU2J3c0JkNXp3bF84bFpsa24wYlR3TkFtakhlV2theWdlakp6MWJ4REF1Um55ZlU3a2hISHg5cGg0ckpFdkZaUVpqd0xCaFZUMmN6cHpzYzRSc29zZE0?oc=5",
+      "source": "El Horizonte",
+      "publishedAt": "2026-11-07T21:05:28.000Z",
+      "via": "google"
+    },
+    {
+      "id": "6b65a86eb5a2",
+      "title": "Crisis en Paraguay: nuevo vicepresidente buscará ayuda internacional para rastrear dinero de Ueno bank",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYVhPdlBGaU1aOG5qYU5oQUlFcGZVVlBORUdPU2hvNjdRa1p5QjcySzU1cThrYlFSUjd0LXpLZ0pnN240VjFIQmEzbWVsYURIQVRJMkdILUhUZ2JWLVVvclZGdUgxRThnMDk2eTFDSDZ0WlBkSWhERDNwYW9kTDg2UFR0QkVrUnpaSklKdWE3Zk85aUlyOXpGUGJfZmZQbGphNjlnZGdkQmhKYWdmMGNVWlloVkNlaTlBYlE2VGZWYzN3OXdnM0YxWV9NYVN5dzdRX1JJYlRoQUxvZnAxQjRROTZBNEp4dTA3RU8xU3RZbkhZeWRJLUQ0?oc=5",
+      "source": "Reporte Indigo",
+      "publishedAt": "2026-11-07T21:04:41.000Z",
+      "via": "google"
+    },
+    {
+      "id": "86c572f2a067",
+      "title": "Ueno Bank: más de 1.200.000 ahorristas recibirán hasta 10 millones de guaraníes",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzBKMTA4RDJtTlZrV3owdml5dTNTTnhUd1FneUx5LUhSVUFhWUsxXzJJdGI2TFRKTHFENWhNQmw4MlotdkJ1WjUwdmpJbGlscFBXM0RJcHRrQ2lJRVBxWlU2aUZXYjYxb0lOR0RQSHF6WThFLVRMMUJFOGZ4dlZCYzZQMmtQTGcyTGo4RV9lcWo0SWdyVjlwT1FxaEJFYUdlbUl5Y2RqcFNNSmxaaThxZXZ3?oc=5",
+      "source": "LA17",
+      "publishedAt": "2026-11-07T21:00:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "d0a8b3468724",
       "title": "Ueno Bank: Para la Fiscalía, Peña se puede fugar y Carvallo, ocultar pruebas - Nacionales",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHZJUC1hU0tHdXJ3czVBQi1FY2FlSEY3WnRuR2V3eGhoa2MzZ1NtRDB5ZW1WbTNBSXlRSTBhRC1YZkpOOHNFcVRjZVhDNTZ0MGNuOXR6SmtVeTEzc2RTWnNuSzNTWGQ2QXFzbkVEUWRiXy04Y3FNQUZtWG4yamRIeTUwWVBQQ3ZoeUxaZzBDM09pWmVlVS1XLV95VmduTUZ2RW1UUl9kQlJkSktsY2JnZUZHQlZQTmE0NFpn?oc=5",
+      "source": "ABC Color",
+      "publishedAt": "2026-11-07T20:59:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "9559548bbf00",
+      "title": "Ueno Bank: Para la Fiscalía, Peña se puede fugar y Carvallo, ocultar pruebas",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHZJUC1hU0tHdXJ3czVBQi1FY2FlSEY3WnRuR2V3eGhoa2MzZ1NtRDB5ZW1WbTNBSXlRSTBhRC1YZkpOOHNFcVRjZVhDNTZ0MGNuOXR6SmtVeTEzc2RTWnNuSzNTWGQ2QXFzbkVEUWRiXy04Y3FNQUZtWG4yamRIeTUwWVBQQ3ZoeUxaZzBDM09pWmVlVS1XLV95VmduTUZ2RW1UUl9kQlJkSktsY2JnZUZHQlZQTmE0NFpn?oc=5",
       "source": "ABC Color",
       "publishedAt": "2026-11-07T20:59:00.000Z",
@@ -322,11 +562,27 @@
       "via": "google"
     },
     {
+      "id": "0e5322018804",
+      "title": "Fiscalía pide prisión preventiva para Santiago Peña por Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM19WblBxRzB5bVhKZHNoOEItYUZ4UEhaODlTTW1qbTY2R2VFNU5BdElSd0hyWHhZTGZDbjJfa2Z6YUpPN01PQW1UMkFmOU4yajR4ZU9XblN0eklSRmc5VjZscG1FLTBNTXpqQ21DeE5EdnJzV2tZVnluSGoxQXhxY0NSQ1VRYzJCbi1hMXBGVjE2b0F1THdBVDhTTFk?oc=5",
+      "source": "elsalvador.com",
+      "publishedAt": "2026-11-07T19:56:13.000Z",
+      "via": "google"
+    },
+    {
       "id": "206bcd0fa528",
       "title": "La Fiscalía pidió la prisión preventiva para Santiago Peña tras imputarlo por el caso Ueno Bank",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMTBTdWZ4TlFGZHVtcGw5dDJaLTZlTEMtSTR1R2tXTDI3dEUyeWgxaVhaTFE0aC1mR29uT3dzd2gwMl9BRXNKUjJ1cmk2S1ZIRWxTX3M2MkxHcXNib1J2NnZzTG5uZldpY3o5UmQ2SzY3bzZyZXFUZ3ZBMHhEMWUxZDVfLXZEME00VlI3Y0FXMXVFeEZEUE5lRFBUZzhOSF95WC1IWC1n?oc=5",
       "source": "Canal Doce Misiones",
       "publishedAt": "2026-11-07T19:55:24.000Z",
+      "via": "google"
+    },
+    {
+      "id": "8c97f30dc47c",
+      "title": "Caso Ueno: Fiscalía imputa a Santiago Peña y pide prisión preventiva; también apunta a sus bienes",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdUl6c2hVYm5sSVVDUU9LQzIyc09SZDY4UXZtWF9TZFhOa0xjSndoeXJxSWU4U1hKSTdYS29YcUJXcnNtbDAtQXFCblBMb1A1aE1ET2RicGJOVU81a0tDb3FuOWVQZU9jTmdxSklIUUhGVlkxb0FOZDk1TlJYX3pyZzI0NHVJVVg0MFNSbHpIVGN4SWtKU0hHSklaY1gwaTFJRS1zZWpfTEVTdzZvbGwtbjZ5NlFRbG5iOERoNTBmV0dkQ1hiMTdLd0lR0gHKAUFVX3lxTE51SXpzaFVibmxJVUNRT0tDMjJzT1JkNjhRdm1YX1NkWE5rTGNKd2h5cnFJZThTWEpJN1hLb1hxQldyc21sMC1BcUJuUExvUDVoTURPZGJwYk5VTzVrS0NvcW45ZVBlT2NOZ3FKSUhRSEZWWTFvQU5kOTVOUlhfenJnMjQ0dUlVWDQwU1JsekhUY3hJa0pTSEdKSVpjWDBpMUlFLXNlal9MRVN3Nm9sbC1uNnk2UVFsbmI4RGg1MGZXR2RDWGIxN0t3SVE?oc=5",
+      "source": "Red Chaqueña de Comunicaciones",
+      "publishedAt": "2026-11-07T19:54:49.000Z",
       "via": "google"
     },
     {
@@ -378,6 +634,14 @@
       "via": "google"
     },
     {
+      "id": "a0852bbfc465",
+      "title": "BCP ratifica que devolución a ahorristas de Ueno es automática y no requiere trámites",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdmtUVkxKY2pKaElucnFFWHROSG12dFBDTjkzWmVLZDF3V0F6WjltLVdHckp4ZDlocVBMcE9JR29mc1l4VlM0SzdlN0xKblByTzNuSnNza0k2ZV8yeGM1R2xVNXJNTm44NUtYbUY3NC1sLTJnX0NzMlVmODVFNTcxNzk0MHAwQ2lET19SRVJEeFNsQk4tSTlMU0pkOEZQeTZrTWVyQ2gtN0lPSHlKb19TODJrSUtkSGZwQXdxOUhGX0YyYVZWeENNaHdn?oc=5",
+      "source": "Diario HOY – En Paraguay y el Mundo",
+      "publishedAt": "2026-11-07T19:24:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "19141ac02ddd",
       "title": "La Fiscalía de Paraguay pide prisión preventiva contra Santiago Peña por el caso Ueno Bank",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdWc4dmhHNGVzWVItbmZkVDJfejV6Y0xiWVZxVWpVdkNDUy1fdGZpVWNDQjA3Z2Y0VG4zZVg0U05OT1BwRkZwYWR5aVc5WjJYanZCUUgzdnhjbHFSUUNwQk1MSUdOS1RjQTRjOHR1YlItVEQ4eFlUMnUxYjcwMDA0VFNzUk5XMGI1cVVpUUVXZHVIUTRmUDRjYjZSZkVfV1ZHNE04bFhpU2ZTMVo5SFhZTFlXOVBJck9fTUoxdGFDSdIBxAFBVV95cUxQeUxzVGpZUDBjLU9Ja3JTdXdnMi1pUHIwaTR2N1IzanktTlo5QlQ2dHZCRFNwa09NeERqM2w5QzJsNkNZMnpxLVk1Vm9MeWVvRlA2cHNrcFFtZEUybWNSVzFDRkZlM0UzRmtCOVl3enNXRWs2RWtuWG8tenRKWmk2WElUUTNncGtXeVd3YU1YUVFkc1E3MkFveVJLOFhSRXlXVENleFhBUzgwNUtaYTJVN3p4VUc4VEZrTFNmYU9lLTN2OXFW?oc=5",
@@ -391,6 +655,14 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRGd0T3M1MWpqWkdtWUdyNGlsMFIxUVNzcUhRMDNJV2Ffb2pVSUJnU2lYcUx0LXMyWEFULTZtVXRfdDBHQ1RBcldLcnpYbzNUQnp6Sy1LbWNObDNDTTNscjFOb3FSMktnRUgwRTF6cndSLUlkQzZrYm50QkV1MGpXTDVKZ3p1RllYRGRCMVV4aWxPOTdzVjFVQWtPV0pJZ1ZQTlRWVlMxVWhRXzk4aVlYNTM1VDl3Wmh5Vnc?oc=5",
       "source": "Mi 8 - Mar del Plata",
       "publishedAt": "2026-11-07T19:18:06.000Z",
+      "via": "google"
+    },
+    {
+      "id": "82352621b504",
+      "title": "Grandes deudores de ueno aparecen en la investigación del BCP sobre desvío de fondos",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb3hFSk9oaHI5eWZaMVczYTY2Skx4cXZkM3poeGtBTVJWRXlyZHJ2Z2RZTmdtUGU1NlV2cF9MV1FKdWFHVXlXT0gwcUFWbEMtNzg4dXBKTWk2YjEtanlSYmM2SVc4M1ZTVzN0c1haa3cwSzcyYXVqOVc2a3hJaE1vNmNZemY4R2pQck9PSVJrUjktbFhVaHhzZE5wdk9UV1VrSlRkT2VVUUpMMVUyRTVrM9IBvgFBVV95cUxQcEw3WE85clp3TmFoYWExUVB6UFUzVXM3UzRVRVdRbVFXNVZvTU16RHd2cVF6UVMxRWhVTDU5NXJPYTZhNTVfV0prbWZSMVpQdjRieXlVczBTOXp1b3FBb0ViTlJFVGtYdlE3NHBGNUJpTGRvNWtrTmJ0c0VsQ0tUYXRDalhhVVNtZDdtTlpVbS11b2ZJc1BlSVl0d3E0aFE5Sms3RF9obGNOVS1ZeTdjU2pKYUd1Y3dqaGRITFZB?oc=5",
+      "source": "Última Hora",
+      "publishedAt": "2026-11-07T19:16:00.000Z",
       "via": "google"
     },
     {
@@ -423,6 +695,22 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRm1sYm5qbDVxMHp1SDhlZTZ4eGpEY1lJaG5uYWVseXZ0UFptVy1fYkNpWlhLWW1zbG5hRFBEQjNaa25DY2x5TXdlZ2dvZmNEYkpLZlpBOWJPV2M3WVFHbUg4TnVIRGtPX2pENDRkRDFWM0JmWHprV2VtVnY3NWlXeHZadC00WXZIX2xVeHdWXzVaZmE0TkVENEl1d3gxMkZWTlNSUXZlSWxCWUFrNUVMN2lkR1VrQkU5WVR0cXVydmUyeXc?oc=5",
       "source": "N+",
       "publishedAt": "2026-11-07T19:03:57.000Z",
+      "via": "google"
+    },
+    {
+      "id": "eca9fff90d79",
+      "title": "La fiscalía de Paraguay imputa al expresidente Peña y pide prisión provisional tras la caída del Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmZyRnhQNmdaclBFdDBUczgwT3BJaFJUclZSQXVYVTR0bUdCblFiOGczdGlCVjIza1RlZTljUTJzal9EcjFuNTVMeUNzdVA5bTlKLV84SEo1UUR2bDFFbmdYd3VKbkpWdmlnWVhEM2NEZUFNUEtraFhUN0dEQjNsbnRVX0FFR1liWTZ2cUNSM2txSGRuWUFocmpvQnRQUVY4XzNyT2l3cTlLdFE2OHNUdEE4RUsyeDU3Z204QW8zNA?oc=5",
+      "source": "https://tuperiodico.soy/",
+      "publishedAt": "2026-11-07T19:02:26.000Z",
+      "via": "google"
+    },
+    {
+      "id": "de8541e54dc0",
+      "title": "Dictan prisión provisional contra el expresidente paraguayo Peña tras el hundimiento del Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcHZ3Umt3bk95cWFjX0haSGpVTU5id2ktQ2RRSkdWSnlZcHVFNE10TFJVY19BX0xLQXZsVm1LMVVRTXRHMkVPVXppSWowcHVzOEdxQS1SSldzUlhqdkVncHZNSHlZczFsNkJod0k0Z2dBY2lvQS04dTlJM2JuZXYwdHpmamkzVV93WVRja0xKQVN5QUREdlJuYXRIUk0wbzZ5anZwelVYZUY5d0pGbTJuM1BHdUVqU1VqTE5iZ3FBSjIwQjloMzJSNGFpQWV2NExNUHV5VXZPMGZwX21RUms0RExIakNFNWc?oc=5",
+      "source": "Europa Press",
+      "publishedAt": "2026-11-07T19:02:26.000Z",
       "via": "google"
     },
     {
@@ -463,6 +751,14 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcGtMWmE1eF84WFBGTUI3ZG9DN1E2amc2eTdSVzdFMEVuYVhpeEgySE43QzJ0aGVEa19XVTdJNE5GVVB2MWNNLXZGd1lTTHhqNFBSZ0YtRXlIZkJhVmlrNUhnekdBdWpPSnNrZzktVHZXaTRyTzl3TTI1UFdfa2loVU9sZG9JMndnaTZ2Y2ZjY2pKamtudlR3WDMwUnh0eHdJVlRyM1dCVmkwTGY3QmJ0UkFNY1hZWHd5Ul9fUDQyUmpJQjloaUtwZ3hR?oc=5",
       "source": "Gestión",
       "publishedAt": "2026-11-07T18:48:58.000Z",
+      "via": "google"
+    },
+    {
+      "id": "c5b5cb8001f0",
+      "title": "Fiscalía imputa y pide prisión preventiva para Santiago Peña por el escándalo de Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdkI3bGYwWFNEMjV1T1VVQ1FNUEtaN3FwYWlCeDM2QXc0SG5JWk9qUWc2MWp2dGRCTXpLTEwwVU4ybndUcThkc0NocjduX1RhRnJUeWpaUlRDQzdMUFVSVjNxQzMyUEJSTm4xWWVBbnpzZXZnOEd0RDBvYUZScDFTLXpuZE5nOHRoUE5ZUFZoZ21GbVl1anA4eHFKSURxaGFPR0xyY3BlTGtlTlRWU3BuVkJDVnR3dTRTR0JUT3hBU1Q4VEtG?oc=5",
+      "source": "Los Tiempos",
+      "publishedAt": "2026-11-07T18:46:23.000Z",
       "via": "google"
     },
     {
@@ -634,6 +930,22 @@
       "via": "google"
     },
     {
+      "id": "6bd6e8868e4b",
+      "title": "Un periodista afirma que el Gobierno argentino sacó dinero de Ueno Bank poco antes de su intervención",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZHJubVp4VHV6Zkg3cFY2M3l6MEVvUkl5X0ZiVWREU3ppTVAwcDc4OHFGWkU2MEYwcWtMdjRzVjcyS3loRjRLZ2JZb1NzeHpGWDB3cTBFOVJiZjlFTEpYeGpJRWJxRjhabkJUWnM2WjNlQVV5U2JIZExwek02QjhSbVhDOEhpcl9RS1JXRnZfM1VCc20xQmNWM1p1bHlES2ZQMjZqZUpxdGNtZm1ZQlRXS20zWV9vSFZ3cjhUUlNHdTdrNVUzNFkzS1NobHM2azhvSF9mTXRsTmY3TmxWOTdBWUVLaE5nMmx4WUNxT2ZNZHJEbzJUbDJEZHVn?oc=5",
+      "source": "Los Primeros TV",
+      "publishedAt": "2026-11-07T16:31:05.000Z",
+      "via": "google"
+    },
+    {
+      "id": "701e998ee3bf",
+      "title": "“Salvemos itti”: funcionarios piden preservar la empresa y los puestos de trabajo tras la crisis de ueno bank",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeGhDRktsYXV6cHkyNFFnSFlMTFIyam0tTWJEWGs0ZEtnSWtOWlZlNllmdURiZ215UTVyajZmZlU0WmMxNHhkeGsyOTlmMVo5dHppVkJOYnE1UzVCT0RjeHJzTkkxdmpIUkR5a0V0VktsUm1lS1g5bkpVSzBkbU55OGs0WW84UHBWVHVPMGE4Zm1PTkt3WjBRUFdhb2dRN2l5aXB6TS1VaHQyZXZtWmJjNWtQeTZMU1pUUEFoaHN2Q181TnV1ZU5wY0FQVlZEdGZpN1R1QW1UU3NnLXl0UlFMYm9teTJrdEJ4QWdGeEpyZ1VuR1lVdTZmbjBB?oc=5",
+      "source": "https://www.latribuna.com.py/",
+      "publishedAt": "2026-11-07T16:23:48.000Z",
+      "via": "google"
+    },
+    {
       "id": "c27086727744",
       "title": "El expresidente Santiago Peña comparece ante la Fiscalía de Paraguay por el caso Ueno Bank",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS19yV05oRDZQZk4weG9yMHBfbGpMZU1MWlFmbHBQWHBWNDc3WjZsUVdpc0w5eldfdEVnMTlVWWFVTVV6bi1lZ0JRZTA3SHpjWnptM1pSYm0ySWhrZHZ2aUF3c1pvVlZpZlprSTZ1T3liOUdSLXoyQkpIaGxmdVo2OG9xM1VPMm9tbS00aEh1N3laT01SeGtseXh6UmlhMnZsVjdtcnpPZUJPbUNBeXhSMm0zSU0xWGRBVmNucw?oc=5",
@@ -658,6 +970,14 @@
       "via": "google"
     },
     {
+      "id": "ae3f85f85257",
+      "title": "De Baninter a Ueno Bank: las quiebras bancarias que sacudieron los gobiernos de América Latina",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZEtGWTNDV3pvdXVRelVNb3FnVnZ1T0FZS2psLVQ3eE9MbzB0SXZ3aDMwUDBsa3Z4ZVZ4aE9ZQUxmX0dITTA5a0JDbGhWSkJ1TFJTbkhtemY2dnN3TnFNSWczdnMxNzl6NXVsbWxpWG02bzJLanFQaGU1SkhjMy1rVHY1NTIxbGlneUFsZHRGeWdQd2NZcEoycGRLQWYweTVfTTd3eFBzR01WQWQtdEZIUFhiSUxfOWtJYTlXYjlzNGd4bTV2SzEwcWRRSkxWd9IB0wFBVV95cUxQRFZXV0Vib0FFTXFVUHowTURSTTdXaEtoQ1NIdmJkMXB4cjFGeGF5aV93WXJfNnRZbTl3cVotSUFBYzl3TERFNm9KUFNhMlVFUlZ1Z3gwSFFOa3VCS2kySWxxQ0sweXFZMnVYX2t2MXdzbjZJRHQ0elc0NzlPNmFPLU96QTJEdWotbm10QlBUbDhiZ3BLTk9pRVljQnJJTE1BMnVSVzdITHQ1UGh4Z0Nkb1hxd3l1UEZKY0xOVGRDOE5TS2c1cUlGZEYtY29MNXRJbm93?oc=5",
+      "source": "Listín Diario",
+      "publishedAt": "2026-11-07T16:13:17.000Z",
+      "via": "google"
+    },
+    {
       "id": "60eb36f53362",
       "title": "De Baninter a Ueno Bank: las quiebras bancarias que sacudieron a América Latina",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ1FGOVhOSWRydXU0Ull6WjdZdHFWZ1RmeUtCZGRRWHRMblRCRVlxdjRzNXdzOEJKdWNVeHZ6WXk0YmdtS2JTRTg5NnR6OHpCV3dJd1d5Y2JjUWQyemVyMUFYd29BUm9veFRjcGtxZnNSTGZtR3U2SFZUTFpaem1JMFRUbXg4YWdsbTFLb1VBc1BjMlZqeVN0cGNESmYwMU45V1pUeVdLYjlpb2ZvYk800gG0AUFVX3lxTFA1alFZam91dGw3VGF6MHN1X1ZlTUNtejFxQWhxcXNsOXlhWDM3WG04dkYtY3Y1TzAwVjFrYjZHVWVRbjhyUzc5ZXdnX0FoYTNqdnltNzNQWjRfQXBaajFYT1U4aFBFUEFxX0gwMlJUYUhiWU01bjNkZjJFNVRKV1B5bGhsQTJJNkRQVDBkajZjT2NJX0wzRHhHYkx4dUZTTnFWN0JsV1o3YlBwRnFUSk9xay1hcg?oc=5",
@@ -674,6 +994,14 @@
       "via": "google"
     },
     {
+      "id": "e88b4dda0e9e",
+      "title": "Santiago Pena charged in Paraguay's Ueno $1.6 billion collapse probe",
+      "url": "https://www.newsbytesapp.com/news/world/santiago-pena-charged-in-paraguays-ueno-16-billion-collapse-probe/tldr",
+      "source": "NewsBytes",
+      "publishedAt": "2026-11-07T15:59:00.000Z",
+      "via": "bing"
+    },
+    {
       "id": "a5fde409c2d3",
       "title": "De Banco Latino a Ueno Bank: las crisis bancarias que han sacudido el poder político",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUl9zeV9yQWJjOGFEbnN4V29hbGhHOVRfc1VhUzJBTkVzS0wwWkljeXhFeDdmMG43RkJBdkFPMVJwbTlPWlVaX0xxOWtVRU80YUNURFZ1TkhZSXJ3TWJZcENoR09JakwtblZ2b2twNHEyZVY0UFBCcXFQZWx4MjJHN3FVYmdUeUgxbEl5S3d5ZVFiakNVVkstNmpPTHV3Vmc?oc=5",
@@ -687,6 +1015,14 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmoycnNtRE1QSzh4djdITDJuQ0hmTkRLVWFaczFXQVgxVUtXbDNmSzNwS1Q1ZE93bzRYclFGcm1rOWRIMHd5TFRJWW4teWRwM0tSU1dpT1hiQ1JfTlN5eXY2dVJ6Rm9oZl9OWHFZaU5aaHF4T1pneXpidFJzb0x0dld2cGJVenlVdEFVUF9kV3ZhZmhCNk56SUNlT014MEhXLURPSFRGeFVVTllaTEE5dmp1UlZoVm9KTGhEZlFzUU_SAcYBQVVfeXFMTzNOVTBoSVF3VXp3bHh6bzh2MlRCNkVCOFZEZnBIMEg4ZlRfZzVsVFFvMERKWkdZOG9YTkhUMElMaDVlTk1WdmNqZm96b3JNTzRRX0VtZ2VWZ1BMcFNJT241MTc4NmowaDNPWGlTaVRkRGp4WkNEQnpJZ1ZXTXI0NG9pZVlzS2FKMG9rdlRuNldCekZrWE5NN0pwcnV3TFpVU1ZiRlE4dVBlay1nRVdqR3RTV0hlWFhJUkJxbENVZXY3bU1HVE9R?oc=5",
       "source": "Ambito",
       "publishedAt": "2026-11-07T15:55:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "7f9236b97ab6",
+      "title": "Ande presenta denuncia penal contra directivos y funcionarios de ueno bank",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQnFwM3FIRDFpdFdZcXpKTzlWaG5aVEhkWVpBWWc3c1hfMTJrcTMtSTB0eUxxLWtRdXJrWXpoS2ZTT281RUVrMDE2Zk8wdzR4QS11aDRxTDlIQ0xMYWxnV0dnVWJ5Nlp3dUJRQ1VHeFkwSkF1aVpXZG5oR0w2b05lME9HRzMzMERkT1FXb09zRlA4Mk5ieUF0SjBSV2NiT2xsb3VHU0ZRams4c3NPdFNob1NlZVI3akVnOC1YYWZMQzc?oc=5",
+      "source": "La Nación",
+      "publishedAt": "2026-11-07T15:53:45.000Z",
       "via": "google"
     },
     {
@@ -818,6 +1154,14 @@
       "via": "google"
     },
     {
+      "id": "aec421ffb3d9",
+      "title": "Expresidente del Banco Central de Paraguay se entrega a autoridades por caso Ueno bank",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV1QxN0VWWWdLVGxjZXhDeXZSY3NsVDQ3X3ZCdlhmTndiV19JUDNQYmVtYWJTRGZobm5Gay1CS0xadkdCTlhLMzlxMERfay1vY3E1MGs4Mjd5OHBXNHZza3hCbzJpcVA2Z2lZeGVrUHI2Rzlac3NRcUp3ODVMUW54bDFJZXFMYXBIWjMxcjliYkdUcE44Z1h2RlRCQi1LU0pVdWpBVnRGek1udUtUTTdIUThXZHMzMHEzYXUyc2RJMHNMX3R4Smc?oc=5",
+      "source": "XEVA",
+      "publishedAt": "2026-11-07T14:22:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "46a84d31c89b",
       "title": "In Paraguay, 27 people charged in Ueno Bank case — The Rio Times",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0lrT3VjQmZVV1VUWmNmREZJSjY1Rl9BR3llb2k1aENGUExnM2lJSDNKQ1pVRzNXQUlsLXJQMUk2TE5KXzZsZmo5X1VRMldGU1lZMXNkQ19ZXzN2NnhzTUc0aFRpa2hOVWdNZmZMSTNBRkpRdmI4NG5obFVqTVFOSzFaTjVlTlN2NVRnUDdxTGZfd1NIbXdIMlh4bjJXNHVp?oc=5",
@@ -882,6 +1226,14 @@
       "via": "google"
     },
     {
+      "id": "c1e68a5a8a6b",
+      "title": "Caso Ueno Bank: cerca de 1.2 millones de clientes en Paraguay reciben la devolución de sus fondos",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTFdxSVdKM29wMXBIdy1XT3VnZ3B2Q1V6S00tM2tJMmZxSVNncTJSQ1QzTEJYUnplT0ZmM3VsWlY3WTE5OEZCbnROdGFNejlRa1lmSHViNDdPRjJ4STc0c1NObjRBQUlEbWxGLXBTMk02ZTRCdVBzQ2xhMTZneE1TQkN6NXBZQmttVGJ1Yjd2ZGw3MW9MbFAzT0VadFltV3MybnVGTTM3eUZ1ZEJYb2hQWS1TUkpTU1BIcEE5T21DR21CQWwwaGlaY0EzUFBZTFBqa2p5a2hfMzZBdw?oc=5",
+      "source": "LatinUS",
+      "publishedAt": "2026-11-07T13:38:04.000Z",
+      "via": "google"
+    },
+    {
       "id": "c814f98a648d",
       "title": "Video Ahorristas de Ueno Bank, en vilo por sus depósitos: “La incertidumbre es enorme”",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSkJZLXJTZ1B3aVZRdmhiLU1FRmFNV3dpbGtpNVFOdk42WW9ta3JqQ3NIc1pXT0VIQmVETmRaQ1lNelVCWGJ2TGc1REIwVlJoODN0cWlXUk1aSkRQek0xSDFXc1ZieTVOMVp0ckVDaTIxc0ZRSnQwQWdEd2ItNTMtUWxKWldyTUYxcXRSRXNxb3lsWmQtQm5aNXo5OFRfSjk0R0p3RmdCdw?oc=5",
@@ -903,6 +1255,22 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDNtM2pxdkpfZnZpTC16VlVVaHRjdHNkRFV5OGNoQWZSa2F5dmt5MWZHSWJ3T19ZZ0UxMGFZTU5uZHNhV0dpY3Q1MHY5Vm50Mk1GVUlzRFJRQnNkS2gzR1RqYkFvYVRhOEJqQWVIcktYTTFPclJOMndzR3VMYWVZemp3X05nQl90Tkc1cVFtTXI0MmpCWTFSeWlCLWZsal95ejhQemx6WDNXd1dnNU9jcWJoZlRUTm9OYk5KdVNUWQ?oc=5",
       "source": "IntelliNews",
       "publishedAt": "2026-11-07T13:11:40.000Z",
+      "via": "google"
+    },
+    {
+      "id": "16337eb8d150",
+      "title": "El escándalo de Ueno Bank puso a Santiago Peña contra las cuerdas. Un banco intervenido, una crisis financiera, protestas en las calles y conexiones políticas bajo sospecha. Así se gestó uno de los mayores escándalos recientes de Paraguay. 👉https://bbc.i",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRDBUOVJxTXZTaGoxZ0JiTUctc2VHRzlUSmk5VGhwM2lwa21kX08ya29iY0dnZFMwQVZMcHFweVVSM2JtOEt0eWdGdTI3bHBnVDNhU28yNlgwU1FEUC05cHVqRTUzSklSa0VYa1dneS1udFE0b3hIZlJCQUh2TFVTVXkza1BRbXJFbnZwNXE1cXA5SDNlREhFZGg2aE1iNXZCbk5sVk5pWHZBMU5XN1ZtVkZIck1Xd29CYXQ1Nk81c2Y2Z0xvaFotZE5jX2ZVUkNBaDhnYzNoWTNRSXNCLUZ4NzhPVmdKUzA?oc=5",
+      "source": "Facebook",
+      "publishedAt": "2026-11-07T13:08:05.000Z",
+      "via": "google"
+    },
+    {
+      "id": "287537dfb751",
+      "title": "ANDE presenta denuncia penal contra directivos de ueno bank y busca recuperar fondos",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSnRiRVNoMUNOWUJuejE5M1BPUDl3SzlpNHJkU042NURneWJNM3ZVbnJXVWNJXy1HS1U3aGZ4UW5HVFlvZFlfT3lxaDUxalFaN0VHdEVuRVpNa09GeHNGT1BzZnNNQTZHbnhRV1pPMHFPUUtYenhoakd3S3FoTnpqYWJ5WG9DSVIwVTBoRk0yUlVxQjJaZkFSem1XanpxVkM5UTRldXpIcU5laFRONVZobdIBvgFBVV95cUxQckszNzZPT3NpbFVYNzlPMlMwdjZwZlA2cnlHdjFNd3FOQUUzLWpHbUU0NnV5NDI3Y2UxbXJzQmwzZThMY3pDdXVLM0FDbzRtNW0xdGxkdkpTX2NHSTFOSlZpdEZKY2lPMTByZHpPUlRsQUY0eUNaX0VrVXItSnMxcHRWUXVFY0VEX1h2T1U0dWptbVpVM0Y4OS1hc0dGZnQySzVTc0lRN0k3QVNYUmZUQUQ2YUNlYXNGdllVN3d3?oc=5",
+      "source": "Última Hora",
+      "publishedAt": "2026-11-07T13:08:00.000Z",
       "via": "google"
     },
     {
@@ -959,6 +1327,14 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOFBVa0pyQ0h1M2pMQjREM2c5UkoyVDAzMV9kZDVPQ0RvVFhiMmIxcEppc0tLNlRHb3huS1JEdVdRTXZEQThrclo5RzhjeVI1M1ozOWIteXJpakR0OTFVQ2V3eXBZbEo2X2t2dDNQaFh0SU5WUG9BQ3FnZ3dwN05SVXlocFVwajhXLXFMRlQ0VnIzaWg5MVpyb3hYeERhU2J2S3dlRmxHbnBaRU9HOUhBRDNQX2VQakNBQlVXeWxGb3HSAc4BQVVfeXFMT3JDdEo1M3NrSTY5LXR4NEJFYlNjc0tIVUVwMGlfNGQxVTRwR3pER3g0dmJkNm9pVjZJVEphY01Qb21KaDdGRmxDWXY5U2d2eTd6U1Y3YklxYnZBTzFzVHQwTUktaV9PUlVSaHhvZW9iajYzZDNYUTNBVi1hZS1SVVpIeFdyNWZoa0FQcFpwTnZ4NXY1Zm05QkV5cVFuZzE4T1VSV3JiWVNINkFMUmowemh6cjE1c3djQTM3RVYzQ3VCQm80QkNOeVFmekhtVlE?oc=5",
       "source": "Última Hora",
       "publishedAt": "2026-11-07T11:56:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "b530a674162e",
+      "title": "¿Un informe anónimo precipitó la caída de Santi Peña? Un “sobre” alertó sobre Ueno, revela el nuevo vicepresidente",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLUdoYm9fZ2k1SEU1TUxtUGItd1F4MEFBZ01MYmdmeFRrSW5pSzVSS1EybWVSSEtBNFF0aUpWR1hSalhGN2FaUlFNTFkwQTlITXBDUTBZRE1QbTd3UnhXZGktcjVZcWpDNExaWFVQbEpvTUJmYjZzcWsyM1E1QXdJUDBhNzNaNVhDRFBKemp0a2tZQkFQVkRwN0lFbmozQnJjNG9mbXZHeGEzb0FEMEJVZExJSG42d1dFLXZSQTU2VkMwNUltaWJlUUJwbHdiQTBMcm5XWFdKRUR5ZGI3czlmUzFoWTgteHJ6?oc=5",
+      "source": "ABC Color",
+      "publishedAt": "2026-11-07T11:32:00.000Z",
       "via": "google"
     },
     {
@@ -1274,6 +1650,14 @@
       "via": "google"
     },
     {
+      "id": "28e34a63be3b",
+      "title": "Crisis Ueno Bank: trabajadores suspendidos en Argentina reclaman que intervenga el Estado",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX1gzZGQwYzhMTkdmd19WbGNOa2plZUM2WUZETVpoWFd0VGh1UG9Zb2xYalpUMEFLdzFzSDllS2xGT0pVSGtzaVA5bUtnWjMyem9ldm4yZG45YUx0WDF6TTdQaVFaSktGMWhIV1pybzNTQ1J0MmlOTy1HNUI3Y2tRT05uWlI0b3FDck02NDhkRnlucDFuVEFUWUt1VUlKdnRaUG45SGRDQXplb2NSbVFfVnRnaXpGa09rYVFrd1pvaXJXS0E1OU1kaTF6RGtxSVlDdVNEMTRhc29CN0oyb1gxWTZoaw?oc=5",
+      "source": "Cba24n",
+      "publishedAt": "2026-11-06T23:56:04.000Z",
+      "via": "google"
+    },
+    {
       "id": "69cccc6769bb",
       "title": "Paraguayan President Santiago Peña Was Removed and Arrested by Ueno Bank Case",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0JzSmdJVGRUX1BpdTFIZGJRUGQ0d1RtVzJSUEpxNVRTY01EMGtWQWtlbXlGTGJZck1keEhmcWtXMG5FN2NGVk9JMFdYYjRjWVY2VmFOQ1hXRXZaTUl3Y3dLTmNvZEYxOWt5aDZGZnRmYkw5dzYycVFGWnQ4YWZ2bC1RMWVubm1PeDktbHhsRkVpTWh5TXZfUmxkTFBSQ0FoNmNXN19wcTE5WmFwNTczQVVwVQ?oc=5",
@@ -1354,6 +1738,22 @@
       "via": "google"
     },
     {
+      "id": "4d40e65bcb28",
+      "title": "Fiscalía de Paraguay pide prisión preventiva contra Peña por el caso Ueno bank",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU0VkWjdvLUxrVzV5UWg3MkdWYzhhdEkzS1lRajFRR1BleTRKQlN4QjN6NVFsNk5CejVBRlp0Nmw2aDRTTGZLNmR2a05XRmV5bWtYcDVSRWdzbkI0SnJZVERaNUJUTjVXMjU0ZnZrY1dUaDdmdEp0YTlLMWlrNFN3SUpvcU1nTDk2b3JuZnBHV0ZjUTc5cVNFVGhLTkF3dWZhOXFfRDlHUUo3N1BlQWpsaFZhdENMNXp6dndxeXJhOW1kWkkwQ1Q0Y3F5clZ6N24zdVViUktmb2VIMWhRdHF6ekZiZHFneXlvUzdQYWpuUmt4anM?oc=5",
+      "source": "RTVE.es",
+      "publishedAt": "2026-11-06T23:01:25.000Z",
+      "via": "google"
+    },
+    {
+      "id": "58ef897933f8",
+      "title": "Unos 200 colombianos que teletrabajaban para empresa ligada a Ueno Bank no saben si les pagarán",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbUVZdjJwTGZtdkI4ZmVELXpvdEZyd1V3clhMSktmLWJBLXhMV0czLUxqdzN6VWVhQ1lBZ2IycHV1Vi11aURBeWtrX3RyVWNRYU1ITmQtYUtNeG56eGV4MmkwYkh2U2t3bVljMGdQdHZpNTBoT2E4Um1KSnY3aHFNMENwbHpndG5Xc0FCOE1YWlduMloyVk5KdnNfMnFyeWdlcnRlY0lB?oc=5",
+      "source": "Minuto60",
+      "publishedAt": "2026-11-06T22:48:36.000Z",
+      "via": "google"
+    },
+    {
       "id": "0eb53a69bb2b",
       "title": "Las claves de la quiebra de Ueno, el banco que le costó la presidencia de Paraguay a Santiago Peña",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZUttYk9zZnRnTkRaZm1ienB1VHFjT01zUXh1UFhNVkZZM09QVXpaandGOVAtekJRbHd2cGJHWUlMakRORWFRdHM1SVljMkpTd0NHYjk1b0Z1RHd2TlowZHVTVVVISHh1ajRJY0VnRF9DaVRMcUlPYVRXRHRoUDY1T0VYeGRDNHJMYnBUV2owSmhqUS1sa01sbllienFlYUlsOGRtdi1CRXhad0xpQjk0d1d3NnU4WFNzeXdpaHZZaHltaXhoQWhfUTVKNkFRM2hGRHlfbVhLZ9IB6wFBVV95cUxQdXpLdUFpN0pnTHViR2hhc1hGRmpzbFBFVV9FYUZ6OVNzQ3RCN3J2MHhmVkZLY2tDS3ZZMzBpVGpFQ0NWM2s2cDZEWG9vX0h0OU5EVmhfMzRkN2FtYWhtYzg4a0tZS0I5a0JSeUJlSzFuMF84SmRxT0VWYldaZWhELVJ3cFlHdjBFcTBRNjI5TF9wU3p3RlN2WGN0LUpNdkplMnB3OWw5WDNMZFVURy05UGF6RVZ6Z0VRUzl5el85d3VOdk8wc2tsNDM3OS1aZ2pLMUd5dm1JSWNSQU9vc2x3Y1pEbS1wZm9XZ0o4?oc=5",
@@ -1394,6 +1794,22 @@
       "via": "google"
     },
     {
+      "id": "66cdcc57b0c6",
+      "title": "Crisis de Ueno Bank: suspenden a más 900 trabajadores en la Argentina",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVm1ONFpNZFNINlFvaHJibHBUcjY2V0wyZ1d0Vm1wVkJtTzZnaTNTZXlQanlJeE5NM2RITlN6R0JsTm5SdXlTQU51aHRtWlR0cW82QUs4MTlrUnFMZ21lbFY0RjhiRjdzZ1g2SkQ4a0VsSzlGODhkaVpLUnV2M0I4U1JMUGZPNmx0ZnloVXpwT1RuVkpTQ2NQTDRoVi1wb2l6WjlPNVRSVm5PdTA?oc=5",
+      "source": "Diario Necochea",
+      "publishedAt": "2026-11-06T21:55:42.000Z",
+      "via": "google"
+    },
+    {
+      "id": "ff97e69ec6cb",
+      "title": "El escándalo de Ueno Bank golpea en Argentina: suspensiones sin sueldo y salarios impagos; 900 empleados bajo incertidumbre",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUk9lR2VDaWdBb05OWVFabWF0ajdvU05kd3dubjNwTHdFaWNxUHAxalROVmxPU2pqLWppWTB2eHB2ejRKTW9Qc0JSODdwbkh0amhJcFZWQi1qUW12OFBBMUczajRIRFl4cFppY0g5eTdCQnZYaFZkTEpIMkVDRUxaaTNua0ZvQnNaQjllX2VOazJ1NUwwS1RqNDdMM2FsYWZFMkpCVjVWWEZScDdoQk5wZjk1aGlPQ18wYUY0ZXVnMHpYM0NUUTNBQkQ1dkpjU0VjMnZ5TTdrTnlqcXFFZXZhelQzUDNuUFFkN3Ywc20tdVEzdTczd3QyOGZjVHpQT2pEWk5UQkFVUEVNRUJlZTBr?oc=5",
+      "source": "Data Gremial",
+      "publishedAt": "2026-11-06T21:51:36.000Z",
+      "via": "google"
+    },
+    {
       "id": "e5f763986398",
       "title": "El Banco Central de Paraguay inicia el pago a ahorristas de Ueno Bank en plena crisis política",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb2R4YzB0NmV2TWNwVFBHXzZjb2xTQ2pIam9XRlNoN3NiSUc1REZjX0FwR1ZxZW1sT05kQURJcUF4b0IwenVJdXQwMHk1VDZMYldYMml1TUdZVzdjN25leGpjSjhkZnQ1Umlzak5kdFNwT3puUEQ3bWZWWEtzUS02U2d5NlktNVhBYjZKT0N5Um8xYWhHWXpMZjcxdmVyQTFyREs3QmFKQ19mVWRNWElSVGR1emdMNmdmQjB2Vk5CMk0xS1V4SlhVX3FqVXBTWjZjWnl2c1ZtUVpkVlRTQU41aNIB5gFBVV95cUxNRHBySWFIdkxUUno3ZzVSWnVFU25EWkEySVMwWE1MYWhGaFctcDk0b29fU0hHWXBZNHktdUJaUjRtS0FsSGNuWklJWXpjaUZwNkdvOHRnbnYtTTRvUk1lXzJ2cXdTVF9FZVZxbmZoWjdzVklfWEY1SW1HajF0SGtPSVFkU1VaWHJ6dG5CWU5tWUx1VGFhOTlIY2pvMzBRM0lmRGR0cDNIYXNiQ2w5NUQxN2xwTXZnelZaOEJXWi1tVmhuaVV3dEIzSFI2VncyckxBT0RBb0d6ZDYtSE5NQXRIYWZSVjdLZw?oc=5",
@@ -1426,11 +1842,27 @@
       "via": "google"
     },
     {
+      "id": "be8e78d3546e",
+      "title": "“Corralito” en Paraguay: la crisis de Ueno Bank derrama en la Argentina y hay más de 900 empleos en riesgo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZDdIT0VQbWhLY0xIckZFUVJXWl9rMmg5X2VBRW9NX0k3WElVWmxjSFNtZ3gzMzM0Z1VzZWJqaF9vYUJxX2FhRVpuRi1sbS1YcklZNW5NdDJickl1TG1HYWY1dGt5QWV2T2VmR3V1b1pJTWtqTUxoWTgxcWNob1VDZmtrT3lIaVF5M3ZIbGxhSFAtcXNtTnU0UUhWLUpDbVpsc05OdTZUZHkwdWxUOEZCUGVLWWU5UW5xY2lvcnZyaHlDdjV2YndCWQ?oc=5",
+      "source": "Mundo Gremial",
+      "publishedAt": "2026-11-06T21:39:41.000Z",
+      "via": "google"
+    },
+    {
       "id": "ff7be9c25fd7",
       "title": "President Peña skips Senate impeachment trial as Paraguay reels from Ueno bank collapse",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVVVtdUY3V3JkRGFMVEtaVUQ3MWRTRVFqQTNldVRoYWR2OFFaZ2tyU0dOcWd2SXFDcFRCcUJOcUNuQ1R3aURFZzZObDVybDFrOFpHcGlEeG5DZmk2VGlJeDhzalVFT3hPbkVVY0hQZGFnRXRTZ1dsYWZBNmxQckVhaDZrLThzM1BzM3NjalhsU2dUYUp0MVBUYUVGaXotQXRXVkZxa2R2SktJMnkzQ2ZhVTdlZ283V1diV0VVcGNhbzlGbF9GNFZtcHpTNmZGN1ROTzlVMWtB?oc=5",
       "source": "BNN Bloomberg",
       "publishedAt": "2026-11-06T21:39:29.000Z",
+      "via": "google"
+    },
+    {
+      "id": "6aa3783569dd",
+      "title": "Ministerio de Trabajo y Defensa Pública asistirán a trabajadores de ueno bank y del Grupo Vázquez",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORmJxNUhwOWx5MFRWU3oxZEc1YVlqdGljMzFyZ2hjWTB4aENWMFVkQU1CM3VjYldvMlFCbExaVjdLdUp6S2NxNS1IOGdlYjA2clNqaThCMG82eGptYUtCcW9fVGpoY2RYaE5MQmxKOEx6Zm84X2VWaDFCX1Vvb3NyUExGdGdGeWZ5Tzk4V1FsWGhFR3NIVkpHUmNGclZ1VngtdUQ1Tmd3eW91TVEzSGtLWlpTRGJfcWdzNTdjbDl1ZnRpX3dsQ1hwVEstV2tJSlVVMnNtZndtUkR1QQ?oc=5",
+      "source": "La Nación",
+      "publishedAt": "2026-11-06T21:06:07.000Z",
       "via": "google"
     },
     {
@@ -1455,6 +1887,14 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTW1WMmFyQmNjcWp6S1N5Q3dUM1V2Q1BkZGxkbUJSYTlhQ3hYbWVfamxCS0RkWmdVUHJuMzdjcFNxa01RZC1KMkdjYlVvSHdTMUJkT1QyV1A2T1QyR3pEdVJoRVlpQXhsQVRBN0dOb1BfYktOTVI0R1hMeFFLTzRpaTB2VHdVWkt1S2pzb3E0dUFSN2V4M0lOZGt6VnNWVklncG85S00tZnZ1TkxRc294X1R0WFF0VDgzQlhuWWZ3WEN3TzFFeXFTR3NXTjRzR3pMY0gzb0RPbzZpQQ?oc=5",
       "source": "ABC Color",
       "publishedAt": "2026-11-06T20:34:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "e4305b4de41c",
+      "title": "La crisis de Ueno Bank también golpea a trabajadores en Uruguay",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVzNXTXFuQ0MwX192bm9FcEJ3MXJUdzV2Vm5aU0VhVk5XbU1lSnJ6eDdHQkVsUDRMeVpTVWdXZFhRVkpFRG9EZHNndktRZ3JpZmVwUHdHNHNyYVRpeU53Q1RzU0JndTlRUkV5MTR5Y3ZXdXRIX1U3Rkp6WEktXzBBTkVod2xHN2Vvemt1anRqaUZtUnFfTEE?oc=5",
+      "source": "5Días Paraguay",
+      "publishedAt": "2026-11-06T20:30:05.000Z",
       "via": "google"
     },
     {
@@ -1498,6 +1938,14 @@
       "via": "google"
     },
     {
+      "id": "aea290d2f8d5",
+      "title": "Crisis financiera en Paraguay: incertidumbre laboral en una tecnológica vinculada a Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0o3Zk9HMDFyT1hhVjh3cEdqV2NWOG1CSk9GS0JxWGNkQTRLREtxMm9Fd2tZbi1VcGRFbEtfd2NSLW9fWV9OSGYteFMtNW81VVQ0VklLUUNlSGY1WXlKVlZsNzVoR1F2WXY1N3E4d1pLbk4wN0ItS1hheE92YV9GSTFJa3FBcW9JaEV2ODBWV2V6VmhpSDcwQm4wWXNFY3c0NkczOVlhd1lMc2hZUnlfREpSaFpvSnl5dlE?oc=5",
+      "source": "Latam Gremial",
+      "publishedAt": "2026-11-06T19:28:12.000Z",
+      "via": "google"
+    },
+    {
       "id": "beac2e82c7bb",
       "title": "Fiscalía allana lujosas viviendas de directivos de ueno bank en el exclusivo complejo Aqua Village",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1ljNEE4b2pSeEtvY0xJN3dLakQ5R19naG1TLTROdzRHNVY2UjRRanBRZHVyZWFUSjJDZ2w4azlRZWVTaXBIcGs3OHhZanVhWVA1WTNSWE0tQWNSTjRKbkFZaWtIYzdzZDR2WDA3c1hHVk1WMllsaTNQd1I2QWw2cHhGMWVjR01mUFM3UkpULWFkUVQ1ZTBjOW9tdmpQSWphNFVDNzVKVFctTTkyX0JrNTdEYll5RmRObXNtRUVyQ1h2NUXSAdABQVVfeXFMTzdNNlJFSGUtZHdUTzBwU01Db0FjZHFwbG9WeGNucmtuOFhPT0VobUs5SWpxUVB3WUF0NlZfWlItaUFtZEJQeXMtSndHUk9MTnV1QkM4SktSejFscmR5eTA3QkpqUnlXMXNGcWdUc25DcnFNTndpa2tPOG9MQXVHWjNvX2NUeEFrRVJhY2N3aklwX3VsVXFtTjI2NllOQV9zUUYxNXZMV3FSLVlVRExIQU9uM1FqaDFLOVRnTFE5T09GM21vYkxlSjNDdW5wbVA5eA?oc=5",
@@ -1530,11 +1978,51 @@
       "via": "google"
     },
     {
+      "id": "3c3fa7deaed5",
+      "title": "Ministerio del Trabajo pide defensores públicos para unos 5.000 empleados de ueno",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd3JZUXNMd2FXeWpyUVZQRzhxUEVMMWhyTHBlcGQxM1ZXMTM3dGRCOVUtSktyb1JsendTOTZOS2taNUQ0aWFJRlExWU4tM3NBLWpLU01TNzAzQnZ5dUxQWllBUEVhQXBiM3BJYWNmUnhEWTlCOEZKOWZSZllPdzhHX2tONWdyZGFKVWZocmNGdGhOWHJZZWpnUUVQSzJfOTkxcWNyZF9XbVJ5cUJXRGNrQkNRb3owQWF6ZnFF?oc=5",
+      "source": "Más Encarnación",
+      "publishedAt": "2026-11-06T19:08:05.000Z",
+      "via": "google"
+    },
+    {
+      "id": "15d6fe9d58e3",
+      "title": "Protesta contra ueno frente al BCP: \"Nos cortaron el seguro, hay gente con tratamientos oncológicos\"",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS21GaHFhM1pfejBpM1c2VVpvSEpKenhRZjlwTEMyUThUdUI1OEtmUmVEZzd5enRqcndTWGdCRXFGMTlISW9PNjN1YVlObHE2UjhMbGxZWVVHalRqVzAxdkF3cW9tZXVUNVRObGhlSW5EbDRBU0NDZEFwR3RiZUtTX2hKaVBZdW9GZkthaXViVjkxeUlEdVo5djluUU5jcV9Wd2Fvd0NVeGozc1FhVHZ6cXF4LXlJVV9LNTctZjV3NU_SAc4BQVVfeXFMTmFJV0dKSzY4bzFlV2owYkxqZEtpbGFPYjRCcnpab3hpRGtObExlWWt3V1M4NU9DX2dLNjZGTEIzanRPMW1sbzJsaDBPaVBrNnZUTlNMV3lHS2U4VDQxRVVhUU9QY3R2cW9ZRnU0SFRPdjE1eEJhcnliM3k4c1RtaWZTZnBqOWNqaDdRZEFiNXNkZ2ExU3lfX09idUlKZ2NDYkpDX3Z6OE9GTXZQMDduYWctbm1ReHFyaU9pYUw5LXZUOHNrTXBIMGtHd3Y5ZWc?oc=5",
+      "source": "Última Hora",
+      "publishedAt": "2026-11-06T18:54:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "b00d1c19209b",
+      "title": "Caso ueno bank: Ministerio de Trabajo coordina acciones para resguardar derechos de trabajadores de empresas vinculadas",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYUlOR0EzbnoxSTgwT2FEc2w0anBHazA2VDhtYW4ySkJkc25NZU9HaG1pVUpZUU9STGVicVVwVEZiTGt5VHZzN3VrMHF2TGRIckIwdWVGWkU4Y0Z4RFF5eGJYYVRqaDdzUHpVSkd2YVBWdnNueE5oMkxRVlE0Y3FDVmc1MElKTW9VSmpfNEZUVU5rVFhlcXRndXZtcEc0Y2N2M05ybGdhejhWSnN0ekVuOTk1eEpSbVprZk5YQjVkYW96RVJzX29pRmV2NHZhdlFPYUpMRDJNU2o1eERmMkdkd2ZkZU9XQ1lFbG5WVFln?oc=5",
+      "source": "Prensa Mercosur",
+      "publishedAt": "2026-11-06T18:46:51.000Z",
+      "via": "google"
+    },
+    {
       "id": "65113fe5c204",
       "title": "Detienen al expresidente de Paraguay Santiago Peña tras su destitución en el Senado por el escándalo de Ueno bank",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFJ6Uk8ybW9UVE52d19IUzlLSkJmR1h5ckZuRFBnV0FDei1EdkdLN0dwWHpCaDlYLWs0WlJDa2lFbnY5STF3OEgwRkRTbEhCMXZxNkhOT1VzZTZzdno1NUtFN0N3MFlMeF9DdGFjQzFiTXZrbTNlSEc5YVBfS21wRnlKbkFsLVFGWnF5WmVGaUxNcVE2VWQtajE4aXJWSmc?oc=5",
       "source": "RTVE.es",
       "publishedAt": "2026-11-06T18:25:59.000Z",
+      "via": "google"
+    },
+    {
+      "id": "27b324310369",
+      "title": "Renuncian tres funcionarios cercanos a Santiago Peña en plena crisis política por colapso de Ueno Bank en Paraguay",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVG5JcHJjejdFYnd1Sy1oYldpb0hUaXZYYl8xQXlxbjdaX2t0Ti1qZTBackpSRGpOUVcxdkxVb0dndnotVUFhc2tGZk9UNGhRejBFM1oxOUZObG9qVzR2dnJzclN1VGN1Z1o1OTc2RFhybW54QWVfcnQtZjNkQ1hLT0hGd3pld1g5SGVCRFlOVnpiazFFSDN0TTdHRnNkRlVpN1F4VU90UXpLLWdpVGpHN0VCZXJZNVdOLWhhMEtSeFFYVjJaRzREbHhuWE1OcGJYRGNyWGtxUQ?oc=5",
+      "source": "Viva la Noticia",
+      "publishedAt": "2026-11-06T18:23:09.000Z",
+      "via": "google"
+    },
+    {
+      "id": "2ad1a0e1fb12",
+      "title": "Vázquez a empleados de Ueno: “Al banco no le va a pasar nada, el dinero está ultra blindado”",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFVWdG5PYzJCX2tXU1Myc2FUOWNNZDJxSU4zcnZKZERRbmd4ckt3VzBxenBZUkZWYU5UV0xuQWwxU0lxdGZCYnpmYkdWRUlWc19aQUlKTTJZWjBXcHUyLW5JbDFsOE1lZWx0RHVwOEJHN2VKWkhJc0xYSTNGdkZrSXRtWFJMMFRKTXBMRzdBZE1lWTd0U0lNUHljVHBBUS14U0djamZwN3RVa3Y0UVh4d3hkeE1jVFV2aUdSSWhKV1JkMGI5ZWFBeEZGRXhGdw?oc=5",
+      "source": "Diario HOY – En Paraguay y el Mundo",
+      "publishedAt": "2026-11-06T18:18:00.000Z",
       "via": "google"
     },
     {
@@ -1546,11 +2034,27 @@
       "via": "google"
     },
     {
+      "id": "9ab035c35845",
+      "title": "Caso Ueno Bank: por qué un empleado suspendido no podría buscar otro trabajo",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV0xGZWpZRmVrY29aVEFHRTAtYklpam9aR21kWVRuVDBiekJSQXdhM0Jkb3NHTkxRN0o5NXpiQmNNOFJ3Qk5JNWJQSDJfMVdKZW9Bd2owS0pUOHRRQ1JNRGFwWHdESkNOSHZ3YTlLcW5jTHZWZTB0bmtfSGZybHdndXV5cUROeHdFdmdZQm44TkFYdC12aWQ4ZkJvZnJ2WEQwcnhkUHhiNUJjbG9vTzI0SE04UElJWVh6Q3AyZ2ln0gHDAUFVX3lxTE5uTlNOT2FwRnFfYUhsWGs4b3I4WlozUFdJQzBXZUFteFdtUjdyX0lmNFBlQzhrLVA2TkdJQ0lnelVyOW90S2FRekVIdzdrenQzc1BCWWtKWXNJQklKT0tTdUttNkJFN1NVbkRkdTBQWWJzV2lPM2E1bDZPSU5Wamgtam1BQU03UDJNMXdRb2Z2Z3pmZWNfb1ZsY2tuWDd0MjFQOHZOQ1dLTGVad3dQQ21SQ1pBWDhBRkxFUUNtVnViM1JIOA?oc=5",
+      "source": "iProfesional",
+      "publishedAt": "2026-11-06T17:53:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "672acb828d11",
       "title": "As The Logos Come Down: The Rise And Fall Of Ueno Bank In Paraguay",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQzhFUjhQbEMxTkZkcHphOGpZNVdBSHlwVU5ta3dRZ0lqbi1xZzFtY0p4Z2hSOGs0WnBIOXVoS2NKLWtEamwwTWhidFVFamprclBQeDZBNWRrYmFDdW5MdS1MaGhjSWpRcW9vTjhteEVvY0F6WEVVZU50RWpQWF92ekQzS0VRbWNOdG4wcldiSUE5OWNscmJuUmZMUXF5Zm12OTVrOUktZ3czVjJZa1VHSDVHTnQ?oc=5",
       "source": "The Asunción Times",
       "publishedAt": "2026-11-06T17:48:57.000Z",
+      "via": "google"
+    },
+    {
+      "id": "b1a5ba7a6039",
+      "title": "Defensa Pública ofrece asistencia legal gratuita a trabajadores afectados por caso Ueno",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd0UzeDVhYjJVN2xnREVrNHY1QTFtR2ZGWDNnU05TU2Q1LVdUOTlxR0RkQXRrVzdid3V5QkFaTFZKZFhjTmlGV3pzcUl2VlRLRDFySXRwbkRaZWEyYjY2NmVQemRNOHBqS0lyOGVJZzgwdE9PZ3dYUVlOczhnNjlUZldrdjZWb0FvMjhsTm1TQjJEeUZiZVM5bFoxaldEaE9rUlBldXhKQVRaZTFoRXgyNHFqejlBRXUwamc?oc=5",
+      "source": "ADN Paraguayo",
+      "publishedAt": "2026-11-06T17:46:47.000Z",
       "via": "google"
     },
     {
@@ -1591,6 +2095,30 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUW1aRzBFc0NBbDFpTkdBb25tVUlKNkwtQ1hrQzFPOVJVRjc2SDN1S2ljR3RNSkFNMmRhTVN4VUxobmcyWmR2WkxHRE16MVgtcE9NWEZjTVRTNkRjU201aVJ0SndoVjdhTTlJYzJHRlRycEhDc244Q0ZldjFydlVRVG5KQm1ZVFRTWk1rWEk4UmdQaG04UC05YXJB0gGnAUFVX3lxTE1LM041WE54eTNtanlfOE5KRmNkVVlBNkM0RW1yUEVHbFZnNmszd0Zvb1FHRXpHZ25VdEpaY0pKMFN2cnpRdUpOSzRyVGtBcnVTeUlMWDNDaUp4MmNSeGFyOW1XVGwzWTU1VjJvSFNyYnAwRnlzaWlYbE91a1hvSEFxQXI3eTgwajl5VW1IdXRYUUZRZ3p4UkVZUzc4bVJMbTNIRjYzbDVB?oc=5",
       "source": "Última Hora",
       "publishedAt": "2026-11-06T17:13:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "c612c4684cef",
+      "title": "Empleados del Grupo Vázquez afectados por cierre de Ueno se manifestaron en el MTESS",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZlp0d05oazJoTjdLTHZ4cjNrNGZXTmtGVjhSZnpOd2pMakxQM09mcEJKRDdPcEFaNEZLUHp0aXJRZElkNVpkQVR5UWREZ1lrUnlibnJxclVqdkdwZVBUOXBUYVJpZUh3ZnNaLTloVzNvNVlfeGg2WDNJQ1ZWQzlkc2xPMDZrUFhBZ3ZGZnR4S3pmbnczUTJkS3NnakpRRHd2ZC1TMDlnVXI2bnYzWF9EU3hDODFXcGpxdTl0REtSSHV0OHBQTkl3Mw?oc=5",
+      "source": "Diario HOY – En Paraguay y el Mundo",
+      "publishedAt": "2026-11-06T16:38:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "ffa15d458f31",
+      "title": "'No sabemos si nos van a pagar': habría 200 trabajadores colombianos afectados por crisis de Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNODRjc0M1UDVmRUtQYmhfczR1Q3oxVTBtR2M3N3VEV0RkN01iWnJaVWg5cFUtN0F1YTkwdnVxd18zbkZBQ1gxRml2WlBvUkUwUUJSUzRmMW5PeDl4emlkTWh1SWs4WWxjRXJkTnBnLXlodVJZVWxCRUpzTXIxblFya2xTeGtBTUJWZE5XUkV2Z0ZxdnVGd3NJRzFDTmoyZUFRdWstby1XcldGbUg0dnZTZjNRaXRYMjc4S21rSTU0MTF4a2Z2b3NKLVB1ZmQ0ZWtIZUFiVUJCWW4xYVdYQlFhY0tUdlXSAeoBQVVfeXFMT2ZLaDZQd3plaUtObXBtR3NQYkZUeExGS2xYQkRUX1FIc29LdHFrWUVjemp4ZGtQczQ2UmFNU3Y0UDA4aTVkTzUtcjJRN2U0aUxDMTdCc1pMV19zRGI0UFJyZ1BvaGttcHZUaEhpZW9DZllPeW42dmpOaTFXV0RVV29qWjBrNDFBaUNpc0NjeWYtSkZuaE1IdUN3Z1hDRmF2U2hNejVsSUoxMUhYOHA3U182cUNZTE90R3VaVVVQdUphdDNENzlSM2htYWtENVR0Z2lNd1ZFQXpXbDJGNmUyUHJDbG1xNXZsLVNB?oc=5",
+      "source": "Portafolio.co",
+      "publishedAt": "2026-11-06T16:24:02.000Z",
+      "via": "google"
+    },
+    {
+      "id": "bd6adb0e9fea",
+      "title": "Caso ueno bank: juez inmoviliza cuentas y prohíbe vender bienes a diez empresas vinculadas a investigación",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTUVtajFBY2xiaEthdG9ibDduVnlSYkVDbm1LdnpwTmxKZDF1RVQzWDBFcGpZOHQ0NHk5NG00dXFMcXVkVjZmNUU3VXdqZVpsd2pHZUtFY2Z3bWlIOTVRbnVKWHNucHdEY1VFTWkwdTJaMS12RWVtczc5RzhpNElVWWE0T1hmWjBEcDNkeEN5WTJ4aFp1S1lCRHRkRjFpbjlfRWZmMjE5YUFrZWY5eWVOMEZTVExkOVNTV2NZVm1oSTNmbDVhSVJyRXhtdkhpTEU1b3VTV2x4Vm54WXZtTW9GSXRuSHpJV3kyOEIwTA?oc=5",
+      "source": "La Nación",
+      "publishedAt": "2026-11-06T15:56:58.000Z",
       "via": "google"
     },
     {
@@ -1682,6 +2210,14 @@
       "via": "google"
     },
     {
+      "id": "9be68e9b9a99",
+      "title": "Trabajadores de firma ligada a ueno exigen restitución de sus salarios",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX2RLUC1nVWNDSTV6MDVKR0gyNjRKMEJqTGJseUpwalo4dVp2aHNESDZjWVlxbi1QNHM1NXFudkJCVHdaUmplZEV0bzQ5NmQzTHhsR3Z0VmxveHFzYmxhU3VWa1dKZnNzSWQ2SDZMVWhPVUI0dmVvNmhLZHhYYjZSNHlPOHpOeGM2ZVRXbUdsLVZYcVUwTGZ3WmZVZERmd9IBqwFBVV95cUxPbEw0LUJnQnlWcHBtMzNuVXhUbExIT0hsdHpPT1hOV0MwOGlROVkzYlB1aEZwaWhaWEhEb254ZEJvbzU0N0hhUHRybVlUSXpNUHZ0MU9NUzlldDBINXp0WWNnQTh0RkFldklEZmtRVU1BTmZEdG5aZEw1M2ZrRE1ucGVUQ1EyckFQbnBzSmNRQTB1MTJ4WkxnblVmamQ2eE45eWhLYkFRVWFaU3M?oc=5",
+      "source": "Última Hora",
+      "publishedAt": "2026-11-06T14:31:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "aaddcbf2528e",
       "title": "\"Perdí los ahorros de toda mi vida. Todos deben ir presos\": la angustiosa situación de miles de ahorradores en Paraguay por el cierre del Ueno Bank",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TeTU4ZFZaS2tkUV84ai1pZzBvbUJTby1pRUtUa2VMV1V6NUtnU28wQW5TNXJ2bTVxQzVJSzVYeVotWG9GZVRUWGlIbzRKUGlfd21yZThXY1RIcVY40gFiQVVfeXFMT3RDZ0dzUFpKOUsxWERxZTZKTE5oUElhaTFlVU1FREx0VHd2emsyT0FsbnJOSWIzMnVVSndmdlZ2cFN0UjdRZzJJc0dsNi0zMG1CRVhJRlZUM1MwMG1reml5QUE?oc=5",
@@ -1695,6 +2231,14 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ2dGbHhxTDFGYWJfUllWSHJ3Zk9QVDIzQ1dyOVVlblk3aEhFc2QwQUJwVUpQU3RkcDhlVkt4NXdacm50Y0NfQnEwdG9FZl9KV1M4Vm9QRGt1bTBSNW9zU3lrVl9oSGNxRGFBdS1GLVdPQ1RBUUlxMmJIdWdMRWhna2txcGtMdkg0WFhMZVJKSEVQV3oxOUZLZmJBdzBfdEN2WE44QVZnZ9IBtAFBVV95cUxPcGFzZy1RS1FRWDk5TWd5TnI1NE5Rc2N1YjRkbTJLcW1lN2gySzUzNHJBUURmOWkxUVJUWDF0aXFPMWZybURNOGRXSl8yaXNNVDdXNU1kVXZta0cwVFFRcUF0azRwNDBjdnp3R2U0elhlUWoxWkVCbmY4UjNlX0M4TWZHYUc0ZHRmeHFsRldIeE1wbTVNd0QwSldKMUZYOFZSZk9ReDRDM2lRYUtNQ3NKR2ZLajE?oc=5",
       "source": "Última Hora",
       "publishedAt": "2026-11-06T14:17:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "a708c0df7fbf",
+      "title": "Crisis de Ueno Bank: suspenden trabajadores de su filial tecnológica en Argentina y adeudan salarios",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSUlfaUJaOHNwZWtFZXFKTVNOcm5hX1hLdFBPSWZibGxiOUFxODE1ODhsZUxILXZiSUNhaGNMeE02ZFNpVVVteHQ3MlFZUFZ4SDZBTUhXTFBpT0FmLURMZk43ZDRNVFdGTDRGOXgtU1J5TlRMTUpWbjJqLWoxdnpCcHJXeklwZ3JyUWJPX0tYX3NDYXNKaU9tcVFVRmMybXd2ZnVZNnRneG1fSjBLSTNscXBYZ0k3UVhhdG9KYTRlZmhHNzNDS043R3JTcnk?oc=5",
+      "source": "LineaSindical.com.ar",
+      "publishedAt": "2026-11-06T14:09:04.000Z",
       "via": "google"
     },
     {
@@ -1722,11 +2266,59 @@
       "via": "google"
     },
     {
+      "id": "c496f5d819c0",
+      "title": "Crisis de Ueno Bank: casi 950 trabajadores porteños sin sueldo tras el colapso bancario en Paraguay",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSjJncVZLZVNSUl82NkF2cUtneXY4ajJUZlgzR3F3RUtQS0lCam1RTkJyemtjX0NJOTdVbnFpUnVrd19GTWVpaUFoN2pmY3d0WlpHSk9ja3VSczh6RmNwUTZiLVdKUDFGT2NpaGlhRUFhcUdqY1ZWVUIwSE8zVkFjUThxOFF3TkdsTHplZjhzVVdyRmd3YWRnMUtDQXhxUGdUMVpuZnFpTEFTSTZfclBOZDM5Z3BTWG5PeVNvSk52TEQyN291OUZMT0ptZGZUdl95ZkRXcTV3Wl9mMEtkazBXOTJ4OHEwUkpYUWc?oc=5",
+      "source": "Nueva Ciudad",
+      "publishedAt": "2026-11-06T13:49:34.000Z",
+      "via": "google"
+    },
+    {
+      "id": "7b3bab6a36f8",
+      "title": "Exdirectivos de Ueno Bank ya están en la ex-Tacumbú",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMkQ0T3dyUlgtajltaUR6ZXl4WkFFdGNSa1dtZ2pDbkt0NWxobmFOc3NFVHZmMjFIYmRPWDZxZTl6RFlkbFk0MXBnSFRLQlJ1ZnlicHUyRVRWaTlHWW5lOVF3VUsxWThobU1XUWY1eTdrQ1FKVllySFlWNHdRWlQ1Q3RXVEh4VjBtaXRabTRtRDlaUFNkQlVCc3N0RVlfZlVwQUZFMzhuN2I5Q21vdnk4eVJmd0xHLVBSb3JCSGlWOHpKZE9Sc3hxUEdiMDlvUQ?oc=5",
+      "source": "ABC Color",
+      "publishedAt": "2026-11-06T13:34:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "1d26e3737e33",
+      "title": "La CAÍDA de UENO BANK golpea en ARGENTINA: más de 900 TRABAJADORES en la CALLE",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uaHhoeUtLWTh6YVVERkc3OXd2dHhfd0JucXhvdW1jWGg3VXBtQ0N2b09UNXMzTUpOc2ZqMjJYVFFGYnFlT3Zvc2dmWWpINHBXcGNGVUtPRE03Nlc1TDF3ZGFTbkczbFVyWUE3QTNTQkptWnRhSi1DbXR0Zw?oc=5",
+      "source": "InfoBaires24",
+      "publishedAt": "2026-11-06T13:33:58.000Z",
+      "via": "google"
+    },
+    {
+      "id": "de882a0d6283",
+      "title": "Crisis de Ueno Bank: qué pasa en Paraguay y cómo impacta en Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVjdVM211T1FOdGo2RE15bFhnYy0yeUpGMG02Y20tNV84anVvVUhWRFQxNllUS1RYbWFzVUVxczJoa19hcVZrTjlqTS1UbHZXSGRzT2J0RlhXZGVRNkxxcUtjNnMxU1NqdWFWZlF1akl0OFFJWjc0ZHBMUnZLSl9VVE1reWhKUlIzUFFIRWcxTlBPclAyRldyWlpEcDVDTDg0NWZiZkNQWWJObnI0WmRQRHdKOGw1eGtrR0xIWHZHWHhoQnZQVm95LXUxdlE2eHBhSW1DOF9jVWpzVXRVdHJPLWpqYURVd9IB6wFBVV95cUxQbFpHNVR4aGhFQ3hjSGVQTW5GV0JvR3NtMEROaUFPT2RRdExnODAwNTAyVHNRT2wxRmlQaWVISlcwSGNqM1dWWDlWOFBpdnZVUTRoaXBQUWtQX3Z0SE5Fbl9BRmdDdy0zU2lMZ0YyVUpieVZVNXRta0FOQ0lFNi13M1ZlbmlHdEFnRnpZeHZlWGx1emJ6R0NkVkl6dDNqaHEzSWx2eExxV3gxTkNJZy1CUDg0WnJFQjZKMjBOQ0doV2F6SHVjdXhhU3BXQTI1X2dJd1RtS2VfaGJPNlN5em1pYUQwUUQ0OHFWQTlJ?oc=5",
+      "source": "El Editor Mendoza",
+      "publishedAt": "2026-11-06T13:00:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "2dc72b9b904a",
+      "title": "MEF denuncia a directivos de Ueno Bank por fondos de la Caja Fiscal",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMlc4MDZwQWMzcXVpQThWdDFUa3NVQ0Vta05VTXhyeDFqaTJhbUxWUmFFWWdoWVNqaksyNTd6TF9rTlBnR3pHejBJMEtfSGJCdlpNbGtfX0dUWVRvaTEtcXhMdmhfQU9pWlNjb01WU1dWTmRMand5dVNGM21yM3VjUzZZU3JIem1kZEtXSUpSczNVWkxlVVZRRkJtdEZjOFUwRllxLQ?oc=5",
+      "source": "Resumen de Noticias",
+      "publishedAt": "2026-11-06T12:33:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "da2486baa1da",
       "title": "“El 97% de los ahorristas recuperará su dinero”: el escándalo de Ueno Bank sacude a Paraguay y profundiza la crisis política",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdHpuMzFQam9aSnBBV3F4QXlBOHJ2UVhRUU1HbnBEQmYzV0NoRTZDTi1GSHVNMDhjRnU3UUlmNlpBZEhNZzJGVDhNRm0xMkFoN1JSaXhOWlFSclJQTzc4LWtQM0J0QUtmVG1KWkViM3VkVkF1RHdGbEw5REYyTmtoUE9GSnhEY096QWJQTEJINk5tRXNrUnNXWkZPNkhldFZjR0VocmVxb3JZdnZrV3NRelhrejN6UVhJOENBUDA3N2taeklDTlhIMFRKT1FMSXZPZjQ3ald0dzdyNHExZnh0OTdrTW5rZw?oc=5",
       "source": "NEA HOY",
       "publishedAt": "2026-11-06T12:25:48.000Z",
+      "via": "google"
+    },
+    {
+      "id": "fd84296f990f",
+      "title": "La crisis de Ueno Bank en Paraguay golpea a casi mil trabajadores en Argentina con suspensiones y salarios impagos",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdk56UTBUampjNnRoR2wzSjJpdzlLXzBnWjQzVjdvM0ZUWDNpVXFldEV6US13bUI0LWJ4TzB3bktKYTlHa1ZRanRSbndhWVRmalJVVS1SVTJQaHFLWHRoNWdnRm5HQ19SMXU3UldUZ2dvQ1hIaHoyekhoZ1h5YkVWVnNCWF9NV3BfcHl0MWQ5bVVwOEF0R0lkdExTRm5EdG1kajgyY29rT1RIZW10cFZSd01ac2pJZU1ya0VkM0JpS1RXb1U4ZVRjcTVROEUtOUJHNTg1S3g5dkYwRWM?oc=5",
+      "source": "El Resaltador",
+      "publishedAt": "2026-11-06T12:19:37.000Z",
       "via": "google"
     },
     {
@@ -1738,11 +2330,27 @@
       "via": "google"
     },
     {
+      "id": "a2f0d67ea6f4",
+      "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
+      "url": "https://www.yahoo.com/news/politics/articles/paraguay-protests-over-bank-lockout-191603402.html",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-06T11:16:00.000Z",
+      "via": "bing"
+    },
+    {
       "id": "894214211c61",
       "title": "Comienza el juicio político contra Santiago Peña tras su renuncia en medio de la crisis por el cierre de Ueno Bank",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTVpVSVdsQXZzd25MRDA2NW1WOHA0dTZURDBTNXQ0MkhUUTVaY3d4c1RjQUNMZXh2M0N3X0l2RzZOSGU0U3FYY3lfMm41dHRMbl9JVEwwZ2FieWZ2ZGdKckNpUG45d01NSWpIX1VIZ25VcExfbzUwbjlLMG1ISHQzdVZNVHFELURKUGVXcDQ5M3BKUQ?oc=5",
       "source": "CNN en Español",
       "publishedAt": "2026-11-06T11:13:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "9e48db81693c",
+      "title": "La crisis de Ueno Bank en Paraguay impacta en la Argentina: Itti suspendió a sus empleados",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPanhGelBvZDdKOV9TNHV2Qm5OR1hxZnhLQ2I5Y3ltclAwT0NwR2cwYnlYYnF1b3l3SlJhcHBHcTdaODlyc05ncWtWMGhKZFRnYWM4bUdJYkU4c1ZzZk9KWlhTV0tqU1JXRUphamlMUVJlb1h1eTdqYm1JZExuUVRqVDJITFdBd0tPcHVaU2ZXVDRYOE0?oc=5",
+      "source": "Revista Más Industrias",
+      "publishedAt": "2026-11-06T11:10:29.000Z",
       "via": "google"
     },
     {
@@ -1775,6 +2383,30 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XT3VBcHpRN0RNLVk0NUFXN1lDc2U1WjNJNEF4OFNxQ29weUtXejBfdTd5T0JJaHh0VWpSbTJyVDYzek13aEpFOU5KQ25IWmhlbXJLc2tXRkxDQk5RSmhaRS1Fc09sc1EwRmQwNV90YW1SdklnWjJtRFh3?oc=5",
       "source": "The Banker magazine",
       "publishedAt": "2026-11-06T10:34:09.000Z",
+      "via": "google"
+    },
+    {
+      "id": "21a25e3cebe3",
+      "title": "Escándalo financiero en Paraguay: qué pasó con Ueno Bank y por qué la crisis golpea a miles de trabajadores argentinos",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQmNzc1hWVHhyUk1aTXYyUXlDTmxhYnRleUx5RnoxbzhKTTJHODhuZkNJb3AwSnNDbEJSV0ZuRTI0WWo0Mkd3MGU1ajIzdHNGUmdhT2FVYXo5dkZkbXZ3WFI0QjBNaXRuYkRNVTFoYk11MXl4Q1dHc2x6bldCXzhZck1XalZzUXRqak1mbWxoanF1SjRGcVc0R0Y0bzloNXNSYTZVa0Z6VnlBb090eVVpVjBVYkllZDJPc05ub2V6YkR4STF1V2lIMV9EQzFYVTlJb0p4QTUwbmFNSlF3VFNsa29SdEN5Ti0yMlRHb0FBbHQ4ck91NmlCRFFXOGtKdw?oc=5",
+      "source": "Canal26",
+      "publishedAt": "2026-11-06T10:25:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "50641948667a",
+      "title": "Ueno Bank cierra y deja en vilo a casi 1.000 empleados de Itti en Argentina",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMW8yU3VXSDRXUVBBenlfSTJhM3loR01MczlWZnFDUnFLN0kyWjBsY3Y0RjB3ZmxXVm1sY3JoVVZfNUdRWkxYVkJScFd4Z3Rsa2NvWFVfeDEzU3J3UURqYm4yZldHaVVMLTNxTzlja1VFenlUdU5TN1gyU3pzclp6NVVlUnRSUC04aTN0c2RfSnJBZmUyYm5DYjNuelRpRmtJZVlzQkUwTUFzbGdGR3NnZnVMcEI?oc=5",
+      "source": "VirasoroVirtual",
+      "publishedAt": "2026-11-06T09:03:17.000Z",
+      "via": "google"
+    },
+    {
+      "id": "2f39919138fb",
+      "title": "Ueno Bank: la tecnológica del grupo suspendió sin sueldo a trabajadores en Belgrano por un mail",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSVE4ZnFoV2ZqR3lYYUgtM3RTcHI4eFM2S3NmQWFaYTBNMEpJUVZOOVBCTUU0eHQ0UEwydFkxVlJTVlhpc0NFZVZjWFJkbS1YUy01bUc4LVpqLWdycEpyMDJCWXFSQjdoNGxtZV9FY09kV3BROC1INGZHVUdqVWlWRE9UUmp3SVlvRGF5VUlyRWVJbEp3cm1oa1lZNG5nV1RtRDNGeGEweVVURmlhUmt0ZTljZG5hNzJlcGc?oc=5",
+      "source": "El Argentino Diario",
+      "publishedAt": "2026-11-06T08:43:10.000Z",
       "via": "google"
     },
     {
@@ -1842,11 +2474,43 @@
       "via": "google"
     },
     {
+      "id": "094f99428212",
+      "title": "La crisis de Ueno Bank impacta en el empleo argentino: 900 trabajadores, suspendidos por 30 días",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEdSUV9pS3I3YWFEWFU4QmxWWWp0Si15Z1dBaDU4eW1ENUdhQ0ZCVm4wWjh3WXUyZmVNRWF3ZkctVjF5QlVvbkY4REQzTFpMUEoyMnhwRjdyRFRsRjdsU0ZqREhNWHN4cWNwVFpIeVo3RERCMUNFeVVTQ2ZZeHl0bkk1TnZTeTN3ZGVfd0xwZEVSNm9fMXU3NThLUVhVQk1tNW5kN3dFR3RrNDNYSDNFcEh1c2I2cUZyZG9PREhYR0U?oc=5",
+      "source": "RoadShow",
+      "publishedAt": "2026-11-06T03:47:12.000Z",
+      "via": "google"
+    },
+    {
+      "id": "bbd413120253",
+      "title": "Crisis Ueno Bank: 1000 empleados suspendidos en Argentina",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEN1dnNNZncxNFZiU1oxLTQwQW1wbUdiTjhQMXQ0bF9LZFhTci1TMGZFUk5jeHNWZHJiQzJ0SkdYeHNMYkNOdXdoU2k1Wjh4WFNDdUtDRDFVWGZ3WlV5OWhHeVQ3a2daOXRJV1lzcTRKcDd4Yk9aVVA4YkVRODF4Vks4QmxZMDRiRTV1RTNB?oc=5",
+      "source": "Mundo Empresarial AR",
+      "publishedAt": "2026-11-06T03:28:38.000Z",
+      "via": "google"
+    },
+    {
+      "id": "55491cdee3f7",
+      "title": "Crisis de ueno bank llega a Argentina: empleados fueron suspendidos y temen perder sus trabajos",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQUIzZWhMMzk1WkQ2Y3R5V2tBN1VuRlFQQVdkQ29iTHBabWVrNzRiTndpRFdzaVdwM3k3Um1jdjRQalVzeHdYUDN2S2hfR2FiVEsxSE0xa0xnaXFudGliTFRHNWg4eDBlZEdla0l3S3JoYU5LOFIwQjQ0cXJsRUM0UnpwcmZpTWd3aG5scXNDeHZ4MEw4a0JISC1haER6UXl4N1E0SEhrcmNxa2tYWTBsajRkZHlOSkVMMFdLZXFOQUg1dXk4bkhGWHJuUW1BTWRQRDloblZn?oc=5",
+      "source": "La Nación",
+      "publishedAt": "2026-11-06T02:32:57.000Z",
+      "via": "google"
+    },
+    {
       "id": "de7a6f6b0728",
       "title": "El Banco Central de Paraguay comienza los pagos a los ahorristas del intervenido Ueno bank",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFBmSWRWZmVtMzd6NWUwQlFyWU15akVpOGxhelRHczc5S0RTMVlEM3dqaC1iWWxxWjN5RHhaMVdFR0l0dE1IVHVxOWhxVmc0ODZwSXY5RURqSFdkS0VLOW5uVzFHWXFWdEZtV2E0bUxhVERtYkNJZGl5dmktUkJPWlpyeEtKZ2JZZ3dONmhWNmZfS0F6TGdBallPVQ?oc=5",
       "source": "EFE - Agencia de noticias",
       "publishedAt": "2026-11-06T02:24:43.000Z",
+      "via": "google"
+    },
+    {
+      "id": "03a25e312521",
+      "title": "Ueno Bank Escándalo laboral Buenos Aires 900 trabajadores",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT2VobWxLejM3U3k0ZWdITDNOcmJ4V3kyY3diNk5meGs1S3puOWFmTEpwZ2FIeV82ZlhXampiMnNzVlBNRWItdU4yemFSX3llUjJHOUNwVUhBSXEwdXhPYkthcmotZjFxbzNCc0R4MzRBbDZLdVRzaXNMOHZSTlpfMHZxY1FhZVhhV1dLX2lYOVNsbUl2TmR1ZlBpNA?oc=5",
+      "source": "HolaSalta Noticias",
+      "publishedAt": "2026-11-06T02:24:42.000Z",
       "via": "google"
     },
     {
@@ -1906,6 +2570,14 @@
       "via": "google"
     },
     {
+      "id": "3606abd6f682",
+      "title": "Colapso de ueno golpea en Argentina: itti suspende y deja sin salario a 1.000 empleados",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanE2c1ZLWTEtT19ibXZ6bVJxR2ZaZWNzQUNyRUlzQUpPU1RoQ0xuWVFtWk5ldlBVMjBqTEFqYkxJRXlxb1FOM2YtQ0dJUGp3VFpXS2lfd0pLWVlxa0pSUHdlSHpVQ2xWSVNQRmNKZnA2YUZxc0JKTFRhZFZTckFkN0lLNG5ma1NJY0FzeF9fTkxxRnFYWU5lMlBtSzRZRXVWNW1CU2dQWHFwU2dqdVI2a1Z6RXA?oc=5",
+      "source": "5Días Paraguay",
+      "publishedAt": "2026-11-06T00:42:19.000Z",
+      "via": "google"
+    },
+    {
       "id": "a72912b9deea",
       "title": "El Congreso de Paraguay inicia un juicio político contra Santiago Peña por el caso Ueno Bank pese a su renuncia a la presidencia",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByZExZMGFnSlBDSThSb3NqOV94WUlyV09uUG9TUnVHbTBTR2FRek5xV013Uk85X0RpMU5rckNSeGRMcGdINHd6TkdJYzI5RVJrNmx2RHEtRG9BellU0gFiQVVfeXFMUDI4aGluY3hPbVo5dlpLc3pyVklCSXFteVRVNkhORlNwV0RwU2VScFBFUFhxZEY2Zl9yT2ZjMFNVTnU0YmpJbnVSZy15S0RWdVpfVHAySnRiVDhzVml6WWZTRUE?oc=5",
@@ -1922,6 +2594,14 @@
       "via": "google"
     },
     {
+      "id": "c7c359c8ec5f",
+      "title": "Ueno Bank: casi mil trabajadores en Argentina quedaron suspendidos y sin cobrar sus salarios",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb3VpQm5aV2x3bzVhQlJZanI1bkViODF1MjRJV1VONjB4TUZzUnZtZV9JXzBFb29uUnJJUzZfOWtNN0FOcWJEYzZwak53QVBhRHpwc21Bel9PaVFER3g4TGlLbjRkaTZTN2M0LUFqekk5TnlkamFjbFVCOHBseWVMMk5Vakg5SEVFa19DSHBUaldVZnpFcS1EbnRwTk9FZXM4cHhxUEdtMlJDOF91WFhfU29tSHdjZHgySmNkTkNRUlhyOEHSAcsBQVVfeXFMTmJ4V2E0bzRCTWxDWTR1WThrcWE5b045VjlQb1Y3RDNlaXFwSU1oN0t3TXFGTWF6eUFORUg3VTJhWHA0RFIzdlFGWFh6ckN3bU9IZXduamdUVTdqbnZIbTJ6bENkRTJUWWh3aUNFSEVMcy1XRlU5dDd4LW1nc1JDRkZFNm5vVE1YTFc0dm9SaHpFUE5zeGlES2M4UDFYVm1kSk4zd19mLUpOcFhHcDE1M25UdXVaVXQ3bHlGc0dXbmJFNmlCbnFjZ2hCQVk?oc=5",
+      "source": "La Izquierda Diario",
+      "publishedAt": "2026-11-05T23:56:20.000Z",
+      "via": "google"
+    },
+    {
       "id": "bf239e6510f8",
       "title": "Paraguay en colapso por el banco Ueno, Peña renuncia",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdTYtQkg0aEV2OTBoMmFpRkpzWmpuNTlFa2ZBSEF4cjhRNm1yS2ZFQzdJN1Uxckw3Zk03aDh4dWY5NGZwTnFuYWl4TDdKYTRWbGFlUnBMaHJQYWc4aUx4MWg3SUEtWVRrSmVTWXUtU1FnV0xGUFVJT3dYOFA2dlpmSElad2VSOW4yQmlOclBOeTcydHJLZ0NjYzQyVzY5bFlsMENtQV96bTZLLTliSllyaGZyM3M4MmxzUlZUd1FLNnd1UnBlZGlDOG51NWhkTkNTV2ZTUW9EUGk5T29Mek5LNVBhVVZ2MFJPNWZsU2NFckxFZnlRdlBrVmxLTVHSAYICQVVfeXFMTzhEZE92WjdGZjdlb29zSGZEeXpyWl9QbUJyMFRBYUN3MEt2VnBudE5lWkNIYW9MWW90VzJKVktPVlZZX3M1R2dQOTlRRnhRMVJpUlY3dkV0QjlWTC0tVmlVbmZsNExPaHVmTXV1YmQyRUw3enpqZ2UyRHNCVGFZNEsxMl9VV2FTM1Zkek5DOVJ1WEVPd0ltenlfdGpsT01hNEhncEVwYUFsZVY2OFJ0YzZGbjh2TjNBVk5QWHliUGdjYUd6UkZzWjFxRTJxcUVDTTRMWnc2ZTNJbXVnWEdCUlRoalJiS2dqZTlYaDgxcHNseDlaZVBkTS1PYi1mYVppMGF3?oc=5",
@@ -1930,11 +2610,59 @@
       "via": "google"
     },
     {
+      "id": "6ec00f2cd110",
+      "title": "Disolución de ueno bank deja sin empleo a trabajadores de empresa argentina",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1hGb18wSVotTVlMVWlya05pMm9fSjJwa2pzUHNMRWdiVWFodkNpbk5pVEhSMlVNU3g4d3hrX3RuZG43UlU3ZkNmaG12cWdQSkVFWHBEVWdKS0FFZkxUZWc5T1ZSQzBER0lyVnV5S1YxLTMzelpET1B4ZGx4UnlrU3VzN2JuMXRmMTF0Rk1ZbzduYlJ4Tzcwa1EzSmRzaWFxS0NZcNIBsgFBVV95cUxPeWZxVjVxcHlmREZrel9LUy1WX0FjSE4zQ0pKVWRfcEUwN2ZUc00wRVpRVDVsbUlIT1RYV3EyWDJlQ3k5OUtoX05CcjRiT3djZnI4emZ4WGpmMUM2Tmc4YnBoM05pbWVqcS1JWnM1VERUOXRJclhGS3ZtUHFhZEZYNkk0VUpiSFhIeVJJejNpdjRfa29KSXBrZGRZSzJfY0dpLTNpenBHaGsxOGtFLW1SYzdR?oc=5",
+      "source": "Última Hora",
+      "publishedAt": "2026-11-05T23:51:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "e097b5edccb6",
+      "title": "Crisis de Ueno Bank se extiende hasta Argentina: cientos de trabajadores se quedan sin trabajo",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNk5JQ1hfbG9Ta2dRa0NnbXJaTHFyb3V0cnpLQ2VobnRrX1ZZV2RhekVldFlWUGVtd2dMOTNYTXMzakkySTN4NWhHdTI3WHpuQ0VGQUktLXlYNmdaekppVE1BMVMwQVIxYXdNa2FZZ2ZOUWs3ZGF5cHRRc19nWHBfbHhSWlR1c1BoZGhCTlVyYlFPckFGcUVpZXhfN1ZHSmtoeXpFaW1SRms5TDkxY29kMWtlZXRKRUF2WDVsOTA5SWZGZXdmdnU5dnhZNnk4UzJ5cFBveThOcm8?oc=5",
+      "source": "El Sol de México",
+      "publishedAt": "2026-11-05T23:49:37.000Z",
+      "via": "google"
+    },
+    {
+      "id": "652d42b4dc45",
+      "title": "Belén Haves, argentina afectada por la crisis del Ueno Bank en Paraguay:",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQMWFOT01qVGVFYlU4bTZxSDczZGZMMF9RVXJDc1o1WjZwVElEOEw1RlM0TWxneFk2T2ZoOG9GWnBkRE1XcFlVaG9uZkYwd09xUXA1TTdLQWtGTEdpdFE3Y0lVTEh4X0s1eVRpV1EyZVdpS01lMU5TTDJncDlSei1oUUlhM3JsZTlITDB0Z2JyQVU1Y0pPZTRrRGJJVTEySHgwNE9ZdzhzaEVjSWZmVWlISklGcXhNaVlmemQwSERJNUtxV2ludVlLT0dodWZsSnV6Umd2c0wzNE9BM21jQlJEakpxYlFfem9TWEU0MTk0ZE1pTk00SDUzMTZPWnAwV0JjbWl6M2YwVEJXVFJTeFQyNFFmVmJnLUgwM1ZNdzZHZTR5NkFXZlZLWVpBcWx5R00?oc=5",
+      "source": "Canal26",
+      "publishedAt": "2026-11-05T23:30:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "a70cc3bd2e5e",
+      "title": "El colapso de Ueno Bank llega a la Argentina y complica a casi 950 trabajadores",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZl9qM0xpOURKYjcyUVA0Qmh2VExhVGkzbmxlemRYcWlCdGRRNXdCX3pXcTVKQ3UwV2plaE5IcFFoRTd6OGh4cjJWY1JNempTRE0ybkdnNE42TXJic0dZNjRuYlVQeWVvcWoyd3Nrb2dqakEtSGVpbkFxSWFra19Hc195UFhQWFQ5N1Awc2ZoUUN2MkVPY1g4NDFpMDBETU96eDE1MnlfTk52V1paRFlnTDlMbHhBdGExejhhY0FyVQ?oc=5",
+      "source": "Diario Popular",
+      "publishedAt": "2026-11-05T23:22:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "f06e9a8189d7",
+      "title": "Ministerio de Trabajo inspecciona a empresas de ueno bank y grupo Vázquez",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcW9sTTNFUnNza0lLWHhJZUxWWV9XS1UxS2dWZy1sWS1tYUIzUkVCY0ViTlVWdFYzaXhPZU51VFk4RVdUb0lyOGZKWDJ5N2RzSnRmUEc0TDl5RlRIMWt2OTBIQWtuOGRSMk8wZDhSVVByZG56Wmhmck1kQkJMQzRNaFlDalZtSjFIcmhGbXFvQmpUOG8xVjBuVDQtbHFYaXl3c3FIVkRQMmE3VGQ2WkZaZ3ROWEdWb01Kemc?oc=5",
+      "source": "La Nación",
+      "publishedAt": "2026-11-05T23:07:47.000Z",
+      "via": "google"
+    },
+    {
       "id": "e6acf400c465",
       "title": "Ueno Bank: El Banco Central de Paraguay iniciará el pago de garantías a los ahorristas",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3lGUV9WSl9YYzBOYTZyVlRobmtsVGVMU0VINzZ6cXdEZ1Fxdk1jaWJrRkRkcGJzTVFZcDNpcUNiV2gyRmdzMVFHbTZDVHhNdExzV0JKMUVnNjItNHBNcktJUll1Y29HMEJKR3ZmQnVYMkxPUTNIaXpaQy1UM3pSZFM2ZW1na1ptX3BPREdLSWVqTU5WcFlUaE9NLWxPWExGTjVxekNQdk4temZIYkHSAbMBQVVfeXFMT3NUU3I2NDNYNUxjd0Zhb2hKcC0wVUl5ZlZUU3daMkFKbTBzSjNqMlk3T3lqbDNWWWdZSDhlT0IxZWtSc0RhR2Jicl9DaUwtdzE1QlRBVmlNOTdjTVIyMDNLTVpmR25XZVh2T09ydVA2YkFoaW81LTFSeG5rbDVWX0w5aC0wOG94N3piSnRDSGpxOGI0N2NkN3hMTTRvektwb3JpWDJud2dGXzI5ZmZPR3BIbmM?oc=5",
       "source": "Gente de Salta",
       "publishedAt": "2026-11-05T23:06:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "a73d38c4758f",
+      "title": "El colapso de Ueno Bank golpea a 900 trabajadores en la Argentina con suspensiones y falta de pago de salarios",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVlGTGs5c3NxOERsNzBCTFlXSTVjenlfRnF6VWVLU1FubXN1bU9oNW1vVzVXV0t0VWoxcDZ0ZTFlLUJoWnc5Y3licWc0czR2TG9lZWJacGVkOHoyb3JSaTR2alVRME5vQmdhMVF1SkxaaW91cUxLc3REeGU3UEQ1MEVmVUkzbkZnTW5rVm1MZ1JtLW5kNkFPcEpJYU5LaE9kQWoxeVNrd3RVTHlLb1B3?oc=5",
+      "source": "Perfil",
+      "publishedAt": "2026-11-05T23:02:06.000Z",
       "via": "google"
     },
     {
@@ -1962,11 +2690,43 @@
       "via": "google"
     },
     {
+      "id": "494dcf7b723b",
+      "title": "Crisis de Ueno Bank: trabajadores argentinos denuncian salarios impagos",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWswM0VQSWhXTjFVM1FpakM0LUJ2VlhpN1docktsZlBoTVBCejZPa21YSUVPTEF5cElvQS1aTzZFeWVRaE10YzdGTnhMRmZrdnctbHAzaTlQZUpfeFBxT1JuZFFibHI4ZHRoMjFrX2l3Mnc1Qy1NdTlrdTg2bHNTaXNyWFkzSDhzZWpEY3l4RGZLNjFhQmcyTlFaZEFhX05vUmlwRENjOWlmZzQydG5PRlBFT2dCUdIBtgFBVV95cUxNOWswM0VQSWhXTjFVM1FpakM0LUJ2VlhpN1docktsZlBoTVBCejZPa21YSUVPTEF5cElvQS1aTzZFeWVRaE10YzdGTnhMRmZrdnctbHAzaTlQZUpfeFBxT1JuZFFibHI4ZHRoMjFrX2l3Mnc1Qy1NdTlrdTg2bHNTaXNyWFkzSDhzZWpEY3l4RGZLNjFhQmcyTlFaZEFhX05vUmlwRENjOWlmZzQydG5PRlBFT2dCUQ?oc=5",
+      "source": "MejorInformado.com",
+      "publishedAt": "2026-11-05T22:28:34.000Z",
+      "via": "google"
+    },
+    {
+      "id": "af95a5d65fa9",
+      "title": "Disolución del Ueno Bank en Paraguay deja sin empleo a trabajadores de empresa argentina",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcTA1TUVYNldiQ0ZJOHZWX0lKMjlTT1ZpTnAtUG8xVFdJSEs4M1NkVHEtWGFYQXBZTGhGUk5XeE9yQWJwWHBpSW85eUFQUkdRTmFBaHhsakVYbm5nTDRFXzJlY0l5U0lNWE1wcnZKTXZDX2k5U29pQXoyNWRnVEtPbFNnUkVnZ05DRFFwdlNVVGsxWlYyZkVWX3pEd2dEUFU1R1R1eFZhQWFHb3JSZlNyb2lYb3hrUVZsOFU3MUpoeGtROUZSNkY3dl9XNTUzWENZREFjazRB?oc=5",
+      "source": "ABC Color",
+      "publishedAt": "2026-11-05T22:25:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "39b0b8fe15c1",
+      "title": "El colapso de Ueno Bank en Paraguay golpea a 900 trabajadores en la Argentina",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEVvTWFCVDhkT1REZ2pIWnR5REs3X1hmV01WdjQ2ck43NWtZZFN5eld6RkJOMElyMHFJLUNyZHlMZUNCT0FrTFZGT2tiTEUxc0NBMWtPUWpJMm1XTTJOTzJlNUVmcG83R1EwN1htbHRybWFZLWpnazlobGFnNm4yZzhYTndYcEpvd0xiOV95QXUxT0FuMWo4M1hFRlBqT2hFZTVMbHRvUXdPQ1YyaEZuWXlxdEo3N1BRVkVz0gHAAUFVX3lxTE0xYkZ4dG1yaUQyU1h1TEgwR0s4dUZ2QlNlb0hCTkRUZGlCUko0NGtvbnJycGNNMHp0R1ZHMjRsaHQzbkwyblEyQTNLWmM1dkl2di1ibnBXNlR5QXc1bFNIQmJCdUd1OGFLMGkxbFYtWnJGbUFrSGdndjdXSDFxZklOWVJXVzdKYjFaNGZ2bE9keTNzX1MwQ3ozd2FBYlpXZVVodk5UZlNXbG1XS1IyQVBUaE11RjVPVHB1UlVYaFBUNQ?oc=5",
+      "source": "La Capital",
+      "publishedAt": "2026-11-05T22:24:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "a1d0cba7316f",
       "title": "La caída de Ueno Bank se siente en Argentina: más de 900 trabajadores quedaron en la calle",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlVDdkRJRVJTTk0zSlg1UG1uRl9FejlfczhwbEViVVpMbW5NNnp0Ym44TEMxYnp4MHpMSVhJSEtPNnc0czJDU0dHUFZTUDFRMW1Ca0tjdzJUZ2dsNnd4VkljX0p4TWdjY0RMcHRDdnl3cWdTN2dCQVlIckluMm5saWtNVHdiY1NZcjFVQWVPQjBxajJJanlaQ3dKeDhDc21ieG13VEpTaUdLLUtzWDN4LUtpSWZPOC1YT0ZkLUk3T0lIRk9wRGs3ZQ?oc=5",
       "source": "Página|12",
       "publishedAt": "2026-11-05T22:01:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "404057038c26",
+      "title": "900 trabajadores en Argentina sin sueldo ni indemnización por la quiebra del Banco Ueno",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRmo0Vm9ZYVZEb0ViVUtwVi0yOE9oUTVDcXFHLS0tWlk3WDc3ZE95eElvMjZFMjF4RHh2UXdmcG1sRXNHOXN4NUM4SVEzZVFvTk55NGhsTWJKNENPTlpJUGpGQWlNNzlfVmh6UzdOQ3JZUnAtRlJVeFBuZ1JuTDA4WnUtMml5TmFnNDhkamVrYzVEWjc1SDJXV2xweUNJbVNSSEQ4RjJOcXUzRVlIdjhJUkZiNA?oc=5",
+      "source": "Diario Huarpe",
+      "publishedAt": "2026-11-05T22:00:23.000Z",
       "via": "google"
     },
     {
@@ -1978,11 +2738,35 @@
       "via": "google"
     },
     {
+      "id": "5f8b8ac1ed2a",
+      "title": "Ministerio de Trabajo fiscaliza empresas vinculadas al grupo ueno bank y el Grupo Vázquez",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd1VWZmpZYV96c1VPNGNZa0xQYjQwbldzelMwYnlIY21Zc3duajJiSHlaSWp2aFBJMWZobHFRWVR2am1uVjVaNEFrVTAtcGZNbENqOGJVQVhXMHh5S3Vqb2lIRVMwN3FMQjcxaHhBYlY2cHNHSnM3R0VfQUM5a2xmdkJLTE4xU2txT08zdERIQTEzUTZnZFRrajItVjlpaVZhTUZoRFNSM3UzNEJWTkNYbkxHTHdOQmY0aER3RDdRWkZtZnV6Xzcw?oc=5",
+      "source": "Prensa Mercosur",
+      "publishedAt": "2026-11-05T21:53:30.000Z",
+      "via": "google"
+    },
+    {
       "id": "469c6f287b9b",
       "title": "Fiscalía de Paraguay incluye a Santiago Peña en su investigación penal por Ueno bank",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTUljYlhaRUZWWXhFOHB1NVJwOWhreDNzTWFYZnE0dG56Rkx6RFdFYmFtc3B5NVhlem5TU080cEVLQXJQdlZrZXNqT2lZWkdwTTNaMWlYMG5XcjZ2Sk9MbkVwNHdVcEZpVXJTU2FQNHBpYzdWUEFzS2NJQ2ZwMVRDU1FBOVlEV2tGU1JCdE45OWNQNkdzZy12dEVvUDFRQkNhYTZveVdZbUlZVU1TY2ZGN2NETmNFV0hrbFRqeTF1T1lzMUdxdzB6Z3RtY0FHVUVkVlpV0gHuAUFVX3lxTE9MNWg2X1B0Y196eTJDUXdFOFVJM2Z1Q0Nmd3dnYkcwNGJkSVUzQVV5bGkwdHVHSDgxeGRja0NmZ21Wc09qQUdRcVVuV0RpQjZGOVJFV1BQWEpkU2JmcUtDWDN1S3ZSYXo0N2NnUWo0ZHNhQklDOV9JLThRNl9UanNmRkFyOUdMc1duMC1RblhkbXNram1hbmkwZXlRdTBDaTJ1Z1pHWTlLWEdmbTl3bTJFUDBJdzVHZi1EdXJhdHlkR0lQLWk1U190SXFMZkwzMXF5TkFMZHh1ZkMxX0JpZDVra2g1YnRleU5PVF8xdHc?oc=5",
       "source": "Infobae",
       "publishedAt": "2026-11-05T21:47:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "f88188eff35c",
+      "title": "Esquirlas del Ueno Bank llegan a la Argentina",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZXM5UnFTbGVFQ2dXWEZrdnpUZGpqUEVsdkNfYnVCaVhJa2RrOXYwcjgtdEhkZXlkSjZ5SGhRbUlrWmJtakpUam1xVlQ3anQxeGRxYmVEc3VpaFJQLUtfeXhTUFd4dEJoRnNPY1dha3RCU2Z4SGpmY1NJdm1FeUJsUk5wSTl3d9IBiwFBVV95cUxNR01kWlMyLXdTTTJpVi0tNzBlMjB1VVZ2SkdVYUtCU0h2Y1d1LXZFNnhGMHBvVXYtc2NjTjBadVRmeUUyTzRyRDc5dGVIZzBUUG0zNUJpNkNXRFBLSTVDOWxjRDhGZmQ4LXgyTjBWaUlLdF9vbUI3Y2t2cnplemM1c09YWkVnRHZzSmww?oc=5",
+      "source": "Urgente24",
+      "publishedAt": "2026-11-05T21:32:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "ba1db3d2f12e",
+      "title": "La crisis de Ueno Bank golpea en Argentina: ITTI suspendió personal y hay salarios impagos",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWYwWkFLbERxZEc1eDAtTFBCN2daOE8zRGtrT2JUTnJMUjF2TDUzelJoQ1VpaHBibUlnQ0poVnM3M0cxSDJIMzBPQ3JHbXVNdDVzZzdQTEVRckp4ZW5UejFicnZOQ29HZUFNOUxsaG5KYzZyUUU2ZFowWXd5RUgxRTBCclZreU5ua2VOVlNDc1R5UWgxSC1Ta0xSN2tPaUktSGh1MTc1alpGS0lqSlRQNWV2b09jZ2hxaTMxX0x5WFdLMDlFRkHSAb8BQVVfeXFMTjFMOHQ1YXlaTFhPTk9OTHFDR25ubmtDY1R1WV84WDlONE5WTi05LVlVVkp2Z2dsUEtXdmtTaUNzLWhVNjllTVhVeEZNUTZBcmdRdTdiZHM1MjhBd2dJT05Nc3J2ZDBRYkdHT1BTazVYYTlUb0xoVURhRWFiYlVURDZWRWxhTVlnVUcxQmtPb2NTS015UTU5alA5UlpTSlFQTVo2MUd4TVJfV1BKTTY4X2N0engwaFlkWXJCYUlMc1U?oc=5",
+      "source": "BAE Negocios",
+      "publishedAt": "2026-11-05T21:32:00.000Z",
       "via": "google"
     },
     {
@@ -1994,11 +2778,123 @@
       "via": "google"
     },
     {
+      "id": "6ad8b8a704b5",
+      "title": "El colapso del Ueno Bank afecta a 900 trabajadores en Buenos Aires",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNGkzZE82dkJtakZRYkx2TzVfNXJ4QkstY3ZHaTU4MmxIc285TVp6Y3dhX19PQVRsS2hFcDNmdUJ1Z0lNenJDNm55eHFKOWRDS2V4d3UxOGN4Ukxqa3FtYnJCX0RnNnNsTUNndy1pNXAyLXV6ZlF2RnNXZm5BTmVwOXRhTGxHUElleHZMU0poSFMwQ2FjcUtKUmt6clpGVTd2Qm1KQQ?oc=5",
+      "source": "radio don",
+      "publishedAt": "2026-11-05T21:30:13.000Z",
+      "via": "google"
+    },
+    {
+      "id": "27ad4e01968d",
+      "title": "La caída de Ueno Bank llegó a Buenos Aires: 900 trabajadores, sin sueldo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXpBbFBST2c0VHZ5MnBjYmpESXNBNXZ2YW5MWUJpeUp3aXhOUlRuUDhSTWNoYnVGX2NpTmI3SUpnMWt6MC05YUFJUWVKM0Q3dldTLWNiRjNDNGdGc2x0akhWMHV3d1JWUFlGSVlvVW9kZ1k5MDA3YlFrQ0h1ZTFxM2s1a0VVOGFGRGsya3RmRllsc3RDY2dTa2VveTM5SXhMQmYtQ0p3?oc=5",
+      "source": "Canal 22 Web",
+      "publishedAt": "2026-11-05T21:26:44.000Z",
+      "via": "google"
+    },
+    {
+      "id": "e1c76ee8869a",
+      "title": "Banco paraguayo Ueno: 1.000 argentinos sin sueldo",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR3RYdXVsdHE2VER2V1RoSFdFRVgtRUhoNHlvVnBsWkJEOUIzdFJ3Y1ZJVXZkYlNIMFpfMWxWd3BrZFI2UUYyQXhQamF0bURpZW9uMHhXUjlIQmdvSDVneWk5cFB3bWxMdl9WYW01TzdBM3duWmJ5eFV0X1F0Z1Q4c2hFdTdTZw?oc=5",
+      "source": "El Ecosistema Startup",
+      "publishedAt": "2026-11-05T21:24:35.000Z",
+      "via": "google"
+    },
+    {
+      "id": "7db044ad7da1",
+      "title": "Tras recibir G. 9.000 millones de ahorristas de Ueno, nuera de Peña desmantela su tienda",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN0VKVFhHQVBTM3pVQkp0UUNWUi1RWEJTYjFGSi1mMHl2RFpvdDR2MjFmWmE3RVNjUVdYZGNsUGc4TjdZMDZVQzZpbUJ0dEpPV004M04wOTd2ZWhQYlN6SXZQaEFuUjU2RGRfeEh1TF9mSmpULUp3bTV5SmNKdVNkRlVRSHJ0cVIwQnpydk1IdXJiRFc2d2dWRDBCc2syX1JaTlkwcFVJYzJHY21sd0RIa2RmbU5SWHdlN1AzRDFWOWVMYzVXdGJtcA?oc=5",
+      "source": "ABC Color",
+      "publishedAt": "2026-11-05T21:18:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "bbf0d2a95b4c",
+      "title": "Crisis de Ueno Bank: suspenden a más de 900 trabajadores argentinos de ITTI sin goce de sueldo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMDk4eHJNU2xPTEptVjZMbGI1ZnYtWndjeXVyX2h6YVh2X1Y3NHdpMm5SVzhnaVExNEVDX2ZyUEdESVp0WE9selFhckVjY1hBeGlfdld3VUJtU3NPT09jcjlNTExwNm5kWmd6SzdzVlAtX3R3UHdMNFJmUjc5RndEMlZ4cUFmWUlYblVuSXIyNGxRV3hOMDdudWd0VlE0VE9CVmljaWdLNVloZUtoeE9ueS12T3RtU3lHRlRsNkU2VUlKWXBFVGxWYw?oc=5",
+      "source": "Rosario Finanzas",
+      "publishedAt": "2026-11-05T21:09:37.000Z",
+      "via": "google"
+    },
+    {
+      "id": "c19989f5d154",
+      "title": "La crisis de Ueno Bank golpea en Argentina: suspenden a más 900 trabajadores sin goce de sueldo",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZHFiZTJuY0dTdDRWQ3ZpRGpxQmVyTURLcllDZ2R4eTF4b2Ixdk1xU1NMY210Vm12OVBqbzV5WFJzVjUzV3JIcFpwU2hvYUptVGhMRUwzVGJQOUpmNTZCb3EwWmp2NERHQmxTQkJSYUE2dWN2Ti1HbmNCX3ppdjBrYVZFcXdUcFZBSWwzbW9KTUNYSXZEeXNOWUdZU2lpajJmLVg4c3ZaUlJ0MExuck5Lcm4yRkk4T1lxMUpoUHY5VFg5VDBWMXAtMlNmcXR1X3ZXaW40NC05SFhQQWg2dUU0WXhRRXA?oc=5",
+      "source": "Bloomberg Línea",
+      "publishedAt": "2026-11-05T21:09:37.000Z",
+      "via": "google"
+    },
+    {
+      "id": "51f86fb26372",
+      "title": "El colapso de Ueno Bank en Paraguay afecta a 900 empleados en Buenos Aires con suspensiones y retrasos salariales",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWFFtY3UtM1h6Q3hZYmo5enJaZjRYZnRSdGlpeF9EQVhKNDJkRHVFYkM1WmFZT3Y0blBUS2U5VjJRTGc4eHh6aS04c01RMG5MVmN0cEw4QUREYVdFekNoLVA3LTREOWxrNHdtQTdaZkI2ZWRtM3pIOExpQnYzT3BlTUg2NEhNcTRISk9uVzEyRGtGQmJsbjNuNmlma0ZjYWNWa3FxYmN2V0RoUnRtR3pSRC12RWgtVDRULW1QQ1FwN3BrX29jNXA4VzBpZE16aUM0enJMUTd0dXZNdnljMzViV0RJTVphcFZWemNoWVRubVg5QQ?oc=5",
+      "source": "0223.com.ar",
+      "publishedAt": "2026-11-05T21:06:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "e66534a24e07",
+      "title": "El colapso de Ueno Bank en Paraguay sacudió a la Argentina y dejó a mil trabajadores en la incertidumbre",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRUJiWnlJbVRIQkVUMXpFalVIemdmMXFuUTk3RTZzZnVFREJjel9ZWkZJNU00cGM4UC1pbjFjUUlvWVQ2LWl4QUo3Q2FzREVKM0FhMmc3WjkydWFzMndvR1Z4UTE1WFFCS2pKckl0M0tjOGpXcHNBMnRSMnY4R2VScDcxdXRWS2Y0dmVGWEVLY1RaRFlkT1NNVGhhVDc4aHY5YTEwRTBJUG5CX1hJYUtsbHRISUVCa0ZUb2Vfdk1pV0l1eEJrWlFDa3VZblk4Sy11M09B?oc=5",
+      "source": "Los Andes",
+      "publishedAt": "2026-11-05T21:01:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "2a9e6910ce01",
+      "title": "Más de 7.000 empleos se habrían perdido por la caída del Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRktxMGJ0M3dJUHpXTjhFS0NSNXhtcVRkbFU1NVQ0d3VqOEx4ZXJxTnVZX3ZBdGZHblp3OUZlQVF3S0VyZ3BLMWUtTXRoVDJodEY0VE5DcDlPYS1MazNPU1JlZElQUVQ1VDRtWF9Ob0xmM0hLNWJMLWVtbGNzb1VYOUlhWFhEY1hNa2w3Zk1SOGExOW9LZ1ZHbm5YdDZ5VjBESUdGek1OTDN6Mk1oem9yLU9ZT2x0a3EtR0tDRE1JOS1Wd9IBxwFBVV95cUxPUXVGS3Y3c2Q1ajI2ekFjZkZKa25ZdE9GUEFEZkJ6ZEVKcU8tQnoxdjRKaFo0R2R2VWN5cTRyQjlDUTd5bG15dEV1bHJ3aWFtanVkcGFVVGZIM3JNMTA0ZzdkSktlLVJDMjdYdUhxaG5iZ0F0V1NDREc3aWZGbU5JMmx0Y3Q2eUZKWDBtcDJwM1hLekxhd3ctUm8yNFJxOHNDQlZtVmJTb3B0c0JkVlFiQXdHMG9KM0FtUk02Z045TzBfc2JUU0M4?oc=5",
+      "source": "El Territorio",
+      "publishedAt": "2026-11-05T20:55:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "04a0bdb941d4",
+      "title": "Pagarán liquidación salarial a los trabajadores de ueno bank",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb0N3bFk4SURvWXNmaUN0dVZ2TDlzUWZTQkxNMlloVm13WmNxVWFlLUhoT2J0MUdObWhpdGUxYWo0OVFoUDZJUkY1RG1JUzlnR3Q4VFpOQlRla2ZES3FnSWl3R1BWYU5leHk2VlViZExZN1dDbjZmZlExSFZDTEJHNmNyQmJUUUFTSVBQUklXNElXbG53TEJxeGltaEfSAaoBQVVfeXFMTVdPcDdsenNtVXQ3SkY4RTQ0cHBSTWMwZ2paT3V3QXhEZWI0bjFoVlBoMTEyMUFBUVdabFQyZmJiUmxiXzRpMlRZTU1kd18yOFB2Zl9pQmhKMjEybFE1VmJmejdSNC1iYTlxSVRWUGhYcHktY2xBb1M0MTVJS0UzT3pJMDNQdU9DRVFrbWhiY2owMktnVHNXQm1fdFNQV3k2TTA3MnZUY3gyZ2c?oc=5",
+      "source": "Extra",
+      "publishedAt": "2026-11-05T20:51:49.000Z",
+      "via": "google"
+    },
+    {
+      "id": "b4131a2253f7",
+      "title": "Crisis de Ueno Bank: trabajadores reclaman sus salarios frente al Ministerio de Trabajo",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMmttX082SlZ3TXNBV1ZrdGJOcDRzdTJVc0VqX09aWkZYT2xzcHJGZ3NVeHZUU1V2M1F0WTEzektTRGlQamczLVFxd01HQ3ZGQnlSX3k2a3B4eTE3bjBnOXVIOEZKSkk3Y2I5UHo2ZV82TGtfTWVwZWFxQ20yNEZUUjRoUGNEZF92UWZZczBCbUxLYl94V3BrbTB4a1RlRGxzTkZtQzRQeTZORGpVOWh1RmMzLUlSZkM4S1U2NEJBakVLejFrdnlPMU55ZXd1Q2pucW0zdFJyWUfSAd4BQVVfeXFMTWQ5RUx0MFVnT29lenF6NmNOLVp5aXc0TmtWTndLcnl1dFdUcG8ySGxqOE1JTlJ6VC1FejFabWt6dmtIZXdzZndPeGhhRTczd2FocnlhcGp5U3o5cVpfNDk3cFZaLXpyWXJCa3NXQ203QkhpV05BTDB2QWJGdUNUQ2VoS3puQVJ4NnRYVFo2RVM2emtFb1BtUGk2bkRUb0pWenllWmg1ZHhaRmMwTEEtbzVOLWt5Rkd2ME5FVExRX3VDX1ZiQWZqUjBQYXo4dzFGN19QY3RWTHpLTUJXYTJB?oc=5",
+      "source": "La Estrella de Panamá",
+      "publishedAt": "2026-11-05T20:49:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "148d543343b5",
+      "title": "Qué dice el mail que le enviaron a los empleados en la Argentina que trabajaban para Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYXNKNHRQX0h4SThPVGdPNlhqbHA0ZkR5c2pTbUotb21UYnNJRXVrUVNFVThGWjlQVzZyZy1DSmhmbTJfWjF5cXJHY1FPMEdUQng0WFpfc3o1ZVVMN0RaSDlWN2xYS2RvMkxFWVJIbjRxQm5XQ0FlZV9MRGpseE1iTml2dW8tb2hWMEhnT3UwOHV5akx1QlpMTXFfUmRVbkhpN1l2N1hSUzdocWEwWjRwZ0NoV3BtNjBvV2VpdGt5Q0dVX1RBTlpsOFl2SUcxcmM?oc=5",
+      "source": "La Nación",
+      "publishedAt": "2026-11-05T20:37:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "f8bb48ddd718",
       "title": "Ahorristas de Ueno Bank comenzarán a recibir sus fondos: ¿Cómo y cuándo será el pago?",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRGFWckRYZ2dYbGZHT2o3Xy1yYWdMeWxIaUFRZVJxNUxMLXNKZV9iT2xwdi1uR0NIVU81aTVzbDJkQXJtdlQ1RGRzelEycFBvX25LWklIOE1PRnJGTlJHa0dEZk5YNzlFWWRRQ2c4X1NYTFU3NjIzZGZxSWpuR1RtQ3U2aGZrbzlzbVpaMmpuYnpwQXJHTGY1NDY5bFVLc1dlcFN5M0t0b1cwekJZR2tuZ29fOG50dVR6M0pRWkFSTThPaXpsd1lHZi1UT2ZTM1hQS3VF?oc=5",
       "source": "La Estrella de Panamá",
       "publishedAt": "2026-11-05T20:22:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "4f5b9f3a5c0a",
+      "title": "Explicador: ¿Qué es el banco ueno y qué relación tiene con la renuncia del presidente de Paraguay?",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmp3OFJZMkcwZTM0SDNrV0wxZlRDRmJnRmpqTmduT3h6bzlkUnl4VHpZLUVDWGkyV0RqNS0yV1BRSnYxQTlPdFNiV0FJUU1lamdDcF9VaE84S0c2Z3NyOGZ1YnN0ZHIzdm4zSlRwX2E5Qkx1YmRyWHJGNWFWWHNSZFNlLUJsM18wREV3eGwyQmFsdV9BQWlqRGV4SjJGajVqc2dzLUVKR2ZOZk5FMzFvazZYUzRkM1I4OURjbGYtYVFXQdIBxwFBVV95cUxQVms0V0JkMTctVkM5ZjFUcmFHRDItNi1Ra05tbnhsWjlHb1I0RDRLMUh2Vk5OMWN0ei15cjZRMklHV2dDS3d4ZE1oekhveG1NTmZ6cWdaUlFNNGx2NmVTaTU2TnU4Tkg5eXhJQTRxSXZ1ckxMLXQ2MTVaR2FUd215QVlLcThBa3RscE50UUJIZkhDaVJTLXlGalVXMER5akpJZGgySGVaZjRRVHRYaFRRQ2t5ekVSNXh2SjI2X09HYnlNN1JkQS1Z?oc=5",
+      "source": "El Economista",
+      "publishedAt": "2026-11-05T20:20:51.000Z",
+      "via": "google"
+    },
+    {
+      "id": "4190fda55f57",
+      "title": "Empresas de ueno bank y Grupo Vázquez, fiscalizadas por el MTESS",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTk1PWThsdm9sVG0tRlB4Zm5OdV9RVVB0WU5kdHRGOGNLZzhmXy1kWkhVLXpYdGxMLU9JNHE3MHVFVEhoZU5RN21tSGJLWlhLdk9jcHhNdThUQUdJM3JacFNPdUltNE52WlJrUExuaTUzdm84dmp4cWpJMzkwRjUyNGI1eXp1LU9TbklVWnoxenJxRzlf0gGiAUFVX3lxTE9QaGdIX0lLaDJiRm5FdnVUc0Q1VzVlMTMzYi1CREoxRmJsNHlUOTNya09ZaUcwUEtEZ0FTYjMwT1VNTkd1UzRCemtFN192dXl3ZlJzTk1xVGtON1lPUUxEUlJEZ1dMWUh0N1B3cnRHaEFqZG0xdzJzWVdtWDVCTWlqdnNZZ2xpdFZzeER2X01QN0Jiam9USlJTTVBKMFVyLXNIQQ?oc=5",
+      "source": "Última Hora",
+      "publishedAt": "2026-11-05T20:20:00.000Z",
       "via": "google"
     },
     {
@@ -2010,11 +2906,43 @@
       "via": "google"
     },
     {
+      "id": "ae615000f670",
+      "title": "Colapso de Ueno Bank deja a empleados argentinos sin sueldo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX09mdXU4VXZtVTRnTElGcTVCTVlJeU10TTV1NVNrQlE2elU0S0dUeFNnMXB3Qi1RZVlydno2cmV0U3NyaVBpTzJlQjhJV1pnTG1Mb00yZkEwYzNvWFRjdnJGbjNHang3cWJLM21seXFZQmdmMHhWRll6c1VZelh4alBRMzdfM0o1NHhMZlE1Q2puVjA?oc=5",
+      "source": "Diario El Norte - San Nicolás",
+      "publishedAt": "2026-11-05T20:10:19.000Z",
+      "via": "google"
+    },
+    {
+      "id": "f5537cd67706",
+      "title": "“No tenemos a quién reclamarle”: casi mil empleados argentinos afectados por el colapso de Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaUNSRHRab2dyODVXallYUlNTTVJvNzR1Njg0aTlUWHY0M1NnTUpzS1p4Wjg3cDJ3SnF5R1ZBMFdBV2VLd0NaRFJ4ZlVxb1M4Rm5rWnBiaWdWTk5waWswSkZyQ1ZXYlFYMzhQZ0xmRGkwa3ZjVFh5TzhIVFNrY1hWR0h5allFOW43enhSSks0Mi0tZmlrS3I2Ynp3Wnh3TzZVa2dIbWZRdFBhMVF4TkRNeVd0MlJoMEt1RUVaYkppWGtqQ2JaZ2ptdjc3eFV0b193YXNqcW56dDNvQdIB9AFBVV95cUxQaHF2dnZTVHllZWxic0swYkVBNW9oSWlMbVdaSDI0djlrS1JQdXAxRzBBR1NxMjBseGdkUU9PNS1EaGdnV0VOeWdfM3N3bktOMU5mRlljaHk2Z252UGxoU3otNXlLXzhWbUdBMmFqTEp1WlNwVkJCOUtHZjhMMHcwVHFQMWljZ2o5WnVsYzRvekY1c05lODVNenhvemFNc1h1bm43TURQd1lCZnhiX05aYVBsT0lhczlZNTVZNWVEaGpDVUtfcDRaUUZBajJoQ1BpX2lkSzBZZEN0TmhVaVlsT2c5bERBZVh5eTZ6ZVVqSkNiMXhw?oc=5",
+      "source": "Infobae",
+      "publishedAt": "2026-11-05T20:02:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "7e393b89e5e3",
       "title": "Ueno Bank, el esquema con dinero público que tumbó a Santiago Peña",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmZFljXzRJVlpVZnlMdDNUOFVzdWE1ZTF5Mm9lTk03ME5ESVlWdlJ5bDU4OC1hX3NUQm1JWlZTQnZsc0gzdGl6Q2hOQTdNSG1yRWRYM0FpQ29icjdLOUpFdmtBRDBvSGVHR0xwNTVVbndMLXg3UHd6NVVUd1c?oc=5",
       "source": "teleSUR",
       "publishedAt": "2026-11-05T19:56:22.000Z",
+      "via": "google"
+    },
+    {
+      "id": "cba7487cd493",
+      "title": "Ueno Bank: casi mil trabajadores quedaron a la deriva en Argentina tras la crisis de Paraguay",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EOFZsbFlHbTdpZGVNTm5QX0EwUEczRmNuZjdBYndYRWJXTldmMV9aUWllcFBFcC1naTZtUjhSLVJPdXhmdC1uU2RyZVhoZGVtTE4xZlFwZmd1UTRWMi1scVpEUGRwYVhYRHZwLW5HSQ?oc=5",
+      "source": "617 News",
+      "publishedAt": "2026-11-05T19:54:30.000Z",
+      "via": "google"
+    },
+    {
+      "id": "65cc4c6a66a6",
+      "title": "Más de 900 trabajadores en Argentina quedaron sin empleo tras la crisis de Ueno Bank en Paraguay",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTklLbTVzOF9SblFycl84c3dLSG9OcGEzMnBvYmhFQ3dhancweWRUcFh6VkJkWlp6LVh4YmxVMTFiRVJJaU9SWjJKVzV6dGFKRHFyc0RzRWpyUGhIc01nemF1SkhBT2tpSkpULWhpcER0S1p1cVF0VnY2TEM4WXI2QV9QV2ZNYWp6cEtZUWxULTcwaGdiS0JmdVJLSEZnaDZJM0tBM280enNtUFBrd3BlMHNiaW1mSlczQl96cUdRZ1M5WHZoM2l0YlMxR0trTExSQ1JXa1Q3OXlNSXcyUXJMQTVsaHFiaVRFRUtab0FPWmJTZ9IB9wFBVV95cUxNY0d4dFpvOHBVSWJqbVNINlhUamM2YXdWTUhRY3BDRkcxNTB1andMOXVfcWZrcVk2blR6M3hrSzJmd005SUdDR2RjVGtCLVJqb1ZsR01fYVFBS3VtUElrWVV2SWUzdzV2dmZDNzZtNFVtTExXS0o2bDFydEdsY2JDd0k1eDdxSXJiTWNPNmZqeW0tTTM4SDRRckFiZ2poaG5rUUZWRjZmSG56bWIwdWg3eHdSaTV1LTZqcW9xNjNYbll3NTlVRkhpZ2luTzg4TUg3Y2JFVUFlaXJ3aXMtVXFPRDJDb3A2cW1UVGtJa2Q0NG1tOWh4cW40?oc=5",
+      "source": "Diario Noticias De La Calle de Misiones",
+      "publishedAt": "2026-11-05T19:52:14.000Z",
       "via": "google"
     },
     {
@@ -2050,6 +2978,22 @@
       "via": "google"
     },
     {
+      "id": "5c10a08dd859",
+      "title": "Crisis de Ueno Bank: 900 trabajadores denuncian suspensiones sin sueldo y falta de respuestas en Argentina",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVpndU1TS1l6Ull3U0NhUlY4NG1JY2xYSDhZa1JkUXNST1U0dHJDVWR4UTQ1ZFB3d2cwQmRXT0xscjB1T19CM1BubWcxUk5ieGJKME5lOUdaeHJJQkhvd0JSWl9KSVViYkF1SXJ0SDJ1WTNPdmwxb3B4TUdJWlhrclJZUTdpN0M1RnR1eUxReFhJU0l0MHVHaVVFWnlUcHVjR0w2WDdTUDlxZEhyalFEQ0NiQVVqOGVBNWk1WnltMkZOQ3ZtaWYw0gHAAUFVX3lxTFBRM25pc2I1WFFVcm1PV2JTMEE2NDZQOHpxaHNralVDcmE3bEhCTFl4dEJQSFlKc3gxTm1QYTB3bHR1ZUdrcXNvVkVWb0ZfZGF0NzRPZEVyS0dWYVBYck85MnptSEQyQXRNd2NBN2luLWZrTnRNcWoyRmtlQ3o3WmdqU2NJR1M3YTMybUlMRFJlaTFvcDlBY2M5VW1IZEt0eWFjb0g3ZFN0R20yZWpzb2hMXzd5Wm8zMlo5cldvWDdWSg?oc=5",
+      "source": "Elonce.com",
+      "publishedAt": "2026-11-05T19:38:54.000Z",
+      "via": "google"
+    },
+    {
+      "id": "3b86f15862f6",
+      "title": "Intervención de Ueno Bank: suspendieron empleados de Kaitel en Argentina por 30 días",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUFwblJjckY2Y1NhTUx3NGhiSmFvUnJydDA1MFFsc21TYU45TXdESzlMRzNSR2RSakpBdmZZV01LUUNRVzZqYW0wRFZqZjlkRTgyWFpCVUkwUC14SEVpVFNhQ3BzaGdleXIyTVgwRDVYNHhiRzA1X2JsV2lPY1dzSTRqWmVEUUs1SHhzeUdXT0hkRTJtSUNqbXU0M2tfc2NXWEU4amw2TEpRYVp1NW1r?oc=5",
+      "source": "Sol Play 91.5",
+      "publishedAt": "2026-11-05T19:37:31.000Z",
+      "via": "google"
+    },
+    {
       "id": "32322b399f10",
       "title": "Iniciará el pago del Fondo de Garantía a ahorristas de Ueno Bank S.A.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmVJYU1XNGtwMHpETmp2VHhsc0RiS2JXZmdJalR2VTY2RVc3R0w5VWExbGxVd2JFelVVS1Y3dkpkWTRmeFpvMjFKNTNsZFpqVFdLNU44RXptbU5lMU5qSDlsSldaQnE3S211TVZLdjBQSHo2VFdiY01UbUg4WV9yTjFfeHJjbDZ0eEtmQ3U2RlE2RHRJZHlqRTBkUnJXTW1mS3JzTnJxcjlGVjlSZFF2NVdB?oc=5",
@@ -2082,6 +3026,14 @@
       "via": "google"
     },
     {
+      "id": "3b8dfe3da8b3",
+      "title": "El impacto de la crisis de Ueno Bank llegó a Argentina: suspenden a 1.000 empleados sin goce de sueldo",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObG9CS1ZxTnZOVHd4dlhZdXVLR0JzMHR1dFZ6VGpxcEZUSFhOaHBzX3F2bUl1T3NWVnJSeFUwOVl6UmU2MVNVMm1HNkdjSnB1aV9RRGw3X2VCNVVRTlFSYk1mTEV2R2lMXzlpdGFxWmg5MDMyWHRfWER3SHJqMnRlbTAzN2JmcFZtc1YtQ3B5TWdIT3F1UHR5a1hqM1cyT21lWHNPYUd4cmFyempQQTVvQ1JqSXUyTkIySG8yeXlQVWM0Q0ZUaklaMmVhMUhyaVpLMFo3alRaV3docTE5Mm1ibUVud9IB7AFBVV95cUxQX0dUaFEzYlJ3bnlZUU1VdjdWSm9GWmV5Tlh0TDJXc0o3QXRBY214LUxaWjg4OVQyUjVfQURjZDJQendaS2Z5ajc4ZGk5OXBCWEdfc0cwQ09GU1hySE5FV2U2VndwcEpXZmhjUjRzYzFwOV9OVnFreTg1Y2R6aTBxZUtzZ2gweUhsd2pDanhfUVhQQ3hUWXI1UEx0NngzUVlvZXZRc2ZNdmpDbnhLcWFWbWl5aW4yclZkZ1BsM2RKak1hM3hBNExzWi1HcGl4MWRLLWczcHJiZXhlXzVMMGpFS25FQlN2a2xSNkljYQ?oc=5",
+      "source": "El Liberal",
+      "publishedAt": "2026-11-05T19:32:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "273e2b4338ca",
       "title": "Ueno Bank: del desembarco fastuoso en Buenos Aires a la crisis que dejó a casi 1.000 trabajadores en la incertidumbre",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd1JUd3VmLUwxSThpa3FyTGFJdDVHV1V4VHZ5VHFtZ09DX2lyWU9PTVU0UDhmTUxheHZITUhHNTkzZy1LcmFUR2JGT25IUGVFeGFsX0lEM3lPcmhrVEdKbVkyVWNvUjZHY3dEeVFHa0JLajdpZ0VSVG9zOTdmb0ZkWFNiY2lRd1huMFhnNjdGazMyOVpkOFBfMVM4TlBoUWJVM0ZHZ0RTZ2VVemxKS2RzNm5IVTd4SDFPRjdObnFBaGdGUGg0MlpkbWZWemE2ellRUlhTUzRFdi1wbkszY2NR0gHkAUFVX3lxTE1ER3dsUU94Si1veHpFRmNoMFBTbnJUTTRTdGFTR2FBSU5ESzE1dk83aDREdTRxczlCbVVvM3hSOElZd255dmgtV2RoT0ZJUzZFYkF0VDdmeVFsVk5LQlJ0SlV1Tlk4LUpVT01wWURaUDV0TnJHdmlRVWd4TnhQYUNqNjQwbk5FdmFYQXlNMC1aRWlOdE1ZY2FIc2cwLTAyUjV0WkgwUTd3Rkx2X3dBSnkzVExCTnBzX0JmYi05NnJfX291RzdhcGYtNWJqYmo3dmU0TWF2ZDNHV2FaLUtYb2Rkb2VWNA?oc=5",
@@ -2090,11 +3042,35 @@
       "via": "google"
     },
     {
+      "id": "e513f937c688",
+      "title": "Habló un argentino afectado por el colapso de Ueno Bank de Paraguay",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmw4VnRrd2Rsc1Q5QVdwMnFFVG1QV0E2S1VCVm52WnpCZEtfOVhNZERpMGZmMkZ4a3p5OXlQbFotRnV1TkoySU1DSUVHTWp2YWM1VVJQaUV1Z3VmNkJhUXdNNDl3NkMta1U2dXcyMkc0b0thSWNidWQ3RHhGaWliWlYwRDg2YUNoMlhBWmQ3T3pNWWw2eC00eUZNd3M1TGhOaHRBemNZdDVkRGJJNlNnS05R0gHMAUFVX3lxTE1IbHZPY3RHUnBQMk5RWWNvdldmWFlsLVFaY2FGTGY3clNJNWwzOEtXaEwzWlhmQXd2ZEhIR2RrX2tGQzg4RlpYNjh5SlhyakVoRmM5NngyNk9yOVdkVGhmM0F5MzlkQVRKTmxNQ0hnZVA1VWxISnhLZm9VcWFYRWFrUVRpcmZiV1FSNEs5NHBGT0F2cVVfNzBCX2daeDRQaFdiM2hTUXB0ajB3OE1RRFFIZTBaZ2JMbFRscGt6VzlWamhkMFNySDN5elkwRw?oc=5",
+      "source": "Infobae",
+      "publishedAt": "2026-11-05T19:21:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "0c5c90158d0d",
+      "title": "El colapso de Ueno Bank en Paraguay golpea en la Argentina: suspensiones y sueldos congelados para 900 trabajadores",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWWNoaVZLb2FWMlJnd0ZMc2VRUWlvM09KQUpmZFN1NmxKaTRuWHpZQXFYSGRhYXdZcFFtekxUU24zZnF1NjlXcTg3MWRmVmlIa2Z1eHVoTWk5cExybXdJUkZoSTVxMHRPSjBZU3F5ekRIakVvd0d6Qmd6T0xHQWJWZFVmR2RjVXhib2tEVVI4SU8wN3d6bjZrb0trRlAwTVQ3cU9sTkZ0bXVOa29kTkMxLV9KM2drRzlmd3EtTGtIRzM5ZkpoMlY4RmtiOVgwQl9oU1pDU0tkcDIwbV9LOVc1WW9ZWUNwZE9JWU1hTlcwUDhjUdIB-gFBVV95cUxOS09oU0QwT2t3QXgwUWtUdlY4YUhvOGpObnlhLUZnOHVuanB5OU9zOFplRHFEQnNSS2lBV0d3Vi04cVVhTlVva3dKMkZmeVVCRlNheHo5a1M4UWdPZGJEYjdQbUN6RVZuVmlfQ3hJTnFqNG5IaFYzYzA1dlIxNWlnaFdMV25sTGVMcG1nVVIwZVhtRU43STJ5Q1RiekdTUlhzR19vY2YzbWZvb3dWQ2R0Tk51N0NLWHhMcnV6OVVlTUNBNHpKdkszUjlxSnNpWUtqT3FfZU40Q29hdG5qTGkydUs2bDVQSTJKaU5YNE03LTcxNnZ4ZmtLYXNR?oc=5",
+      "source": "Diario Río Negro",
+      "publishedAt": "2026-11-05T19:07:03.000Z",
+      "via": "google"
+    },
+    {
       "id": "7c07698b6574",
       "title": "La larga espera de los ahorristas de ueno bank para saber dónde recibir su dinero",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaHlPY3kxY0NFRWRzN2hXaEdQYlgtb2M2Vy1xZkRkZ1hfaVFFY3VYa0w2RnBxUG5DQTNSVnN6VXpjTVJwY1hQdEJCUkFKTndlZmI5am9LQk8yWVFJejdoelZQMnNVTkp6VHBXMWQ5aHVDRjlybVU5dzBnNkticmU4ZldEV2dxdjduWG04WFp2bEo5cnA5VUtDMTdMcnVZTWxOa1pVU25aS1hFQlBH0gG6AUFVX3lxTE93MDlDNFJMSFhqbmJPV2JMQnRXbDhVNHp5VUlBdFlPcWZMQXI2NVpCTkVoTzBPRnU0RVNMS3pRVWF2dXBzNkZXTFFWZDdvaDZrdGh6TEU1eHdFQldOVjhwa0w0OVdMSWx2Y21Cc3NPNTRjaFJyRWpWOUVsRS1fZWI3ZFEtNWxNbkN6UE80SndSaHRidkFYX1ZxSm9CcnlzM3pRX2lEQno2VHpJODB1eUVDUG9IV0hhSWdxUQ?oc=5",
       "source": "Última Hora",
       "publishedAt": "2026-11-05T19:01:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "dd28d5f19306",
+      "title": "La crisis de Ueno Bank en Paraguay golpea a la Argentina: 900 empleados afectados, suspensiones y salarios impagos",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT0d2N2VucXRZTHItUlZsOXRobGZaUkNwSHNDd1NJUnZ2SUpjYXJnQTMtWmd4NFNVcFBYTFYwSVNod0pvYjdJaTRCS09aTmtrYmR2NV9Qb0xheTBMLXVuLWVpWm9jQTM0T2liakhUb3F2VlktVXVOTm5Kd292YXlJRC1vZFNJMzcxaElGOHI1ZHdHcTZyUWhvdmVYekE3eDY3Z0JVT0VUam5aTEphSUVwdW40My1pUnVsQXlDLVMzYzlUYk5oRlEtZHlPSzc0N3BVZG5jdWp3VWZKclJRdm9LaTVB0gHnAUFVX3lxTE1zOHhWLUlfZDFxamI5cUdDLWl0S3kxT3JHcHBhc2lnNU9rejNMcnpkaUVoMVhXNEtHWnlSb05sUnl1RDZDeWhqOG85QXZXQkhJTVJ2SGJ1dF9jZHg5dFFjcUxkMk9KOURDdmdkeUFadXh0Si1jZDdxQlMyM2N6RUNYdjhiaUlhNDZYVG00RGZHY1FWMzgyZU8zSktHbWtNMHIyNFJSSXUzRkVEU1hxU0lrMUxVejJzVTJCYzIya1BGM3M4RUZwNmRxS1dCZmphV2pNMFBpRzJ3T29nVFQ5MHpZRE5fWXFtUQ?oc=5",
+      "source": "La Gaceta",
+      "publishedAt": "2026-11-05T18:41:43.000Z",
       "via": "google"
     },
     {
@@ -2111,6 +3087,38 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Mam9hdWhVOGtUOWllUm1famRRM01peTMwdXJtV1pPRjNMalVBcDQxRlVoS29FYjdYUmRWbnFxM0c4UVBHcHMyYlA2d1NfYV9MQVVwOVd1d0diVHN50gFiQVVfeXFMTXRBa1RFa3BockwtUW1vY0Q1c3JjamlVTHN4NDNVZmVQX2xSY2tLeHI1X0FFLUFleTdZQ0diZUVKYmFndTc0UDNWa1Zvemhacmw1VTVpRnZRWWtmOHlGYkxNcFE?oc=5",
       "source": "BBC",
       "publishedAt": "2026-11-05T18:33:34.000Z",
+      "via": "google"
+    },
+    {
+      "id": "e68c255998d6",
+      "title": "La crisis de Ueno Bank en Paraguay dejó en la incertidumbre a 943 trabajadores en Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOU55M05tQ1VsWkh6Zk00NjZzV3Y5ZGhzM082UVhGb2RBTm1sUXAwTFVHMG0zdDFvWHJOTDliSnc5WXMyX0Y0QXZGWnJUdkJOb3dTWVlRWW5TOGp6VnlwOENxdWJROUtxLUd5Ny1nTnVKcC1rWU95S2ltTkRyZVRBdUFseV9Ubi1NaFVTX1hxdU5ENlJ0bTBpUXVrZ1RxbzMtVXZTSFFPamljZ2tBZ0l0OURGeHVJTU56WEt4RGRXOFlkU25QTlhsWkZ3TmgxOUpROVgyS3JIbDl0T2tVTG1UZWd3?oc=5",
+      "source": "Diario Digital Conclusión",
+      "publishedAt": "2026-11-05T18:31:41.000Z",
+      "via": "google"
+    },
+    {
+      "id": "5c60fce1425b",
+      "title": "Exfuncionarios de ueno queman remeras y tarjetas frente al Ministerio de Trabajo",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjN1RzBmRWxRVFo3ZjB0T3M4dnF3ZWJfS1hkeE0wcDM5MFlaOWZfdFlFcC1OT1E1bFJ1VjhCSF9KSWdaVTlSOTEyV1hIcldmUFBiODY3S3MwMF93M0ttZEI1X2JJSWZick5UdEVBMmlHck00UUdoamFaMXdHSWpMQUdtRjBxdFp1RkZzUGlQaWFVS1ozTThsQ193YzdJX19qeVdzZ3N3UFpkcklvTGNqVXN3WTDSAboBQVVfeXFMUDRCY0hoakg3OE5BTmdwOUh3UGxHSlBBQkFvYkVyOHJKWkQxTHhCaEFqbmkyLTQyVktmV19oeFI3WVdfY0N2TFRDT1gyWG9DZTBsZlpnUF9LZnd0alFKOFRxODFfQzJyajBzSlNhbWxEQmY0bnhQOS1UdVBWX2RJMVN1WlZGSTd4NVhkWHd2X2k5MmdoMm9FbzU5MGVUV1pWVUtYZjlsclFhalpOOXV0R3VXckdwRVlhSnN3?oc=5",
+      "source": "El Nacional - El diario de los lectores influyentes",
+      "publishedAt": "2026-11-05T18:30:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "6e6d4d1d120f",
+      "title": "El colapso de Ueno Bank en Paraguay golpea a sus 900 empleados en Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU3RwTHhLTmhWSXBuYl9hZHcwZlRkcTNBX2gydEt0b0NoMUs0YWJLaWJEdk8zbUZvRjdDSzNpWFBDeVBnczRKR1FvUC1INEFPMjNFblVIa2ZpMUN2Q1Nla3l0UkVZSGFVbEphWHhUWURPaXdqZXlURlU0VjlhaTNka1lPRzNCTGZfb2dsLXRaRjNXODgwQUlWc3p3czlIWlZvNmVraXlZVFNvLVB0Y2xJRVRlYjQ2NE9ReXFWcnczWFJ3V21KZHF6SExDYWlSRVdKZGEw?oc=5",
+      "source": "Los Primeros TV",
+      "publishedAt": "2026-11-05T18:13:09.000Z",
+      "via": "google"
+    },
+    {
+      "id": "e7b5cb7db2e1",
+      "title": "La crisis de Ueno Bank en Paraguay impacta en la Argentina: suspendieron a 1000 empleados de una empresa vinculada al banco",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWjI1R3k1VWJOUXhOT0NPQlY4UGljRTRCYnV6d3Q2MXVlMTNnelczVUxSYUNJMEFyNHc5cVliYWU2czZ2clNjdWJ0b3MwdFBlUzZVYkN0Vno5eWpvU2FjMHc3WlNkSVh3NEx1QXlCZVc5X1diNDZBVXpfZTFiVURKclFWb1drSDdMd3pNMzAzVTc3djhadzVsVlJfRTJXMldkY3ZndVl1NktiRVBJNU5wdWNhWkNsb3pnZlF2Z1FCWVp0RFNvVDYzUHZJS0xneUJ5ZWhTZ0E3eUdZLXRkLWxoeXgxR0M3NExpT0MxelQtVHhjc3PSAYcCQVVfeXFMTXY1SjBUd2NENjlWNjNWNk95aWVFR21OVnh1cnUzOTc1SkRJTFFrTlpMMGJYM2pOdFJ6emxKX1ZiNXc4NFRZc3JRaGd1OWljQWhRTmdrSFZNSkhCYktZVjNjVzVRV0F3SUVEN2V4R2dFbWotc2tqSW5Pc213UjdPS0p5eGxicE5kWndkbUREYzRqcjU2V05nRTB5RmJoS1d4TjhlODlNdFNzbmk2ZXAyUzBiMUNSczMwcmxMMXVvN2ZjQUQyMTkyZ2Y2bkJFY2FFMWFBdFZnRDlhRGktdlRway1WX2NidmlZTmwzWTJvVnZBZjh3YTgtRU0wUlF3LTBRQlFwa1RST2c?oc=5",
+      "source": "TN",
+      "publishedAt": "2026-11-05T18:03:07.000Z",
       "via": "google"
     },
     {
@@ -2138,6 +3146,14 @@
       "via": "google"
     },
     {
+      "id": "feb597af4e7e",
+      "title": "La crisis del Ueno Bank en Paraguay generó la suspensión de mil empleados en Argentina",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlVTYnpwZTNxWG9TSFZlQ3lVeDdaVEs4Z3dQWk9vdWktckJGVTkxXzZsemRaVlJqdFNBa3ZpR2ZDUkVCdWdMUXVnUzBSNnNVcDFuRWR6X3NVakVuLUl5al91VG1oZkxnUFNidDlxRkdiWXRES1MyRGZRVG5CTnZxemxFNnl0NXpfQXVJUmxoaXBaSDJTX3d5aFFWRmYtU3N6bm91elN5eEhyaXI3RTBxVWtsTFFrWlkwdVJn?oc=5",
+      "source": "Diario TAG",
+      "publishedAt": "2026-11-05T17:43:20.000Z",
+      "via": "google"
+    },
+    {
       "id": "6ee38e8faac7",
       "title": "Paraguay. Santiago Peña renunció a la Presidencia por el escándalo con los ahorristas del Ueno Bank",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObVd2MHN6S2RSWXNpeFNGb1lMa2l4MmJsZUFlc1RCWDJRM1M5TUZuckxyNm44WG5FTktfNFJ1Y1dHYTByMVE3WHJoVHlWQzNiSm9hNDgzSWt0YnItNXhfbDRMVGVrdlJWbnVxWUl5alNXZEJNM0tETzFwaDd0NkktcDdUeG1VSmQ3QkxRNGNGelZoTmNOYkZoNXBsYVY2cktlZU9zYVhRU0ZIU3RfRFpJai1sSTNkazNEU2tiVzNtQldQSE1PY282eUZzQkRkc05aU3ZKblhQR2R2OWxKQUhWUDJHcw?oc=5",
@@ -2159,6 +3175,54 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZUkwenYyR1BHNkpRbERZUjN5cTYyQ0ppYUhuZWpXd3VKTE5HVEF4ci1sZ0pZdEltMzRfeEVGeUN1Z2tnamVPZzJHTVJiY19hbDllUlJpcFNuaGNHcDhxbVBpSmxxdjA0LW82UHJ6Mml4THJwZGZvdmo0UFZOTVB2V2NtS0hTRmxYVmdFNS1tQzR1b0hiODg0eC02ekR2OWkzOW10OGJmdk14d1pLeElaRWV5aldqYmJqVGJuMmJKTTR1X05aWG1kczJlb04tM0EtbktjSmFrZE0xSm1FT2UxY1BtOWxhdlpYWDZ4UWVUc1fSAfYBQVVfeXFMTVJVbHd0dmtNTm45YUZmano0OGQxUlVJUC1OWVJRSDlxdjNfdjA4eXpmT3dkMTVYRmF6Ry1mbm90S0duQzBqb1E3aENoeFVnMFhmdE1BOVQtM09zWEJKX2lUM2R6OUlzMDI0SUhrYkF3NkpPTU9jUDl3RnFteFBvTmhXbWVaX0Ryc05RY0djb0RhbmRta0tXckQ0S0ZvN3lPT29QSFVORnFYYm1obDVTd3p3aDkwTm82OEtaU2laRmVFSXJzVWFvak1Zb2pTN3V4UVlIZlRIWi11OVNpTmhaTGxnUkxfZXNHMldIUU1fNlNabWJKc0ln?oc=5",
       "source": "El Observador",
       "publishedAt": "2026-11-05T17:32:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "699f1e723011",
+      "title": "La crisis de Paraguay cruzó la frontera: Suspendieron a mil trabajadores argentinos vinculados a Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN0J0aklaSWVOeVNId2hQcm01UzdmZjR2T1NOb3FnRHhFMElMeFk2azB2RWplTDJBLTBmN2tWczRVZmluUGZKbkNWQU9idEtqRl9aTGJvT3ZrUWwyZ3A5RFVwaHJjZEpQQXRLcVNfT1VvLUZtbV85N19zbkpLV1A5M1Q3aV80RDhNUTd3M3FOUlRIM1gza0kwLTljX1RvcVB4T0JQUFdNYkVqM0llYmRUeldYb05qbXE3aFlQS2NsNUd5UWNuWFI2elZJNHhLSDVzaVVz0gHYAUFVX3lxTE5TeUxheFRBVVhyUjNVMUczUWppVDkyWjQwd0JKYmRBb29Gai1reUxwd1ozdE1OY1BFRGxjUWdZaldoOTBYbklBNkk1enhQbjh6eFpmeVZwcV94d1oyMmpNZElRd2ZhS0NnNUl2RWtUNHVHM3lVYW5JcTJtbS1WSGQ5Z3ZtVEJnR1ZDWUIycHVtb0FBRVNjM2M4VERUZTVZSDhXM2FLOEkxaHlncDZtaGtrZkk4ZHFyNk9mOWRRclJDR3JudEY5TWVNTVAyWWwyeFJVaC00MGdieA?oc=5",
+      "source": "Gente de Salta",
+      "publishedAt": "2026-11-05T17:26:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "bfd90922c55b",
+      "title": "La caída de Ueno Bank afectó a trabajadores argentinos: cerca de 1000 fueron suspendidos",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOenh0XzlqMVFjRXRVMUhqdDV4UjFqc3JjWkxpSVZTYU16X2dlanVtcmZoaXFnVHpTdUx0QjRuWjhCbXdkYXljT3piVmt0ZUxzRTk0d0EzZzh6R3RIanF5VFVhdl92eFh6U2VrNE1RZGY0dVlZcFVqWkhjcklxQlZXaUtvOFk5c1diUnM5UE5iQlRJUWxQYlk2aXJ3ejV4SThfQkkydExNY1lnRFdYWXA1ejJtb05CSUdteDhnSXBYaw?oc=5",
+      "source": "Diario Chaco",
+      "publishedAt": "2026-11-05T17:24:40.000Z",
+      "via": "google"
+    },
+    {
+      "id": "47d6440f61f3",
+      "title": "La crisis de Ueno Bank llegó a Argentina y golpea a 900 trabajadores",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZkJQRzd2OGVpMTR0eTN3N1d3WW83enEyT0hYU3JqV3AxV0dqcGsyaE1JRkg0VEFXbHVqMTRXcDNlSWRJZ05XWTBobDYxZEZkbklkUEM1Yzg3Mld1M2o4QzhJOFJSTVphQ2FXWDVZTERnaDRFaVZvVGMwWFF0U2J1a0RwYXk2c3MyNDJlY1N6VzY5cmhzNkVaVHktUm45UHNDREYyYXhzS0luSm1KQ1o5U3FQUGJiaDFEWnpGUGxR?oc=5",
+      "source": "Diario Huarpe",
+      "publishedAt": "2026-11-05T17:24:34.000Z",
+      "via": "google"
+    },
+    {
+      "id": "f14c69b8391b",
+      "title": "La crisis de Ueno Bank llegó a la Argentina: suspendieron a mil empleados de una consultora",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1scUhTMXBwVUlPR2ZBQ3pNaFQ1WHJMZjFxbEtaSVFDQ1hqM0NXQU9zaVNLaWhUTF9fMEZ3cWJqU25yVkQtVWJWdnlscnByWFh1M0h5M09MY1gxWUdZVE80c3JTVEdPRU0?oc=5",
+      "source": "Canal Doce Misiones",
+      "publishedAt": "2026-11-05T17:23:22.000Z",
+      "via": "google"
+    },
+    {
+      "id": "681a5356ae42",
+      "title": "Ueno Bank golpea en Argentina: 943 trabajadores entre suspensiones y sueldos impagos",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2VsN3VOLXFtdEV1cnJ2VDRKc256ZnNyR1FrNk5BczNxdnp2dE1VVFJVY0NIU0NBUmNjZENUNjlxMEVTOXBfblM0SGlLRDhNUUhFNFhyY29tQWZMSzVDVmIzYVExcXBGeGxtRy03UFhyaENfaWtHY0NGVE1IdmJBbUNmU1VfWVlleXludkNnbk1tUG9wMzRrNUc3M09CSVNyckl0dWNORWF3Sy1vTUpQcVZEa2s3SkJqTHRhQ0YwNXNFZVNy?oc=5",
+      "source": "NewsDigitales",
+      "publishedAt": "2026-11-05T17:19:17.000Z",
+      "via": "google"
+    },
+    {
+      "id": "3ec0d8dbd2c7",
+      "title": "Protestas de trabajadores de Ueno: estas son las promesas del Ministerio del Trabajo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUVZNTzNqN0VBM0NkczlTZlFiR1pxbDlEMXJ3ZV9RTWlwa2xBbUg3T3FURDNLcjBBSVJQVzR5aXdYUU1LRjhwckNfNVI2VTQ4a0RVZ2lvRE1JenVKSmVIZlN0SFNJcS1VWkZlenRJc1NMVlBneDVGRU5KU25MckZwdWhEVTlRR0lmLTVheUMyc2lFWUpvSHVDV1ZQdlp1bVVZNmdaakdjQkJHY1JmT2VZR1RQbUNYaU9oUmJZR01tVVMtWU9mMU5fcg?oc=5",
+      "source": "ABC Color",
+      "publishedAt": "2026-11-05T17:18:00.000Z",
       "via": "google"
     },
     {
@@ -2194,11 +3258,35 @@
       "via": "manual"
     },
     {
+      "id": "d0a120f6cfe9",
+      "title": "La crisis de Ueno Bank llegó a la Argentina: suspendieron a 1.000 trabajadores sin sueldo",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSlZTZnhhOHVHekJUdUJ0cFNaS3loMzZQa2RnMV9sNFlnSUdUWTRQRWFLQnQ0QjZTTUZsMkJWalJMYkN5UVQxQnJDeEcySjRzNlBCa0JlSVZLd3RzdGloOGlUaG5uMUdqXzljVVJ6Y2ZYQjhlOUFadFRheGY0OGJua05pZG1YbHdPNU9kTzRwZjdtalFTa0RHZVJBYlYyS21tY0txeXl4WE1rNzgxUUp3dlExamdFc2dtSm81X1hqSEFhdDR3QTJWVXR6V0JCS1VzRS1yNQ?oc=5",
+      "source": "Primera Edición",
+      "publishedAt": "2026-11-05T16:55:45.000Z",
+      "via": "google"
+    },
+    {
+      "id": "908eab22a4fa",
+      "title": "El escándalo Ueno Bank ya golpea a una empresa argentina, que suspendió personal",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWXFSVTVJN013S1RCclozaVZtZDRvdVN0TWs3S3Examx4Q0hnUXVmYV9BUzVMNWd4SDFjM1ZtNHcyMXlfaTZTLW5KU1lCZXJRLVl6Yjc2aFBvRjVPeGNwbHJ2WWFsWkFaS0JtTzZzY2R4MHFsVWp4QXp5YmVSUDNmQzh2NHNYZDhHbEJEb3dUdzNqRnNhcFVtN3ZhUGZmSi12R3RZakVzbE1WLVgta29QZDVPMlVaUDY5Q2tUbUozQnJhUkRN0gHKAUFVX3lxTE5NUnpfNnRCYm9HS2VPOVBrN2sxTzhLRWdxOW9mQzRYaUV4bGtiTHFQckR0ZHhjM014bGdlTVkyOEQwRHotbVFLZ3VnaDlSSXNvc2stX3lXdVNwUVdfcVNMY0dZcnNhRWNrdzl3LUpmMmpvZ1FUaDlXTXN4bEh0RzB4a3hxcmI4RVFrZXNEa09uQS1KYklEd29lMFp6dk0taW9NanFkUW1RYWQwWnozVEx3WXNLNkpvaTFNMXBuSHhUM05BVmU1QjAtZ2c?oc=5",
+      "source": "iProfesional",
+      "publishedAt": "2026-11-05T16:51:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "6b301ac114fd",
       "title": "Crisis de Ueno Bank en Paraguay: las 10 claves para entender qué pasó con el banco que dejó a casi 3 millones de clientes sin sus ahorros",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTlRTdEdwRWNQLVdjS0ptSm9OOXZSbDV3cnhzZ216VUxMc2hUNlQ1YXo3ejZOdURJanVaSXFwd1BSTk5pbGRNOTJyTVh4Rk5HYVlZcThPSTZXWndzeUc3aHpSWi1TbVd2WkRlUHZBM05qUlR2S0d6UjlNU1dyWU9yNHRrRWgzMHhSV1QtaFk4RFM0Y1RNeUk3ekVMR0dYZ1NSVEM5UjUxa0dhUl81eEtXQ0VvbkRqWEVHbGNfOFNmQjV0bjZhYl9MbkNYMm4yVnZWOHg4N0tGYzI4MTVoNk5SX3YyajhYc1NHWUl1S1J6UnZ6LUpFSHfSAYoCQVVfeXFMTnRncGF2ME1xak9lc1JrTDRtWHlTaWVpYW80UWhOcjRpdzQtYmdfd2FaUExMMEo2UUppcThPQjhsb0VVU0ZvY2JrZE9PdmFObWNkSjYyY3VGYWZtVGFoa0UwTG03d0c5eXQ4Q3N5YmNHUS0tUldMTTlYdWZfdDVJQWRuVHdFWkZSVTdUamNZNnFjU2lfNFk2b0ZPTXhJYVQ5UkJEekxNRTdSbHljQmJOTjJUNFFmMVBReGozNVNLWS1kUXFPdlBxQV9xYmRDRWVqdnY2RWthbFd5bUZOWWhRamdsNEZSaWFxaTVFRHgxY2d3NFZSYTlGem5YVElpSF85Tjlzc1E5V3FXMnc?oc=5",
       "source": "TN",
       "publishedAt": "2026-11-05T16:50:33.000Z",
+      "via": "google"
+    },
+    {
+      "id": "1787e1ef5684",
+      "title": "Cuatro claves para entender la crisis de Ueno Bank en Paraguay por la que renunció el presidente Santiago Peña",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTEFrRkM3cDRtVWJ0amVQT0tHUzRETVA3NGxxUkxhSXM1T3VPRlFBbVpGSUgyamdCdUJuT253X1hkaVVjV1dzcWRSSjVwYXFRc0hfM2JnWl9fb3JIc052TnhpcG45SVZwLThSY2s0dGlSOGlFX3BCVzZ5b1ZRTThCWEpnRGluMXEyMVFIdlFjZm1WaFR6d2QxUkEzWUcyVmw1NUJsbzJmX1lkRWwzSUlBZWNWcWF6aGhjX2loUnlGa1F5VGhNLWtqZW1kNHhaaWsycDF3LVo4Xy1CWXVHbUdPWGRYUFBYQ1piWi1WcDVFTGszR0hw?oc=5",
+      "source": "El Observador",
+      "publishedAt": "2026-11-05T16:40:00.000Z",
       "via": "google"
     },
     {
@@ -2250,6 +3338,22 @@
       "via": "manual"
     },
     {
+      "id": "01c2f8642711",
+      "title": "La crisis del Ueno Bank golpeó de lleno al fútbol paraguayo: un alto porcentaje de jugadores fue afectado y presentarían una demanda millonaria",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcUVhUUlrQnZ0d3Yta19qeS1aN3dOOFFabVkzUW1HcmttdHVGNjF0NElmZjlWSlNCUHBBQXRXM3pLbzNpNDFiLUpySWJoZ1BCUmRfOWdVYWZrWnhvdUp3eWFjaE9pNVZfODdDdUhid2psYWYwM2pKYV83MjVsRlc1a3lNMDRjQ0xNc3FWc20xa2Y1R2FUZl9VcUdjY3Bpb0V3WmpBclk3ZndEMTZPVFZjd1lNTVFEbm9XNDYxZFZIY2F0RWtHMWc3X1ZJOWNCb2JhcnBicWVPakhDSXJjNDVuVk1YcTROMm5xOHVVa0ZQS2h3TWVFdlVPc0k1TGR4SU12dGNEcks5SjBXd2p5TWs4UXJZd3hmUdIBsAJBVV95cUxNSHZTYzJoTENXQXdkUm9OTU1NdG02bzFTQWo5RmlBS2YxdlI2RW9hXzJzTG9pQU1wN2M4b0VmN1NUbDNCUGRscndkbllNd3R0VmRiMEdyTFR3UHNWYXdaTm1NS1c1YUlFNnpWWXloUnBPVk5YVFdkRmNqbVdOVlJaYWdIU3U4cEtLSFNBYXlEN3JDS3E3WFBhdUF4TXRHcXA2WFdMWmk2UXRDQVNyZUlJVmxta2pmYk4tM0RSaXRlNExNaURxcTJTTzlJMWJBMV8xSGJrQ3FBMGJsVENvVzlkTERRVkxHdGhvQmRNbHU2YmhNY1pXY0VlM0Z0cW80NERaMGhrNU0zZFhiVUNPbUp4VGg3TTdlTjlhRi05UnEzaDhWSHBOcTFzV0ZaejIzVUF0?oc=5",
+      "source": "Infobae",
+      "publishedAt": "2026-11-05T15:58:15.000Z",
+      "via": "google"
+    },
+    {
+      "id": "e5aff38629af",
+      "title": "El escándalo de Ueno Bank en Paraguay ya impacta a la Argentina: suspenden a 1.000 empleados de una consultora que le presta servicios",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdEwwOE5WV3NtVXpDRW5JbFlzZjdCVjBuSmx3dGFaRjIwSktXQjJGMlo2YWhsNkdmRHVtNzJuVTMyc3YzX0M4WExLTzVtYTNqamREcmhxOVVnYWNNd1RiVEEtNV92bEhxeVdCZlBkWlZXNHpRZUZEbGpLb2hMblpsTUFudC1LSURvc0VvdU52cUJYNnBNT25UMThfOXJOalJzN3I3XzFyTjBiWVhaNnJ2WWxNakpRbnozS3UtcmU2UjlwVXluWWRKS3BoQXdHQVhLV3VnN2xHM2w4TE01Y3EzN3U2Zw?oc=5",
+      "source": "Clarin.com",
+      "publishedAt": "2026-11-05T15:52:15.000Z",
+      "via": "google"
+    },
+    {
       "id": "79f02ef32993",
       "title": "El caso Ueno Bank: por qué cayó y cuál es su impacto sobre la economía de Paraguay",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUVlndDhCTDZqNUstMGV1NjBTenE0VVZKVmwtMnh6dEFraHpDUW5pa2JzbWJXLUctSmlQblk2dnMwTTRNNGZxSWJDRHRnajlYU3VzeE8wSFNLYXYtMDFlSzdnSDNZRlBYb0Nzd21XcGVxM0s2elpodC1XRjZLZHVWMUQwaHNPd052eC1LYml4dENJTVVlM2xaa202VjQ0OVNVdmgxcHlXekRLNU9Fd0ZsQWRhN0ZMOUZqNnZ2WHowajZjLXE00gHfAUFVX3lxTE9rR3FGNGdQR0w5MmFRZkMzS3VkdUF2R2xhQzNwaDYyS3Z5OERxTVRhVU12TDFtcUJWUndMNjB0QU9IMlVzNjVlWUI3R1kyWWI3TEVJRjdPeUF0clhjMlNGMUtka2lsWGgxcE9WSThWYnBka01KSE82M2xBY0MzRkwxR0dHUkxUS0p5X0I0THAybGUydVBKbmU4S1llM0VuNkprLUxtZ25pbDM3WG1SN1cwbFFOTWlkOVZFd2xIcDgxUDZyaVNkVE1ZU3JXeHBta0JQRk5jQWt0Z29iUVRXZDg?oc=5",
@@ -2258,11 +3362,35 @@
       "via": "google"
     },
     {
+      "id": "40ff71946d04",
+      "title": "El colapso de Ueno Bank de Paraguay golpea en Argentina: tiene 900 empleados en Buenos Aires, no pagó sueldos y hay suspensiones",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdDdmbDJYTHd4N2RvS3F2NWE3XzZxNnR0dGY3ZWVReXhZemFaZkpGRWRZTmx0aHpCYlBsT19JbWU0UEZFVlowN2NwalJzMHlQOVY2bzd5bE82eVJ4N3Y1WWJncmJpa3hkWWZQaDBNTXpkdktRTUJUTUJBX1N3eXZGcjNjTTdtcTkwWFVjZEdKbERmQXE4Y3lZSUQzOGRBMUQwamFWNmFOSWhMYzZraXZyZTdkZmk4SGpJOS1hSXJzV1dldi00OFd2LUs3Q3hEWlFlT1plV3AxLTVRV1RqZVNFbmUta1dtVTh5Rl9WdlQyN0NqY1lvajFKSW55SWZjbnlL0gGbAkFVX3lxTE5Oa2x5X3hSdGt6S2pLSzN2Z05aenE5Wi0tMTBPdGtUOHV3X1FHTUtPWTB4dV9yR3Jfcmh1R3hGVG1PMUlwby1MWmdza2FKeXlTS0lDb21IRm1QdDJlcDV6ZlFlM2U0VG41dk0xOGxGSnh1djBqZTNWX0tRV1gwX2t3amhrMExZQ2JJUTQ5NzBaeG5ZX2ExbEVpakk4YTBJOHBkMnAydFJEQVZJcWJtVFY2VDdQdUVicV9hSVoxRWlER3liMi1mNGdlNENsUjVTYnZqR3BBSnpvMExyRklKVElwZDN4R2FOTUpxMG8xTjFKVExyd2xqUzJNeVRqbUNXYlFtZXAzRzFqMnlVQjVSZ19paENBbTdNRGhaekk?oc=5",
+      "source": "Infobae",
+      "publishedAt": "2026-11-05T15:28:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "2f0fef16b4d6",
       "title": "El escándalo de Ueno Bank puso a Santiago Peña contra las cuerdas. ⬇️ Te explicamos el caso en los comentarios.",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPY1BCYm1rdzI0YjRWbzZoSVFzUWd3d2R0UEo5cGg2UGJLS0cwMDVaMUM1WjU4bzgxQndfbE4wWmJOcXVHM3VNOU1vUEphbi14eTJFZTRhWE1lYlRlaF9RN0hITlpxVGdWZ1VVUG1MODQyOTZXTXRpbXQ5c0ZHcjFUWVNMMGFiZGJRa1VMbUVfSDlVbDhHYTF2Y2ctcjZyZXF1YmFuTncxcVVONGhkVDhLN0dNWTN1cVRLUENEREZvVmRHWDBSaXdhb1VnT1oydFZXT2FfMHVjNl82UW1rRWxteG42X2ZJamJzbU5ZRm1lUHJmZw?oc=5",
       "source": "Facebook",
       "publishedAt": "2026-11-05T15:17:09.000Z",
+      "via": "google"
+    },
+    {
+      "id": "2f50ce6bb796",
+      "title": "Ex trabajadores de ueno se consideran doblemente estafados",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOU5JaDN5LVE0ams1ZmtGRnBKSGpEdm5wNEFQMVlUMmkyUGxrYW5vYUhDWktENThqWWYtZ0stTkpmeEluT3lvaFhqcUl4NmZpZHlUdWExaUJQeDloQ3hsenRJTUNPVHo2dVhST1ZBREE4Z0dTSk5reWt0aFExdHJoN0RDNWpwU0RoSFM2U0NwRHB3N2s?oc=5",
+      "source": "ADN Paraguayo",
+      "publishedAt": "2026-11-05T15:15:22.000Z",
+      "via": "google"
+    },
+    {
+      "id": "9031320fdec9",
+      "title": "BCP anuncia pago de liquidaciones a funcionarios de Ueno Bank en los próximos días",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDJQZkYtZmpLSHRnQnlTc2hfS0VWQUZoa1NmcmdOMEptY1ZFVUNfX2hXNE81MV9kMU9odHVCc3gtYUhadE9BVmVKSVA1YUYtNEhMTmhmYXJ5RWxVTDVOeTlPVENoTDJ0ZFdXSXhSZWdLZkk3NXM1aVZwTU16WWEtdWJ1bUN5RzNSSzRyZmlFVENlc1J5R1l2U3BBQXNHVDV6Qi1IczFYN3hOOWxfTHNpR3d2aw?oc=5",
+      "source": "ADN Paraguayo",
+      "publishedAt": "2026-11-05T15:15:22.000Z",
       "via": "google"
     },
     {
@@ -2290,6 +3418,22 @@
       "via": "manual"
     },
     {
+      "id": "c5478c1aea0a",
+      "title": "Ueno: denuncian suspensiones sin sueldo en Keitel su tecnológica argentina. 943 trabajadores en la calle",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMnd0YUxrWkczM0tydV9hNGFDN3lhX1hvV3ZHU054cVJ1MzFMMkxLV2poelZNNHZJVm9kaW04YjRLN1o1NjdYLVZHZVc3ajAzeXFPcWdsNEhrSXlFNXZGOWszTm9yVm9iRl9vX3NkUnZzNzJNVWM2VWk5ZHF1TnpHSHBGYUdDNEJWTURTNVNUbGpNMkdvNi1YM0dMZDRzYzJzSWltQW41NzNjSmxYWHRjbXR6SEs5aXJGczNvWEdXYm10X1pka1VXZHdMN29nU3VoWGZBaFJ6cTk?oc=5",
+      "source": "Palermo Online Noticias",
+      "publishedAt": "2026-11-05T14:49:08.000Z",
+      "via": "google"
+    },
+    {
+      "id": "b89070ec0b01",
+      "title": "El escándalo de Ueno Bank también golpea a la Argentina: suspendieron a casi 1.000 trabajadores",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbzV3bnFabWFBcVV4U0dmc2NnWDdkS2M5RjdQQlRac3ppTUNaLXFfWkFoQlVvcnNNZW1kNHh6X3VRSzVYbmZiWFhPdVVXdEJXQWNtYllwM0twSFZMSnV1Y19jUmZvSXpSaG9XTERaZUJnSW5KWXNxc0VuLTBzOS02bTNBd3huUnBHb0hHQ3lEUjhVZFptTFVUUm1NOU40VUYtd1ZzU2l2VlNQeDFFR2tOeDFTUWtiQlVuRGNTM01fY3rSAcYBQVVfeXFMT3VHdE05SEVLSUxDNnRUOFNYQzVWaUpSSnE0Z2xhMUpNSTRpUENmelppMm5lOTZCd29uRVVRSEJEZ2JXS2VjSTZNQzRCOEZFQkhqUkplNW81ektnbWNYUHdnWE85a2VVOGI3dU85bzFVTV9OWFFSWlVBQUZDdnY2WmZ4ZjdXRXJmbnNMcWs0S21tWUtOMnVtNm5hMnVvS1I2VVhVRm9qSERZa2c5VnVJZ2tfZFpNa3huMC1LSXFFM3Y1TVJRTXVR?oc=5",
+      "source": "C5N",
+      "publishedAt": "2026-11-05T14:45:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "40cf405699eb",
       "title": "Fiscalía incluye a Santiago Peña en investigación por caso Ueno",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaHJoOHdXd2RtNHkydFNfUFVDaUhTMjBjWlR0bmJzN3hZaDI2aTc3SU05OVNpc2kzN3h6TUViS2JnaTNWb3kwdzBkSUdPZHd2ak1HMmJvUlhQYXVGRmJXT3dhZGxveWl4cFJyTFlwSnhndkg2ME91MnVrMDRWYmd0RHhzeTFVcllpTzBQV0t6Uzh6Q2lncm8tZnRlc1Z4dWZjcTRmdlFiSXhYc2cxWUE?oc=5",
@@ -2303,6 +3447,14 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQajUxcUd4eUhfN25jdjZHVVBvejljUXJVcWgtRi1FWUVWQm9pRjl6RHJBT2pveWRqVUR2c0p5bW9BdEI0c3dlb2ozMnA1WmNNNVBjdEhNMGNqbjNZRjZaeWZHR0JhSVZJY2JMb0FlLW44bEtsQkRhZHhXQjVkQkdRRWxOOWVOZjF4NjJDSnlCMzM0WjdqX0VZWDNWWExaNW5wSDRGSDVCOV81VjBB?oc=5",
       "source": "Euronews.com",
       "publishedAt": "2026-11-05T14:38:17.000Z",
+      "via": "google"
+    },
+    {
+      "id": "7b8e0e4a9b91",
+      "title": "Caso ueno bank: Cientos de trabajadores protestaron frente al MTESS",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY295aW9mTHlwREE2R0trcUl4bFFmWXZmUDhKdktMdWdhQ2hpTks1RnM3RE1YTTBkRjJGREQ3LTBmLWhSbGllVTdacnFQcGNkX1RYd0JDZHpsa3phMVh5a1lvUXlocGtKNVNIQzdKeW42OTZpNXdac2VDakVaZGVkUW84NkFPZ1F5U2N5TDJBN2pSNjNTSmxNaNIBpgFBVV95cUxNMUJqSnZkUW5NXzJxcWxrMExuOXZ6Vl9vUmN3R2RWeHhDUDZ3RE9NMksxVUxGSE9QeVJXTWVwT2xCR2c1Z0lOSG9veWlya0tXNFNsckhzYklYM18tZjNlcFh4NlhwYnZIckZtVW5Jb1JzTWZpaWdRMWVWWG5wOVFiR1hfc09Hak5WMFRsblBUbi1GLWpzTUFQX2gwQjJsMzBLQUxEbDJn?oc=5",
+      "source": "Última Hora",
+      "publishedAt": "2026-11-05T14:38:00.000Z",
       "via": "google"
     },
     {
@@ -2327,6 +3479,14 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZjZLRGVoLXlQLXZrNXQ1blNqOHl2Z2hyQW5NejRjb3d1LVpSS21RT3dIMUNVc2Nqd25vOUs4WUY0ZmZqd3Q4V2lPdDFFR2JkVkxRWlh1Z3hPVHdJS01obVZiUDJ6X3RLVVRlLTE5eGRCQVlYcHVoQnZIajg3dEh1bi1QUloyc25mTWtvWXR4U2lWOS1JUXV2Y2NET015RmdrQ3ZjQk96aHRHSXFGT2JUWEw2TnpYLWNfRC10Znk1dDlidFU?oc=5",
       "source": "Página|12",
       "publishedAt": "2026-11-05T14:01:04.000Z",
+      "via": "google"
+    },
+    {
+      "id": "402582adbf5c",
+      "title": "El escándalo de ueno bank en Paraguay dejó en el limbo a cerca de mil trabajadores en la Argentina",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWHkxeThwV0tRSExCSVZUOTdvNDlva19ibjJzVVBWRm1oT3ZlWXhqSHI0WXEyMzh0ajk0REVmMWNndmstcE9NNnVzYmtCc1paTFc4SmlTdXRTeEdlVHI4UkMzV21MTkpVTGN0dFBnQWMzZmdfZTM5R2Q1S19uRlhEU0tuS0RnZVhMQ1RBS2tYTHBPM1RhV1NQQjZUZ2hvV042aWNWNmlMWnozeHI3bXlMc25OcVRmSmR4RUFmZXR1X2IzQ2PSAcMBQVVfeXFMT1h5MXk4cFdLUUhMQklWVDk3bzQ5b2tfYm4yc1VQVkZtaE92ZVl4akhyNFlxMjM4dGo5NERFZjFjZ3ZrLXBPTTZ1c2JrQnNaWkxXOEppU3V0U3hHZVRyOFJDM1dtTE5KVUxjdHRQZ0FjM2ZnX2UzOUdkNUtfbkZYRFNLbktEZ2VYTENUQUtrWExwTzNUYVdTUEI2VGdob1dONmljVjZpTFp6M3hyN215THNuTnFUZkpkeEVBZmV0dV9iM0Nj?oc=5",
+      "source": "MinutoUno",
+      "publishedAt": "2026-11-05T14:00:00.000Z",
       "via": "google"
     },
     {
@@ -2362,11 +3522,35 @@
       "via": "google"
     },
     {
+      "id": "f9882bfdec8a",
+      "title": "Exfuncionarios de Ueno Bank protestan frente al BCP",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQnBibVNWU0Q1Vjk1WjdoTzB1amdpSk1qWjI4T2JFMEthMjEwTXJmc0NHRFgtaUViY20ycGtIUFpKMEhGVXFtUUVFdk94amV6b1FDcUtVZG0yMHYwTU5BdUJPY2k0YzRINDFuZWZ6VkpyNEZSS0ZxalEzUFhWYVA1VktmdDRpbVhEeVN3Y3R0QQ?oc=5",
+      "source": "Resumen de Noticias",
+      "publishedAt": "2026-11-05T13:07:15.000Z",
+      "via": "google"
+    },
+    {
       "id": "85cc9e4a36d8",
       "title": "Información oficial: todos los comunicados del BCP sobre Ueno Bank",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjJNU21CNEF2NWNYQXpXc0dDWUc3dTViamw4OHdZUzFtWFpfQnVEaFRXRDRWYmVkaHRZeXVHNVZHbnVubVpHMVRFNWNIX3F3Wjh0ZjBZRm84V0REOUxrajYyR2d2clZ4eXdpRzgzdzNWcjUtNjd4MGQ3WC1yS2hhQWxpNWpsY1RIYTdDVGhkNGRvU1U?oc=5",
       "source": "ABC Color",
       "publishedAt": "2026-11-05T12:59:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "c8ed1092ca79",
+      "title": "Ex funcionarios de ueno piden respuestas al BCP: “Se acerca fin de año y nos quedamos sin nada”",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWmltZWl3N0JONkhoMU5YaWJGeWZ4VGFxN091ZFhBdFZESlk0SmNUSjFQQ1VUaGVsT19CNUEwcmFCd2VhOUhGUV92ZllVLUVnM3pqZWRuZ3dHdXFFZzk0YUFSdXF0WmhwSDloZ1BBRFVaaVZwb1Z5Z04tSXRaaDhUN0ZtLVdlc0dBRmlLb2gxTUY4djlwMTdPSFV6QUVNQmhGMk01RjNWbDl5ajNaYWVjVVkyVldRWGR2UVNz0gHIAUFVX3lxTFBUUjEwZDZ5dFVJbUZueVl0X3pEYzE2d0UyV1RNanJYV2FlbEJUZmFydUVKVlpWVU95T0g1bkt0WVFOV01kV1E1d3EzVjhxb2tfN3RFbmxlV0V6cUxfcjNOT0R6YS1peXZYZkI1Tk13Qjh6RXNITnJ6UWR1bkVpM2dVdnZERVhKVWoxUU1RckNpSEd3SDhNRmFuMlhMZW1LeUY4ME1oU2d6ajJ4Qk95NzJOTU15RG02VVczS19DWWZTOXFCRDNWVFpI?oc=5",
+      "source": "Última Hora",
+      "publishedAt": "2026-11-05T12:49:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "e139223b6b8b",
+      "title": "Video: exfuncionarios de Ueno Bank se manifiestan frente al BCP",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZGlQbDR0bnlhMi1PWi1XdmNqazNXdy1oSmNwX0FwSzg4VjVoTEs1RmJkVnM1ZmEtc2dNbW8yek14Si1Yc0QzNnEySFZUVi1ISEtKZEd6aHNrVXh4LW50blZuS08tWHN3aVZoTTJrOUZlUjRhbE5LWlB6ZWJUQ1FsRUdkZzBiYXFqblozMHNaYTdRNFRoRmFfVFA1Y3BPX3BGa2liR0JVQ244Zw?oc=5",
+      "source": "ABC Color",
+      "publishedAt": "2026-11-05T12:43:00.000Z",
       "via": "google"
     },
     {
@@ -2383,6 +3567,14 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY2dMUjhXWDdIT2lRaHA1STIxOG9kNkpVc1RUbl84bWFRRzhkV21wcmpiYjVPZklSazN4ZWdMa3FVVW55ak40R2hKSzFPRUJleWtYcHRMRHdNUENyU1ZKdVZVTENLOHVVbndNWWNlQ2pPR05vZjdha2tlbjV1RlVBOVNoVFdRbVJZREdFcUpZQ19SNnVMR1BscHRUcVFkYVJtUlNsOTcxMHk4RUZfY1lxQTFyQXJCeHJ4Q3c?oc=5",
       "source": "El Nuevo Diario",
       "publishedAt": "2026-11-05T12:31:19.000Z",
+      "via": "google"
+    },
+    {
+      "id": "be86211e4280",
+      "title": "Paraguay — Incertidumbre entre funcionarios de Ueno Bank: recibieron la orden de no acudir a sus puestos de trabajo",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY3BlWTNBSnpvakJmQUpzTWx2cG42RXpDVFB3ZkNJVW5Kbno5ZW4ySXA4MHVWRHVrTWc1akctZHd0cWc4RUVRanJkMWZSU2VNS0VpeThnYk1ZV253bjAzTV9CNnFXQzFCNkV2UmhIUmlfb2JnT3VkcldKZE00czhiZDVVcGhOOEpUWHpwZ2xWbzBWbEFySjVYU2JyaFdYYVk0VEdFdGo3WHRmczF5Vzc0RF9QUy1rWlo3dENhaFQ1N2l2aTNBRjJmclMwdjAyNnBXZ2U2bUpzNFQwd0prSzdkYVI3eV9QUQ?oc=5",
+      "source": "Prensa Mercosur",
+      "publishedAt": "2026-11-05T12:03:49.000Z",
       "via": "google"
     },
     {
@@ -2415,6 +3607,14 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNjh4RHZCZVgzcURSQkdpVERRM2pxT0YwYndzcC1QX3k4RXhHZlM0aEg4b2Z5c0FzOGl3ZEJzVGdJRF9NNUk2Y0RoY0ZDWDlMVzVpRDd5NEw0RlpUdWU1cFZqaUowUDRTZTNUeTJvOUVrWjc0cVNNMUFRc2tKazlCQ1VkejlFWkt0OW41eGZHd1VTZ01XNDBCakpkWVVxbGIxSWRralNSOG83eHFPTlo0UEdjWDNDcW1XZ0FETDlSdmxzV1EzdmJjMHU3MkFLcWZnX19ESDFwckM?oc=5",
       "source": "ABC Color",
       "publishedAt": "2026-11-05T11:46:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "dcbb4548adb2",
+      "title": "BCP garantiza pago de liquidaciones laborales a los trabajadores de ueno bank",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORHdKUGpNUGxiVmtva0l4YlprV0otVFRiS0pabFloLXExZjh6ZHE0MGxUVUhZZ3VFSngxckQzWEd2ZWtmSHJtYVYwV3FZUFhiRG5sMmdBbkoxZHRxZXplc1VBdkhlZVlHLUt4VzZ4RXdUR3J6MWdrOUQxelQwWWoya2V2RDRxdHgyajRNNWNJcmd5MG9XZ3lVZnhWc0V0Nm9CeFp1N1FsUdIBtAFBVV95cUxNV3hmMFRZMDFZaGl1VlJxTjVYelU1WE1lY0gtZVJDUExJY1RIZlZoNEl2YjF1NENxYzZ3NnpZQUpVdWFDVU9DZ2VhREU4N2dmRjFkRTc3RU9pMkJ5aU5iSldjMWU2SUpTUnRTMkI4WXZYSVo4OWE2eFY5MUd2N0Vkeld4VEZSWXRSUEx0akgtbWljeTdNcTc2SDJmV2tPbHI2SVI4OFdyT0wzUVpURnM4OTBtOU4?oc=5",
+      "source": "Última Hora",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
       "via": "google"
     },
     {
@@ -2466,6 +3666,14 @@
       "via": "google"
     },
     {
+      "id": "c4fa29400ce9",
+      "title": "BCP habilita plataforma web para consultas sobre el desembolso para ahorristas del extinto ueno bank",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcFZiMW91WUUzdFpGWmNxRWV5TjluSUxvUnlyWk5HampFb0VXblNYZ0VXOVVtVktwOGljZkcza3IwYmJ6dHRYZHF6d1JaOUd4Q3FPcTlzSFVzYlhQVDkzYlUwcVYzOXR0RUNTOHVJUk5aNGRpUVZrRUZxMkc3YVJCd3AwQ1lJZWVfblZxRThFRFlvVTNnaWZBdEs0bEtMRlVfX1pXQWpLQjRua1dGSmRyb0piUnF2aHFfY0M5a2lvdDBvRXhLMW1DcFFpTjhLWThUcGtCRDg4cWpWVUdwaVMtSDFNRQ?oc=5",
+      "source": "La Nación",
+      "publishedAt": "2026-11-05T09:17:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "c40f0aea90ff",
       "title": "Promulgan ley que permite anticipar hasta G. 121 millones a ahorristas de Ueno Bank",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaDdQQVU0NFE5UlZoLXV4ekR2RVVwWUF4eThrb1VZSmFKTFA1ZHFwX2tNMUVVTE5JaXhMYm1KNWdZREhtT3gyV0NCS3Z2R0hHYlU1bXVQNjAxYXRmQ1FOeXZtVVdra3p6ajZ3alA2SlZiVkw2d2VpYThrM0Vqa3ZxMFFxenlCakg3T1BGdDJraTQzOVhwR25QNHhPMjZjOHppSzFkS1lGRE1aam53MnJN0gG0AUFVX3lxTE0wSC1YRzVGZUFkTGNaUGZreEVPaTRxa1B3VnpuMm9CTWRpZE42aGRmN3BfTnRiY3VYZjlYcGtiWWI0ODNPc0dOM3NfU3hFaWhqMUJfNzhhRXZwU1p3MnFyOHgtVlZKR19mS0NoSWRBc0hqSG9LYTJhSEhiMnlmalRUREhtTW5TR3llV04wLXc3N210emRNNVFlRFBYbHpTdDNOME14SE5UdHBFOXpXeDBTT1V2Ng?oc=5",
@@ -2495,6 +3703,14 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVdiMXpmNXdCUUhUUFV2OVFZTnBXc0NFZ2c1em4tamstWk5OV0hmYWpSZ3BBTERJSHJOLW1YWXJiSlo5N1dwQXJhbS04X1JVUlZWXzJfSElLZFpJS0kyWWpSNXZLLVhaMmdWN3BVVVpBTVQzTUNvZ1hQc29ycDVtVXpyYWlJOEk2Ml8wNVZrR2p4TjRDQ000SG1EdUpBUEU2MUFLVWx0Vm1iZjcyemtEQzRsUm9XLS1GZmxFbTR30gHSAUFVX3lxTFBZcEpLZkRlTjIwTXFoX3BXMVRFTWtMcDFVX3VMLThYWTlYWXZHanJ0cGN4eGNmQmxNZUxTVnJfbzZJM2xqM3NaTVJJY3Mzb2ZZRXFVZGVKeFQwdTlYdmx0d0ZiZVF2b3JsQVAzcHJ2Z3c2al9LYjQyZjBBOGJkU0F6TV85bjE2Tnc0SFIzazliZFRRQjI3Ym9LeXRUcVFLejdpWXd2V1dVVHYtUFA2b1ctT2xZcGQ5SDdYRGdLdGtheE15UVEyeXhUODhzMzQxSWdpQQ?oc=5",
       "source": "Bloomberg Línea",
       "publishedAt": "2026-11-05T03:39:05.000Z",
+      "via": "google"
+    },
+    {
+      "id": "1ebe62f34676",
+      "title": "Las protestas por el cierre del Ueno Bank no se detienen",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbDNaaERHdzQxdGNDbEt0c0Q2bV9oRmpKOGxDamN1dkxMTWF3eGFLVFNpUWJZX25xVVRZWkN0UEFDUl9PMy1yVlhHSTRLSndTWEh1c0JfWkZnWno3Z3p3NXJpTG45QWpEQzBOVTFuRTd3WkRnZy1pdk5jU0R4QnViWkdIdXluUE53WGYyOUtRTjFGNDlNbnM3Z3k4R1I?oc=5",
+      "source": "Página|12",
+      "publishedAt": "2026-11-05T02:39:29.000Z",
       "via": "google"
     },
     {
@@ -2586,6 +3802,14 @@
       "via": "google"
     },
     {
+      "id": "94dbf28d5f59",
+      "title": "Crisis en Paraguay: imputan a 27 personas por el caso Ueno Bank y avanza ley para ahorristas",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLUhYVXZ0cmhFUVJFV1dIM3hTQV9hX2JKMmRndTRwVWN6eWNJMXBOT2ZQakVrOERCM3lhZWpCOXZITWltQloyMTBha0F1a05td2lWNDVCa183eWVyMHp1VW5sZG1mbGhIVmx2YlN2Rm9GaXREVWlSdlllTWFfSVoybXQzbE9BU05uamt5QVpISDFCbEpuemhoUHVKdWMxM1hzYW1Zbkd5ajZEWmVlbGZtRkFBaWg2YjNjb3VhbnBFRVg2c2FndXN2OW5EdmFMVy1Dcnp5QdIB2gFBVV95cUxPX0J3MHhtNnkzaHV0eXhZZEV1eVZOU2tqa2VKSHhVSFRjUTlhZTN1ZWlpTmt0QXVtdU9SM0FkaXN6RmZPalh4azdZVF8xVGJ2bFY4VXN0ZzI2eGs1RXdGTzhyUWYyRXg1TVMtS0Z0MmExbmxIckVXLVIzMXMtN3lfeUdYZTdzLTRyd2dGVVZxYUpwelFCZXNUZkdUcHZ1MjBGVWNYS19MRUE5OWR6d3kxS21iRjF3bUp5ZWZQcGkyajVhQXZxbGI1R1hwZE5aZEthZE41MEdTVFByQQ?oc=5",
+      "source": "El Observador",
+      "publishedAt": "2026-11-04T20:20:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "378736be8960",
       "title": "Senado sanciona salvataje a ahorristas de Ueno y pasa el Ejecutivo",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMEItMTdGeW1uZVJuWm12YzhtYlBCZGU2LUtOUlUxWlBraG14ZW1jaDJBVnlfS0ktWDZrYUg1b3J4NXAya3N1elREQ2tjX2doU0NZelh6U3FhY0lpMVJsQ2t5RTZxT2g2QkRPVEdDSEwyenBERklnVC1zVHFSRlR0bkQ1c0JUTVRmRExDd2I0aGNGSzlCMFV1SmZ4Yy1NTkRIZndyclV6YV9NaElOVTNN?oc=5",
@@ -2598,6 +3822,14 @@
       "title": "ARP rechaza que los ahorristas paguen el costo de los fondos públicos en Ueno",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdkRfekIzMTZaM2trWkhQWFBTRmhDWWdMcXZYOXZfTjBHeVdiaGVhVVJYaEk5MjVRZDBoUDRTTVg3OFhVWVlfS2RjLTB1SkJLMVZoSFVDbmhDWFI0U1BITElweGdYU1FPQlJaUy1OOV8ySkdFc0VZb1Z0QjBhVFR3WVJlT08tcDdIamNkaE5TN2NaTHFUMmdCbXBNTXdGMDhi0gGmAUFVX3lxTE5YMXYydUVIUWxfS0RDTWgyeU9DcENMZTlieWFhUFBHOXZFUEJMMVZEa0RWSGJwOExUMzV0VnVRb1oxWGEtSml6alNfNjBWMGY2Y2NlUDJlc0VzTVFPR2tQZnhUVzE2Vml1N3o5eTJOSEJ4WXQzZ1J2eE9laVFRam1IcDBPY2E1enExRUk2UHlsTEpLeG80cUVEVnM3dEY0QW5BcTBubmc?oc=5",
       "source": "El Nacional - El diario de los lectores influyentes",
+      "publishedAt": "2026-11-04T20:00:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "031fbccff03c",
+      "title": "Crisis en Ueno Bank: suspendieron a 934 trabajadores en Argentina y podrían quedarse sin cobrar sus salarios",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLW53eXM0dnJxRF9hcU85QkV1T3Z5ajRQYUJzWlVZcVppRkdqMWxfekw1UGxfN1pOTEdIT0M3UkRWcm1aMXlFZDgtc0d6eEhMVlUtcW5yNjQxTUt6MXBBMHlWQlU1YXNTa2dRS0tHbnNfSlNUZGg2VjNaLU1uaUo4WjlTTTdZYTVzOWIyYzVZekFUV2VCS2paOFdzOHJpZFMzNm5ENUlTZ0FsTlN6SWJCVGxvU0ozTE0yY2JYcTdTQ1oyMUpHNmpVV1Q3eEVFbVFoOHNz?oc=5",
+      "source": "https://diariolapluma.com.ar/",
       "publishedAt": "2026-11-04T20:00:00.000Z",
       "via": "google"
     },
@@ -2642,11 +3874,27 @@
       "via": "google"
     },
     {
+      "id": "a287d6886b55",
+      "title": "Grupo mediático vinculado a ueno suspende sin goce de sueldo por 90 días a sus funcionarios",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMHR3RThuXzc5OXhjZ01ZUlN6QVFiUzE4SXl4eE5uNS12S0luR3prRjJ3UXdyZlcxRVg0S0F4RFFYVGs0Z0RpMXdxS1Bkb05yNjdGVThpOFBDZk14SlM0OFdrZG11SXV6Ry1jeHJIRlJ5NWs3bmJ3U1lYVVVScHdhaHU1cVhhREc5NDY5dGhjU3ZtSEswNW1xY2hScFZlaFF4eHpteElreWFBcTNBR0VKcC0tQlUzQlE5X0HSAccBQVVfeXFMTTFuU1ozMUhqdGZ1c3RJWFJyTFFxdld2R2pWcXlBNmJhaXRUd0g3TmN1LTZzUnFieEdjSENVdVhCM2xwNEtVRU5sYnhidVgtWXdpYUhVazFFcjV6M1ZRWUgydW1CNHR6VkJmOF84YWpGaURva1N3TFl1c05iZG5vS2J1WmxkMTBrbFpaNURKOVUyNjVyWDRYMkdmbkR6WXRCcG41NzVZcXdhb2ZEc29vVG9XRmJJM05RbUhXV1hiel90aVBIT212RQ?oc=5",
+      "source": "Última Hora",
+      "publishedAt": "2026-11-04T18:55:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "55727fb684e6",
       "title": "Crisis en Ueno Bank: intervención del Banco Central de Paraguay deja ahorristas sin acceso a su dinero",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbzNPaGp2QlcyNkt4NVVYM2ZhZzF3aFJrY3p6Q0hhdVA5OVVKV0wzMW5xOEJJY1ptSGpyYlN0N2g4RUh3cGRFWkthSXVmQVpKcThOS3VrX1NSbmM1dFNEc1d3ZnFhTzBvN3JCUVFEdlJIYjF4MHUtd0Q4Wng2Z0VSNnlRMmFqOWZVQVF5RElmNWhwNG0zNmY1X3dqRENxVklRUmQ3cmF5ejh6VTJNN0NTUE40d1FkeFl4Nzk3Y2xHLVdqYzFONXRZTXVuWllCdkU4VGtXNHpSSjBYZVhBSlFqcEJB?oc=5",
       "source": "TVPerú",
       "publishedAt": "2026-11-04T18:54:01.000Z",
+      "via": "google"
+    },
+    {
+      "id": "30d35331c6e2",
+      "title": "Corralito en Paraguay: la crisis financiera por el cierre de Ueno Bank llevó a Peña a cambiar funcionarios y la ley",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZFlxOU1YeDhVRlJqbmh2QUdUczZadUIyM3VyX1VMUVpaRkVKWExsRllhNlB1eXZtanNrdFhjbjRYMktjVmRyaXllQ2dYdDdDY21FdmVKVWQySjFBRjV5aWN2bjZKX01KbEdRU1RWZlB3TUpKNnYzaW0yZzEwYloyVVg4OHRDbFBPX2ptV2I2WjdIUVg1OF9nRVdmeEhCd0VlOV9TX0NJXzZFcWd3UXJtam1zZUlGeVZsbDMzbVNvczEzNDJhX202SVRUVXVMRkhOZ0s1dlE2c1ZTeFlHMlJkcnZwaDZoOV9ZbnQ1ZmgzOFJsbFpTTGVCdHZqcnNnT0Rpd242MU5NanlQMHPSAZoCQVVfeXFMTy05WEdvTm81UmVDQ19vTl9Kb1ZLUDNteFpSUzVXVVdxU0U5UjJKR0NuUGczRmhQZC1kTE5EdW1WUVN1YjZHRzk0NjktbjVwV0JoX0xEa2JlYlVJTWRMOFVUcXg2Y2RKcFVVNXhGX3JSZjA4TW5hRURMeVpBRC0zaE9YaXNnTUtXRnZ4dDBoS3QzZVVTRG9fUFM1WnNWTzU5Mm93bElaZVlsNTVyWTU5WFkyVDRLTThCNjJkZFNOQy1US0ZCX2ZGbHVjZkRLZkpaS2xTbkJnMVZpNmd0TS1tTzhfMVhQRDJzQzl3anFOZ3F2eHM5U055akp2c2lpNE0yRXJSbGZUN2ZQQTBrV05ScFg5WUxuMGZjcWxB?oc=5",
+      "source": "El Canciller",
+      "publishedAt": "2026-11-04T18:38:38.000Z",
       "via": "google"
     },
     {
@@ -2695,6 +3943,14 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSTJEUG9rYjVmRDE5bHNUS1FSTUhnaEVXV1lLZlRmSlVEUnhTa3o2YllLRHZrNGxhVnhqZ3QxTWxUYjBJdlNBbjdoYVdjdjJvRlBQR3pnS0VDTmk1UEsxVXNjT3pOeFJ5OEdvUXpvOEx3T0c1Ry1lQUcyeHpaVFgweGxTOWY2UjhXd2Z1c042ZVhyZnVSUTJURm15SDk2UHF0YmItOVpmaElUZw?oc=5",
       "source": "ABC Color",
       "publishedAt": "2026-11-04T17:13:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "278f223d6fb3",
+      "title": "Empleados de ueno tienen prioridad de cobro de liquidaciones, asegura ministra de Trabajo",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNTdRX1c2Q1JObjRmVnc5U3owUXdOa255X1VtRktYY2ZDQ2IyaG1JOHJybnV0WV9saWt2VngzdWYwbFZGUnhzb2w5YkdYLTk0SzVuUFNZam1vNVdpbk4xWm5acFcxdThnbDhMSUZUcHktcGVlanlnLWk3QW5zeGVoTGdyeU1JNWItYWYta0JWeU1CdGhwS1RkbXF2X1h1SW5UOWVBTXo4Q1VWUFZ4TkQ3ZUdROWxLWHNrUTJ0Um85eUJyOHA5YUpFRVd2TlpVUm1ZYkEw?oc=5",
+      "source": "La Nación",
+      "publishedAt": "2026-11-04T17:08:24.000Z",
       "via": "google"
     },
     {
@@ -2762,6 +4018,14 @@
       "via": "google"
     },
     {
+      "id": "a286a3c0bc32",
+      "title": "Ueno Bank: dónde pueden consultar los empleados sobre sus salarios y liquidaciones",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2pwNk11TDJCR3BkVE1pdXl3N1FvZnRSVzJhdHFlWVk1SG9BYlBoaW1qZXV4NzFrbHJ1OVZRT0JnWEZwSXNGNTNOWFFTZmtRUWFNTG5JQ2FxMTRScTBGQkxfQ0h3SFZFUlhvVm1yZTBFSTlzeW5iVUptU3EzUGJ3Y3lNWkF3LXdwd2xDWnJFdHBvd1EzellEMkFaOWRFbFk5SFVXcV9PQ2tRWExnN3BrV25oajItZFF5VTVaZ2tfbDdrTE0?oc=5",
+      "source": "ABC Color",
+      "publishedAt": "2026-11-04T14:13:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "b63f1664f537",
       "title": "Directivos de Ueno bank declaran ante Fiscalía en Paraguay entre reclamos de afectados",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXNKa0NabXVXTGRsdTVaRkxfLTJGaUVTQURFZEVza1pEVEJEeVdoR0lPbGloMk1pT0NaUl9rQjkxY1dsbFRPNGstTE9JbWhLYzNzZ3dWS3lmeGNQQ2w0dldrbF80TkpFLXppWkkyenVWRDVRMEo5SEw2RFZ5ZjVsY2w5emc1ZXRZSmQwX0s3UTl3SEJ6U2NKUjNCOXFkc25GR3FOVjZkbnVXVWtLcS1KY3A5M21nNGV1THFYZkFGV0c3WTJEVzM4WUE0WlJrU3BLVUFaRDBR0gHwAUFVX3lxTE54Z1dEdjlObmhpakRnUTdWVFpKcnRGV29fYm5HX01kYnZjaEJCbWdUcExqNWtNUkR3OGRSbUVTZ3A2c3VQX0pOd1BEb3JvYW0xaWM0WUFnRk00V2U0TnhaRkE4S0xVVmNTdWh3eXg1UWk2U3FveXZCcjJWVGhib08wYS1ad0F3Rm9mNzJvYlhVRERoWEVXSlppMmUtdE1VNy1JRUNvUmpwWWMzdnRreGttQTdLQy1iaGNJdGZpOWpWUHZqc19Kc1pDMWM0dWZ4eXN3N05TNUFBd19vbUpEckxCcVdobGpxcG1WbU1IYktCSg?oc=5",
@@ -2775,6 +4039,14 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNXzNiSEwtUGx4bVlUb1RNSXZxZXJJRDVjSWlHQWQ4M2o3elRWZDJMamxSNjF2V1lxUURwQWNZUTJUblpDZnVGSDUxWUZiTF80UG1vZWNqVjFfdWJQeTBpM1JaOHhpX2JkTEZIM0txWG9YaTJEZ1UwMGFHX2dnOThINHI1TzZUTGtnQUNlVGdYOXFCT1NXNnRHYVlocTk1VUxQODBZeVVZQmc5RlRJNV9KVlBOSjEyNERZa0U3dg?oc=5",
       "source": "Bloomberg.com",
       "publishedAt": "2026-11-04T13:58:31.000Z",
+      "via": "google"
+    },
+    {
+      "id": "2d0d5908d340",
+      "title": "Crisis de Ueno Bank en Paraguay: estiman que 4.621 trabajadores están afectados y habilitan una línea de consultas",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LMUpHMHZwcVE0QlJ3R08tdG1icEs2TmtRQlRFRTN6TkFwZzB2NlM2RFRUY2xkbTJJT2NoQW10b1dfSzZWU2JYZk9KcVVKUzB0OFk1VFQ4Wl9uRzlkWURDZnl4Nk1wUmx3MFZhWkZ4VDFUQQ?oc=5",
+      "source": "MisionesOnline",
+      "publishedAt": "2026-11-04T13:46:35.000Z",
       "via": "google"
     },
     {
@@ -2794,11 +4066,43 @@
       "via": "google"
     },
     {
+      "id": "39e155a39ead",
+      "title": "Ministerio de Trabajo habilita atención a empleados de ueno bank ante incertidumbre laboral",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdExpNU9pcFdyQzV2S1dLcjhHNmotUERsYlY5X0FuX1VfSGtwLWw5WHRhV3lmd0ZnUTlQcjZNQ0tNOTY5Q3VfZW41LTFlVkk2NF9oak04ZUtCUnVWdHEyWWtTa0pnQm9RMWlETGJzWmhpMHU0OUc1akpLVUpxWHZ1ZHdVeTJlVmVIbGZzVEFCaVpSRi1rdlZ4a1daa3Y0UWRoS0IycEhoV1RxZXphZl9wTWZPQ0I2b2RlRmpaaUdtU0UyXzFQ?oc=5",
+      "source": "Resumen de Noticias",
+      "publishedAt": "2026-11-04T13:28:04.000Z",
+      "via": "google"
+    },
+    {
+      "id": "a51f0e020366",
+      "title": "¿Qué pasará con los funcionarios de Ueno Bank?",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbTdoZlVQbFZsenkyRUFZX19QS04tSFlLYk5UQmNQVGlHYjdIRXlfYTRrVDNIazlNclEwSWt1eGZCTTBOSlVOT3pvbW5SVjBfVDBlMmc3QnZiUVc2VVloU0theVcyRGdDNlZrdmJSWWdKRXhXYzNpbzRnTkRyRXhVaXlOd3HSAYoBQVVfeXFMUHBMMmxCa01pN1hFQk5sQXRYQ2JFMVk1UDBOcXcwYVY0SUdHY3ZXbkNoQTUtaXVxVThrU2hXcGxHTnc3U0U2bW1VbUJmLW44X05ld1dVUU11ZVA2dWdFWjQyeE5DTkd3OF9SSWdmc250ZUE0THV1bmxNUURjWTVRMFNBZXlqbkIyRzBB?oc=5",
+      "source": "El Nacional - El diario de los lectores influyentes",
+      "publishedAt": "2026-11-04T13:20:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "235daeff508b",
+      "title": "Ministerio de Trabajo abre canales para trabajadores de ueno bank tras resolución del BCP",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT2RzYUN0bUNIRFZrdWhaUTJiYWVmUnZyZWw0RU1OSVdCTWxsUUdfTlEyU09yMFloUGNlRzVpblJnS1luVndIdVNrVVJ3RkRJMDdwNVJWZzdwbWx2WTFIT1Q3UWRHUnJidF9tcTJxb3g2aEcxQ3VZOG9odGZHa2RSbXY4WXc3cmZGdzhfLTRuQ2h4MVNOaWpKZl8yS2Fmb3N3TnpTUUVqalZBWDBSMWU3VG5rNmNPN1nSAcQBQVVfeXFMTlYwb0FvWGg2ZzlaOThyRlBodEloZ1l6RjJqU2JtMHRId3VmSk1LbXNqOF8xSGpVb092OGowRC1wcmpvYUFYTGRSOFREeUdfWkQ4cV9iRXhVRE43TVk4QmVIakcyOGUxRzNZc1pZVmt3QjJmUTVHeHhCbUVZR2tSTHVxVVBNTE9zT2lwREFoMF8zZG9Uc1psamJFTDJhOXhRYU5GODZiRFY3QlVpbzJUV1FGT0VqZ0xRTEZvOEZkREZVMzBCXw?oc=5",
+      "source": "Última Hora",
+      "publishedAt": "2026-11-04T13:10:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "eabbd2d9cba2",
       "title": "El Senado de Paraguay aprobó adelantar el pago a los ahorristas de Ueno Bank en 24 horas: cómo cobrarán",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOE9NOVdRNWtMdXpOazA1WVBTTzI3ckt2SmhXaENGcVVIZnByOXhfRG80cFdLNjFpdW5RbGw1RWRjMkxNeUtjaXdjV0w3YkU4X0I5Sl8xZlIyV0xHZUVSN2pYSTNBYldmU0VIcnRzOTFpZ0JBSTNOOE5zN1M1RDJ0ODZZLWF2aXJvRFlGdnAxZEtnRUVzczlJYUVSTVc4S0ZNcXZ3XzBpbGxvV3Fja3NyNzQxS3VqdU9aSFJsYUdPcG5rOUR1RjFHcEJHcWdHYnVrWFZ4c2hOUncxUk8xZ0doQ2o3SUR0VEQxRWNFMEhUM3VvUTjSAY4CQVVfeXFMTXY3b0g0SWZ3dm5KU0tTRGZuSHJtZUV0c3RuVTY3SEVoZFY1TnFob1Q4dXcxOVB0eWxTMGtjTnJZMmo2cGpCRDBNSVU1Q3dycl9CYzBEalZLZ3I1bTIxbUZpZmhncThhcmVNZXAzb19URXFVaWtFbklvMVJGWDhscUtSS1NVTkVhLXpxRFl5OV80XzZsc3VsQTZzeHVjeUxHM1ROWjY3RkRqR2tiUVlXMXM0ZDdHbGgwN3BIYmpaY3I3WXo4cDJDSW43RFdsb1lnUzJVa1czZVB3OE1oWXNHaDdtU21WajZORFJTdVlCRmthN2w0N2JxRE9OMHNVMGUza09za081V2ZOR09rRkxB?oc=5",
       "source": "Infobae",
       "publishedAt": "2026-11-04T12:36:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "5e197970efaa",
+      "title": "Estiman 4.621 trabajadores afectados por la crisis de Ueno: habilitan este contacto",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSGlxU2NFS0dFWkx5MWw5RXJ6c2FfRUJYZ3ljckh3VmY3Q0lBVmw4M3kzUGt0aFFXejg0R2YxVm9UZ3pTSXN0LVZQSTRZVzdZWk45RHFpSFpING5tejMxcnc2RzJrdUtOc2c3T2h3Z1ljdnB6NGpfX3FkZFJlaG5ENDJyaFhQd1FtUEJBWV9hRUZjelBCRDJIXzNQQ1NMdW80NjdQSFkwaDBUR1JVUEpiMFVwcnB3aGFjeVZxelZPczNRbW1H?oc=5",
+      "source": "Diario HOY – En Paraguay y el Mundo",
+      "publishedAt": "2026-11-04T11:20:00.000Z",
       "via": "google"
     },
     {
