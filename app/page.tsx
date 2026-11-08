@@ -11,6 +11,8 @@ import Timeline from '@/components/Timeline';
 import Infographic from '@/components/Infographic';
 import News from '@/components/News';
 import Videos from '@/components/Videos';
+import Aportes from '@/components/Aportes';
+import { getUserNews } from '@/lib/aportes';
 import Testimonials from '@/components/Testimonials';
 import { getTestimonials } from '@/lib/testimonios';
 import { videos } from '@/content/videos';
@@ -23,7 +25,7 @@ import Cursor from '@/components/Cursor';
 export const revalidate = 300;
 
 export default async function Page() {
-  const testimonials = await getTestimonials();
+  const [testimonials, userNews] = await Promise.all([getTestimonials(), getUserNews()]);
   const news = newsJson as unknown as NewsFile;
   return (
     <>
@@ -36,6 +38,7 @@ export default async function Page() {
         <Testimonials items={testimonials} />
         <Videos videos={videos} />
         <News news={news} posts={posts} />
+        <Aportes items={userNews} />
       </main>
       <Footer />
       <Cursor />

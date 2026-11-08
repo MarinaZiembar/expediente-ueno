@@ -46,7 +46,7 @@ function useInvite() {
   }, []);
   return invite;
 }
-const MAX_TEXT = 2000;
+const MAX_TEXT = 500;
 const MIN_TEXT = 40;
 
 export default function Testimonials({ items }: { items: Testimonial[] }) {
@@ -265,7 +265,7 @@ function TestimonialForm({ invite, onClose }: { invite: string; onClose: () => v
                 required
                 minLength={MIN_TEXT}
                 maxLength={MAX_TEXT}
-                rows={7}
+                rows={6}
                 value={text}
                 onChange={(e) => setText(e.target.value)}
                 placeholder="¿Cómo te enteraste? ¿Qué pasó con tu sueldo? ¿Cómo estás llevando estos días?"

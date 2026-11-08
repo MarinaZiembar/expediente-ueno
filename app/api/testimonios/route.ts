@@ -5,7 +5,7 @@ export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
 
 const MIN_TEXT = 40;
-const MAX_TEXT = 2000;
+const MAX_TEXT = 500;
 const MAX_ROLE = 80;
 
 /** Palabras que marcan el testimonio para revisar con más atención (no lo bloquean). */
@@ -73,7 +73,7 @@ export async function POST(req: Request) {
   }
 
   const date = new Date().toISOString().slice(0, 10);
-  const labels = ['pendiente', 'via-invitacion', ...(FLAG.test(`${role} ${text}`) ? ['revisar-lenguaje'] : [])];
+  const labels = ['pendiente', 'testimonio', 'via-invitacion', ...(FLAG.test(`${role} ${text}`) ? ['revisar-lenguaje'] : [])];
 
   try {
     const res = await fetch(`https://api.github.com/repos/${TESTIMONIOS_REPO}/issues`, {

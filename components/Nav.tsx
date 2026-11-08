@@ -11,6 +11,7 @@ const LINKS = [
   { href: '#testimonios', label: 'Testimonios' },
   { href: '#videos', label: 'Videos' },
   { href: '#noticias', label: 'Noticias' },
+  { href: '#aportes', label: 'Entre todos' },
 ];
 
 export default function Nav() {

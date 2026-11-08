@@ -66,7 +66,7 @@ export function issueBody(country: string, role: string, text: string, date: str
   ].join('\n');
 }
 
-type Issue = { number: number; body: string | null; created_at: string; state: string; pull_request?: unknown };
+export type Issue = { number: number; body: string | null; created_at: string; state: string; pull_request?: unknown };
 
 function parseIssue(i: Issue): Testimonial | null {
   const body = i.body ?? '';
@@ -83,7 +83,7 @@ async function fetchApproved(): Promise<Testimonial[]> {
   if (!TESTIMONIOS_TOKEN) return [];
   try {
     const res = await fetch(
-      `https://api.github.com/repos/${TESTIMONIOS_REPO}/issues?labels=aprobado&state=all&per_page=50&sort=created&direction=desc`,
+      `https://api.github.com/repos/${TESTIMONIOS_REPO}/issues?labels=aprobado&state=all&per_page=100&sort=created&direction=desc`,
       { headers: ghHeaders(), next: { revalidate: 300 } },
     );
     if (!res.ok) return [];
