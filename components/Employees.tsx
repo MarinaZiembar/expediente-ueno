@@ -1,7 +1,8 @@
 'use client';
 
-import { useMemo, useRef, useState, type KeyboardEvent } from 'react';
-import type { EmployeeNote, NewsItem, NoteStatus, Region } from '@/content/types';
+import { useRef, useState, type KeyboardEvent } from 'react';
+import type { EmployeeNote, NoteStatus, Region } from '@/content/types';
+import type { RelatedByRegion } from '@/lib/related';
 import { DTitle, Reveal } from './ui';
 import { fmtDate } from '@/lib/format';
 
@@ -17,15 +18,6 @@ const STATUS_LABEL: Record<NoteStatus, string> = {
   testimonio: 'Testimonio',
   'en curso': 'En curso',
   'sin confirmar': 'Sin confirmar',
-};
-
-/** Palabras para encontrar titulares del archivo de prensa relacionados con cada país. */
-const strip = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
-const WORK = /(trabajador|emplead|funcionari|despid|suspend|sueldo|salari|liquidaci|ministerio de trabajo)/;
-const MATCH: Record<Region, (t: string) => boolean> = {
-  Paraguay: (t) => WORK.test(t) && !/(argentin|kaitel|urugua|colombi)/.test(t),
-  Argentina: (t) => /(argentin|kaitel|buenos aires)/.test(t),
-  'Otros países': (t) => /(urugua|colombi|brasil|chile|peru|bolivia)/.test(t),
 };
 
 function NoteCard({ n }: { n: EmployeeNote }) {
@@ -53,12 +45,12 @@ function NoteCard({ n }: { n: EmployeeNote }) {
   );
 }
 
-export default function Employees({ notes, news }: { notes: EmployeeNote[]; news: NewsItem[] }) {
+export default function Employees({ notes, related: relatedAll }: { notes: EmployeeNote[]; related: RelatedByRegion }) {
   const [region, setRegion] = useState<Region>('Paraguay');
   const tabs = useRef<(HTMLButtonElement | null)[]>([]);
 
   const list = notes.filter((n) => n.region === region);
-  const related = useMemo(() => news.filter((n) => MATCH[region](strip(n.title))).slice(0, 6), [news, region]);
+  const related = relatedAll[region];
 
   const onKey = (e: KeyboardEvent, i: number) => {
     const delta = e.key === 'ArrowRight' ? 1 : e.key === 'ArrowLeft' ? -1 : 0;

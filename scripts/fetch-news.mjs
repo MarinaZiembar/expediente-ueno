@@ -18,6 +18,9 @@ const GOOGLE_QUERIES = [
   ['ueno Banco Central del Paraguay', 'es'],
   ['ueno ahorristas', 'es'],
   ['ueno Fiscalía', 'es'],
+  ['ueno trabajadores', 'es'],
+  ['ueno funcionarios', 'es'],
+  ['ueno empleados itti', 'es'],
   ['ueno bank Paraguay', 'en'],
 ];
 const BING_QUERIES = ['ueno bank Paraguay', 'ueno Santiago Peña'];
