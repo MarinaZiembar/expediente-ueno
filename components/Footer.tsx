@@ -5,7 +5,12 @@ export default function Footer() {
     <footer className="footer">
       <p className="footer__disc">{DISCLAIMER}</p>
       <div className="footer__line">
-        <span>{CREDITS}</span>
+        <span>
+          {CREDITS.label}{' '}
+          <a className="footer__me" href={CREDITS.url} target="_blank" rel="noopener noreferrer">
+            {CREDITS.name} ↗
+          </a>
+        </span>
         <span aria-hidden>●</span>
         <span>
           <b>Fuente:</b> medios citados en cada dato

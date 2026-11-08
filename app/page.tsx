@@ -11,13 +11,19 @@ import Timeline from '@/components/Timeline';
 import Infographic from '@/components/Infographic';
 import News from '@/components/News';
 import Videos from '@/components/Videos';
+import Testimonials from '@/components/Testimonials';
+import { getTestimonials } from '@/lib/testimonios';
 import { videos } from '@/content/videos';
 import Employees from '@/components/Employees';
 import { relatedByRegion } from '@/lib/related';
 import Footer from '@/components/Footer';
 import Cursor from '@/components/Cursor';
 
-export default function Page() {
+/** Los testimonios aprobados se vuelven a leer cada 5 minutos. */
+export const revalidate = 300;
+
+export default async function Page() {
+  const testimonials = await getTestimonials();
   const news = newsJson as unknown as NewsFile;
   return (
     <>
@@ -26,9 +32,10 @@ export default function Page() {
         <Deck slides={slides} updatedAt={news.updatedAt} />
         <Timeline items={timeline} />
         <Infographic stats={infoStats} nodes={nodes} edges={edges} />
-        <News news={news} posts={posts} />
-        <Videos videos={videos} />
         <Employees notes={notes} related={relatedByRegion(news.items)} />
+        <Testimonials items={testimonials} />
+        <Videos videos={videos} />
+        <News news={news} posts={posts} />
       </main>
       <Footer />
       <Cursor />

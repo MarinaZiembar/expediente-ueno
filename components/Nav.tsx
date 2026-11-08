@@ -7,9 +7,10 @@ const LINKS = [
   { href: '#presentacion', label: 'Qué pasó' },
   { href: '#cronologia', label: 'Cronología' },
   { href: '#infografia', label: 'Datos clave' },
-  { href: '#noticias', label: 'Noticias' },
-  { href: '#videos', label: 'Videos' },
   { href: '#empleados', label: 'Nuestra situación' },
+  { href: '#testimonios', label: 'Testimonios' },
+  { href: '#videos', label: 'Videos' },
+  { href: '#noticias', label: 'Noticias' },
 ];
 
 export default function Nav() {

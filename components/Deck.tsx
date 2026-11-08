@@ -18,21 +18,40 @@ export default function Deck({ slides, updatedAt }: { slides: ExplainSlide[]; up
   useEffect(() => {
     const root = deck.current;
     if (!root) return;
-    const mq = window.matchMedia('(min-width: 901px) and (min-height: 641px)');
     const reduced = window.matchMedia('(prefers-reduced-motion: reduce)');
     let raf = 0;
+    let tops: number[] = [];
+
+    /**
+     * Dónde se fija cada tarjeta. Si es más alta que la pantalla (pasa en celular),
+     * se fija más arriba para que primero se pueda leer completa y recién después
+     * la siguiente la tape.
+     */
+    const measure = () => {
+      const cards = Array.from(root.querySelectorAll<HTMLElement>('.slide'));
+      const vh = window.innerHeight;
+      const nav = document.querySelector<HTMLElement>('.nav')?.offsetHeight ?? 64;
+      const gap = parseFloat(getComputedStyle(root).getPropertyValue('--stack-gap')) || 10;
+      tops = cards.map((c, i) => {
+        const base = nav + 12 + i * gap;
+        const top = Math.min(base, vh - c.offsetHeight - 12);
+        c.style.top = `${top}px`;
+        return top;
+      });
+      update();
+    };
 
     const update = () => {
       raf = 0;
       const cards = Array.from(root.querySelectorAll<HTMLElement>('.slide'));
-      if (!mq.matches || reduced.matches) {
+      if (reduced.matches) {
         cards.forEach((c) => (c.style.transform = c.style.filter = ''));
         return;
       }
       const vh = window.innerHeight;
       // cuánto avanzó cada tarjeta hacia su lugar en la pila (0 → 1)
-      const prog = cards.map((c) => {
-        const stick = parseFloat(getComputedStyle(c).top) || 0;
+      const prog = cards.map((c, i) => {
+        const stick = tops[i] ?? 0;
         const top = c.getBoundingClientRect().top;
         return Math.min(1, Math.max(0, (vh - top) / Math.max(1, vh - stick)));
       });
@@ -46,13 +65,17 @@ export default function Deck({ slides, updatedAt }: { slides: ExplainSlide[]; up
     const onScroll = () => {
       if (!raf) raf = requestAnimationFrame(update);
     };
-    update();
+
+    measure();
+    const ro = new ResizeObserver(measure);
+    root.querySelectorAll('.slide').forEach((c) => ro.observe(c));
     window.addEventListener('scroll', onScroll, { passive: true });
-    window.addEventListener('resize', onScroll);
+    window.addEventListener('resize', measure);
     return () => {
       cancelAnimationFrame(raf);
+      ro.disconnect();
       window.removeEventListener('scroll', onScroll);
-      window.removeEventListener('resize', onScroll);
+      window.removeEventListener('resize', measure);
     };
   }, []);
 
