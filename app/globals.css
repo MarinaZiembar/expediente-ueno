@@ -462,19 +462,19 @@ button:hover .roll__inner { transform: translateY(-50%); }
 /* ---------- Presentación: tarjetas apiladas ---------- */
 
 .deck {
-  --stack-gap: 14px;
+  --stack-gap: 10px;
   position: relative;
-  padding: calc(var(--nav) + 20px) var(--gut) 12vh;
+  padding: calc(var(--nav) + 16px) var(--gut) 12vh;
   border-bottom: var(--line);
 }
 
 .slide {
   position: sticky;
-  top: calc(var(--nav) + 20px + var(--i) * var(--stack-gap));
+  top: calc(var(--nav) + 16px + var(--i) * var(--stack-gap));
   display: flex;
   align-items: center;
-  height: calc(100vh - var(--nav) - 44px - 6 * var(--stack-gap));
-  height: calc(100svh - var(--nav) - 44px - 6 * var(--stack-gap));
+  height: calc(100vh - var(--nav) - 36px - 6 * var(--stack-gap));
+  height: calc(100svh - var(--nav) - 36px - 6 * var(--stack-gap));
   min-height: 520px;
   margin-bottom: 18vh;
   padding: clamp(28px, 4vw, 56px);
@@ -1186,16 +1186,16 @@ button:hover .roll__inner { transform: translateY(-50%); }
 }
 .vcard__btn:hover .vcard__media img { filter: none; transform: scale(1.04); }
 .vcard__placeholder {
-  display: grid;
-  place-items: center;
+  display: flex;
+  align-items: flex-end;
   height: 100%;
-  padding: 20px;
+  padding: 16px;
   background:
     repeating-linear-gradient(-45deg, transparent 0 14px, rgba(169, 244, 108, 0.16) 14px 28px),
     var(--ink);
   color: var(--lime);
   font-family: var(--font-display), sans-serif;
-  font-size: 34px;
+  font-size: 26px;
   font-weight: 900;
   text-transform: uppercase;
 }
@@ -1442,6 +1442,21 @@ button:hover .roll__inner { transform: translateY(-50%); }
 }
 
 /* ---------- Responsive ---------- */
+
+@media (min-width: 901px) and (max-height: 820px) {
+  .slide { padding: 26px clamp(28px, 3.4vw, 48px); min-height: 0; }
+  .dtitle--md { font-size: clamp(34px, min(8.4vh, 5.4vw), 80px); }
+  .ex__body { margin-top: 14px; }
+  .ex__body p { font-size: 15px; line-height: 1.4; margin-bottom: 0.6em; }
+  .ex__aside { gap: 10px; }
+  .statcard { padding: 16px 20px; }
+  .statcard .num { font-size: clamp(44px, min(10vh, 6vw), 84px); }
+  .term { padding: 10px 14px; }
+  .term dt { font-size: 16px; }
+  .term dd { font-size: 13.5px; }
+  .eyebrow { margin-bottom: 10px; }
+  .sources { margin-top: 10px; }
+}
 
 @media (max-width: 1180px) {
   .nav__live { display: none; }
