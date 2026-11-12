@@ -99,7 +99,6 @@ export default function Network({ nodes, edges }: { nodes: GraphNode[]; edges: G
                 aria-pressed={isSel}
                 aria-label={`${n.name}, ${KIND_LABEL[n.kind]}`}
                 onClick={() => choose(n.id)}
-                onPointerEnter={(e) => e.pointerType === 'mouse' && setSel(n.id)}
                 onKeyDown={(e) => onKey(e, n.id)}
               >
                 <rect className="node__box" width={NW} height={NH} />
