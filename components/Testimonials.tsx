@@ -71,7 +71,7 @@ export default function Testimonials({ items }: { items: Testimonial[] }) {
   return (
     <section id="testimonios" className="sec sec--testimonios">
       <header className="sec__head">
-        <DTitle lines={['Testimonios']} size="lg" swash />
+        <DTitle lines={['Testimonios']} size="lg" className="dtitle--tight" swash />
         <Reveal className="sec__lead" delay={200}>
           <p>
             Lo que cuentan los trabajadores. Las frases de prensa enlazan a su fuente; los testimonios enviados a este sitio se

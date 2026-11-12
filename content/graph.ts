@@ -15,7 +15,29 @@ export const nodes: GraphNode[] = [
   { id: 'bcp', name: 'Banco Central (BCP)', kind: 'institucion', status: 'Regulador', pos: [3.7, 1.95] },
 
   { id: 'mvazquez', name: 'Miguel Vázquez', kind: 'persona', status: 'Detenido (nov 2026)', pos: [-3.7, 0.85] },
-  { id: 'gv', name: 'Grupo Vázquez', kind: 'empresa', status: 'Accionista mayoritario', pos: [-1.3, 0.85] },
+  {
+    id: 'gv',
+    name: 'Grupo Vázquez',
+    kind: 'empresa',
+    status: 'Accionista mayoritario',
+    pos: [-1.3, 0.85],
+    group: {
+      title: 'Empresas y marcas del grupo',
+      note: 'Listado parcial según la prensa: el grupo reúne unas 28 empresas. Algunas compras de agencias de viaje (Intertours 45 %, Consolid 40 %) figuraban en análisis.',
+      items: [
+        { sector: 'Finanzas', names: ['ueno bank', 'ueno Seguros', 'ueno Casa de Bolsa', 'ueno AFPISA', 'Wepa', 'Upay'] },
+        { sector: 'Tecnología', names: ['itti', 'Más Money', 'Conto', 'Muv', 'Vinanzas', 'IDL', 'BIMS'] },
+        { sector: 'Comercio electrónico y pagos', names: ['Pagopar', 'Hendyla'] },
+        { sector: 'Delivery, boletos y viajes', names: ['Monchis', 'Tuti', 'Uela', 'KMC', 'Intertours', 'Consolid', 'Puka'] },
+        { sector: 'Medios (V Media)', names: ['La Tribuna', '650 AM', 'Crónica', 'Súper Deportivo 1120'] },
+        { sector: 'Publicidad', names: ['Oniria', 'Veintitrés Sports'] },
+        { sector: 'Inmobiliario', names: ['Terravaz'] },
+        { sector: 'Campo', names: ['Estancia Don Miguel'] },
+        { sector: 'Holding internacional', names: ['U Holdings (Luxemburgo)'] },
+      ],
+      source: { name: 'Revista Mercado (5/11/2026)', url: 'https://revistamercado.do/money-invest/dueno-ueno-bank-miguel-vazquez-empresas/' },
+    },
+  },
   { id: 'ueno', name: 'ueno bank', kind: 'empresa', status: 'Cerrado por el BCP (3/11)', pos: [1.3, 0.85] },
   { id: 'gustale', name: 'Juan Manuel Gustale', kind: 'persona', status: 'Detenido (nov 2026)', pos: [3.7, 0.85] },
 ];

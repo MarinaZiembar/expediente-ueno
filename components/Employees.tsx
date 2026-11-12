@@ -64,7 +64,7 @@ export default function Employees({ notes, related: relatedAll }: { notes: Emplo
   return (
     <section id="empleados" className="sec">
       <header className="sec__head">
-        <DTitle lines={['¿Cuál es nuestra', 'situación?']} size="lg" swash />
+        <DTitle lines={['¿Cuál es nuestra', 'situación?']} size="lg" className="dtitle--tight" swash />
         <Reveal className="sec__lead" delay={200}>
           <p>Qué les pasó a los trabajadores del grupo. Elegí un país y tocá “Ver más” en cada tarjeta para leer el detalle y la fuente.</p>
         </Reveal>

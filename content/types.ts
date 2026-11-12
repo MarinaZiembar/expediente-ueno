@@ -16,6 +16,8 @@ export type GraphNode = {
   kind: NodeKind;
   /** Rol o estado según las fuentes (sin calificativos propios) */
   status?: string;
+  /** Listado opcional (p. ej. empresas del grupo), con su fuente */
+  group?: { title: string; note?: string; items: { sector: string; names: string[] }[]; source: { name: string; url: string } };
   /** Posición en el tablero (unidades 3D). x: -4.5..4.5, y: 0.6..3.3 */
   pos: [number, number];
 };

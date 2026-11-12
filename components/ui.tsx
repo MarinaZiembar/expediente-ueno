@@ -96,7 +96,9 @@ export function DTitle({
   active,
   as = 'h2',
   swash = false,
+  className = '',
 }: {
+  className?: string;
   lines: string[];
   size?: 'xl' | 'lg' | 'md' | 'ev';
   active?: boolean;
@@ -107,7 +109,7 @@ export function DTitle({
   const on = active ?? inView;
   const Tag = as as ElementType;
   return (
-    <Tag ref={ref} className={`dtitle dtitle--${size} ${on ? 'is-on' : ''}`} aria-label={lines.join(' ')}>
+    <Tag ref={ref} className={`dtitle dtitle--${size} ${className} ${on ? 'is-on' : ''}`} aria-label={lines.join(' ')}>
       {swash && <span className="swash swash--a" aria-hidden />}
       {swash && <span className="swash swash--b" aria-hidden />}
       {lines.map((l, li) => (

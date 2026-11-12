@@ -140,6 +140,27 @@ export default function Network({ nodes, edges }: { nodes: GraphNode[]; edges: G
             <span className="lbar">{KIND_LABEL[selected.kind]}</span>
             <h3 className="net__name">{selected.name}</h3>
             {selected.status && <p className="stamp">{selected.status}</p>}
+            {selected.group && (
+              <div className="net__group">
+                <h4>{selected.group.title}</h4>
+                <dl>
+                  {selected.group.items.map((g) => (
+                    <div key={g.sector}>
+                      <dt>{g.sector}</dt>
+                      <dd>
+                        {g.names.map((n) => (
+                          <span key={n}>{n}</span>
+                        ))}
+                      </dd>
+                    </div>
+                  ))}
+                </dl>
+                {selected.group.note && <p className="net__gnote">{selected.group.note}</p>}
+                <a href={selected.group.source.url} target="_blank" rel="noopener noreferrer">
+                  Fuente: {selected.group.source.name}
+                </a>
+              </div>
+            )}
             <ul className="net__rels">
               {rels.map((e, i) => {
                 const other = byId.get(e.from === sel ? e.to : e.from);
