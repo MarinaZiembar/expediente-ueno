@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-11-14T16:59:26.710Z",
+  "updatedAt": "2026-11-14T21:24:05.249Z",
   "items": [
+    {
+      "id": "c80afa175e6f",
+      "title": "Ueno Bank: imputaron por asociación criminal a Peña y embargaron cuentas a la cúpula del Banco Central",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRmF6UDR3U2k5MnI4UC1DaVhhMW4zMmF2Ni1LOHRabDljR0k1NTUzNjZNNktzaVpiRjM2bzByVi11Y2NpTzR3OWphTmdyQmR1UElJalU2OWFHSWg5QmNrd3JoT08zaXZmdFdXbEFiTHF0VlY2ZWFUcGpmb0RVdmQxUTI0WHlqelZVQ0wxdzV0UU5tRW5ZTjM1ekh2UGwwWEUwVS0xRDBsUnVMU19hQmRQdEt5NmNyREJ4OGh0cERNMzZhLW13ZjROZDVHTW41Zw?oc=5",
+      "source": "La Voz del Interior",
+      "publishedAt": "2026-11-14T20:30:38.000Z",
+      "via": "google"
+    },
+    {
+      "id": "70ff4cfc1c4e",
+      "title": "\"No hay palabras para este descalabro\": la caída de Ueno sacude a pensionistas paraguayos",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb1RxT2R1aVRHVk9SQUt1ZVhvVXo1STNwYXZrWmlmWFdLM0NaY0dvaDZoSEJiWFhKTTF5eHZMVHhZS3hFUi1VRWlwSXpGWGN0Q3NpWmxqa3JiMk5meDc1MTg4d0p4a1NEa1dSOEFBcVUyT09JTHNhLUdTbVMyaUlHLUt0QWdsa09SSGFmSUNneV92NEFxSTVJVWFJRXZKN0NsclY0cWNVMXdtbGxpQU1lem40VUZ6NUpZN3JseEo3WXVXMVRJdks1X20xU1NSd0JZX3ZvSlJB0gHwAUFVX3lxTE5EN0JJSVNQM0E4a1JxMFBYa0VQUDZyR0huZll2V0lhZmxRTlA3anRhUHI0d1RWN0JBc2xOVDFqMkhzNmttZE14NmtpUGcyY2Z4bmthUU9xMzU5TlJMOEtRNWhGV2Y1S2lYMEdmVDNialY1ZnJ5Tl83WXJpMXBmcXpJdml2cVJFWEZOeFE0OFBMNW4wVW41b1NjcUpYQzRkSy1oa3JRVmtjVER1RUQwRVpiNVZHVnIyQ0dySzB5VlRxQjZ2Q19pTGxvVVpYYTF5enZSbWc4T0tKX2x6WUs5QmRKaFFYYkl3NjUwUVpYVE5MVw?oc=5",
+      "source": "Infobae",
+      "publishedAt": "2026-11-14T18:32:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "bf4f604370aa",
+      "title": "Escándalo de Ueno Bank pone en duda la reputación de Paraguay como destino de inversión",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM0J0a3pEUmtNVXBoZEZyX2ZIQVlwTmhIT21aZlBrcGZ0eGptVktPRnRZOGlNcHk0dWVsNTNqRTl6UWNCaF82ODRWMUpRZE5nMFNFRFNPajV0MlZCNEdZMWVsSWxsUWNOaWxKXzBNMktQbUVOVFRQYlpydlhCNkp2T0NVdE42MmJwUjAzS3RReGFaV1phSHE2QTUtSVJEMDhCdTgwZEFIS1hVQ1lUOEpaSmtaQndpSTBPNU5UMmdoQjRUR1JvTFprR05vcjB2d9IB4gFBVV95cUxNandNSG8zR2JfQi11TVhtcXo3bHRMWVJWNDZEbnMySjhwaXRmM0Y0TF9WdWp6RFlLTlZuMW9GRk45MzZuc3VoZFZiT0dxM1FhZXRUOWdkaFEwRTBMSWxsR3ZHem94WEo2TnRZejZTQkU2OUxjYTI5dHRKR1RrNTNoTFcyWkhseW1ESDRTa29Xc2JWZEF5TXhvT1RXUFlYTVZMOUR3TE9NelRoc3VtLWd5Qm1jQ3NuMlF5TVFVX2ZFMExvT1JXd0pOTWtpaUtleFI3Vkl5TXdkSmVhbGk3SS1iTFJn?oc=5",
+      "source": "Bloomberg Línea",
+      "publishedAt": "2026-11-14T18:29:07.000Z",
+      "via": "google"
+    },
+    {
+      "id": "46c34ff48124",
+      "title": "1,5 millones de ahorristas de Ueno ya recuperaron todos sus depósitos",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOek1tY1dLSm94eU1jaTN0bUR0RlM3VjFzWWozTDV6dHU5amdYNlNTWXpOZnkwMzdPdS1Fcjd3Skp4OGR3V2pTOFpyU3BLcVcxQjlDbnd2bE5jWEhZd29fREo3NzVIbVQ2WEw2alVxSFVFS0ZjdnJpUURDN2JrWldVX3M1XzBPTkNPUzBId3otbU94UmY5LVdwWFBSX3pibWprb0tIdUJGbHLSAa4BQVVfeXFMTmhLVzkyWldUX2VlT2luaTNzSFl6bzh6LXFtdzRmX2x5RElxQVRfYVk4NWk1YTdaZDZfdG13dlYtQUZYN3VlWFkxWFVSZHFqZkJPUzRzT1NiRkl6TVFUQ0hpRjZzREJPNGdOV0o1MFdHNlQ2ZG03SXoyemtlR0M1dFFVQlpGZ0x0ZW1wLUFUWUFXVy1UQXlZVDJlSUlYRks0QzVXR2dtYTB3VmRnTEpB?oc=5",
+      "source": "El Nacional - El diario de los lectores influyentes",
+      "publishedAt": "2026-11-14T18:00:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "01ca5d769824",
+      "title": "Confirman que 1.500.000 ahorristas de Ueno ya recuperaron el 100 % de sus depósitos",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTE1LaDJ3QVpVUFk1VENfRGVkdkNTVXVMdzduYTNRaVkyQmI1SmVCR2p4LUlrN1ZqYllHbHBMcWh6aklONkl4Tm5tb1kwRXNCcTA0Skk2VW9PTGxPZS1fb3JtRlZucnE5dDFqS1hlX2ZSRXY3dWFMRkJldE85cVFBRFFHX3VjbmNlR2s3emM0ZHVqV3FDcEdPOVlGRDY2LXpDV2cxUERhajV4V19UZzlRbGVUekxWeWFpcTRpSHdoWThIZFJxY3Vn?oc=5",
+      "source": "La Nación",
+      "publishedAt": "2026-11-14T17:58:22.000Z",
+      "via": "google"
+    },
+    {
+      "id": "49777eb0ca17",
+      "title": "Fiscalía inventaria bienes, ganado y documentos en estancia vinculada al caso Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbEs4NVVJcVBNYV9IWUxSTFhtV1pEZFBIVkd1UVNLYkRQWVlVbHdmTVJ0WVRYLU9xYm1MQUttQkdZeFNmX1dWbjdIdjdUOU12MHEtV0tpejBvTFVheXFkSjJlcWY2bWNhUm5tdndHazY2MTd5Y1V6N09Ya09Hc3U2MFB3dUpmSkpQUi0wcnpiWUdLQm03bkNEOGIyNUdJZmR2QXVjX3Z0eDVlOXNyc2M0ZUtLd2tGbFMtZUVhZjlHNXRZV2NHNVFpQ0NZVQ?oc=5",
+      "source": "Diario HOY – En Paraguay y el Mundo",
+      "publishedAt": "2026-11-14T17:51:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "01c862d3f75c",
+      "title": "Ueno Bank: ordenan inhibir bienes y embargar cuentas de exdirectivos del BCP - Policiales",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNmY2ZEtxS3BQTUpNczhaa0xhNWszak5ZaVh0T0djbTJNWWtteFpSODI3WHJvY1lzSmNNS2M2SlhVS3NxZU5ZZ2VkdTdvQ19NZktZd01IWWpUN1FDVjZnU1NqZ3RWSjlaWGg3by1tS3ZyRkZnRWJoZmNmaWZ4eHlCSjhfNmNVckt6bXBQWGRXbFgza0xpZHI4Z1Y5ZFlrMWs2dTFZQlB5WXVZc2t5VUFPODJYV2h2Snp3RGs5SjVR?oc=5",
+      "source": "ABC Color",
+      "publishedAt": "2026-11-14T16:17:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "811f17b8b53d",
+      "title": "Fiscalía de Paraguay imputa a expresidente Santiago Peña por caso Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZzhZQTlfejlack5HbWc5V2p4U20yb2xORFBVZ2ZVUmd3R2Z6aG1IeDFzUmdpLV9XSjNGT2NzbExxUXpiWVNHaFFUX2t1U2VtT1F5R2F5WXNNeVBvYnItblBFRzA0eVc5SU1HaHF0R3hDb2xTaGh1eHlESnRucTdPRUdtMXUxZFJVejhyaXJyWDhOWXFILW9PNXE3U200QUR5dm9jTVJoMlZkUGhQek1TQWRDb3c5QkVXT1UtdjhDQ0RNSUdBa18ybzdzbWlURzBIVEx4ZkpKNHhpRXN0dkE?oc=5",
+      "source": "La Unión de Morelos",
+      "publishedAt": "2026-11-14T16:14:50.000Z",
+      "via": "google"
+    },
     {
       "id": "3958ce4571ea",
       "title": "Caso Ueno Bank: la Fiscalía acusó a Santiago Peña de asociación criminal",
@@ -15,6 +79,22 @@
       "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5mOFM4d3pfUTc1UGxpQUQ2Q0V5dXJIOXk5ZTNJX01qTmZMYVBRTV9rQXpmSEw4TGcyeDhv?oc=5",
       "source": "Howl.Link",
       "publishedAt": "2026-11-14T15:24:31.000Z",
+      "via": "google"
+    },
+    {
+      "id": "94d3a08ac95c",
+      "title": "Si Emiliano Rolón sigue el caso Ueno y Peña irá en un feroz opareí, dice diputada Johanna Ortega - Política",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObThVeU5CbzdCbzZJTXZaMzZRUXJ1NlJJc05hRlZ0c1hsNDJCczliT0RJYlo3cnJRckdhQURacDJhbUJCS2RweVpsXzZzQ1hFWXJpOXVJUFVuUGNZdFIwdmdpMEd4UURnM0c2MUo0bVpzelhkU1VxQkJycnpZQmJtbkZaUGUxRlR1YnBlb2p2eEdFb21seVFoTVBjTkdDY0wweHVLWXFqcVBZMThURjRwT1RBeXQ5QjJxeHpLT2J5VzhHQUU2RS1YUDRCdlV5LVRzSXNvaDNR?oc=5",
+      "source": "ABC Color",
+      "publishedAt": "2026-11-14T15:21:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "f9cef9748163",
+      "title": "Varios países confirman activos de ueno bank y el Grupo Vázquez y buscan congelarlos",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHNnaTZsb1czMENZNWs0ZFhVMlRfbmJVNW5aSjhleDByb2ppVTFxbFhnS1A4WjF4SS15THkwcGVlbXVhUWtPVmVVbm9FeWRBOGlPZ3lGakpzSUtBUWxCUVRGY19jSG5YRG0tLVMtRnFKX2dsX2I5cUFET2JPMUtXQ3VBVGVPTWpBWFRheFNXYkpHcmpfNUdwMG1PMTBRYl9EcWZEVVVBNWJFQkp40gG6AUFVX3lxTE9nNEhpaU1QblY2ZE9OUjROYmxZbG1fblVkX3NibTFEdGpZZ3REaFpKU0N0U0puVjRFZ0psMVZIVnhYVkxYNF9DYlprU3N0bTRaMmJrM1FlT1RwRE13MHc1ZUNrOHVRVFBWNFZoS2dOZWl6eXVRVGFjaFF5bHA1SzA3S3lCeE9LeGpjQjBnamRLQndfeFlHdUxCWWdiSzNzcHVyeVdaTVJTNVpNMkEyX3ZBRzdST3padTd5dw?oc=5",
+      "source": "Última Hora",
+      "publishedAt": "2026-11-14T15:08:00.000Z",
       "via": "google"
     },
     {
@@ -599,6 +679,14 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdXVVMXlfLWdkcDZLNmRTeDBjY2VBSUNYaU05RGJEdEpmLUxtd2ZKT2Z4S0xBM0Y4d0hkMXZtb2pMN2RPQ2xlQ00xYlZ5aTFfZW44WExrQUlOclpMb0tHR1pYRXhpbGRzdU91b1Q1eU5Ja2NNdndWcm5ycXRVSU4yLW1oYXlvN3NhenVXTTQ0b1lOQUJoNjJuLXhQc2g3Tms0TWlJ0gGoAUFVX3lxTE5YRm9ja05OTkw0cTNoRG4yLWhGcDhDMWtxTEVsaTI3LXVrTzFwWU9qem1fN1Z0UEtOblNGczJBNjJBTXFjSmZORU1HeTBaN0lCV2stb3FNVVB2di1JR0F0MDdLYWduUXgwNTNGM0ZwRkN5dHBwb1RsaHhrbUpCbk5IOGZYOGdCWGxMSlJLTFdjVUVPQzhhVm95WnZHRG16T2pKazI4NWZZVQ?oc=5",
       "source": "El Nacional - El diario de los lectores influyentes",
       "publishedAt": "2026-11-13T18:09:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "19700500679d",
+      "title": "Caso Ueno: imputan a Peña, Carvallo y exautoridades del BCP por asociación criminal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWRCYlJpM3hqZHZoQlFOU0pSUFdhRlRJR2JVdzJudkpQMVI4RldHRWlBY0J4SWpKOVZ4R0JXdWl0RWlfLW93ZW83TmhickZ5b1ZIR24zQmdLYnlmVmdIU0U0V0laRmVRVDlsZEx1dUtLSlhDbTE0dHMxOEMtTk5uNVFKdHZvR0Zxb1dUMlM1ZGVDQ0FrU2haVTRwZm1nQVN1YktyZjJ3ZDVrTmwtRmJ2bU9B0gG3AUFVX3lxTE9rZ1FTd293eUc5SGxodUlmY1JCTmRQX0xpWXpnVi1fSmJaTU12MUhoSzFUbnpEczdfNzZSQVFjYVZhTWJHXzRka2FqMktRbWIxMlFMRjNUM3A3QnpaZDRVZGlrYTJxVmlBN3JaVk54ekJPMzFIcEhlZzdMZUcwSENoRExaRmdNLUozbTktYk1sQ1oyTXdHTTdNbUJ5eWluUEs0YVFFaE5yNHJGRmYzNE96ZklvTGdjZw?oc=5",
+      "source": "Red Chaqueña de Comunicaciones",
+      "publishedAt": "2026-11-13T18:08:46.000Z",
       "via": "google"
     },
     {
@@ -3770,6 +3858,14 @@
       "via": "google"
     },
     {
+      "id": "f04bcb059fd0",
+      "title": "Qué pasó con el dinero de Ueno Bank y cuánto falta recuperar",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaHQydWJqdkRBekRscFZoVWFrN3h0TDRtaVlzcGtzQlA3aC1rc054cDRjNk5xUmlFZHRGN2QxQzRySkZqeXBabVV0andBN3pZSmJMMThvME10UlczVmFDM0t2UFVNVlRyR3BkQ0d4S3JGemttb210NGo3enY1UnBaWEx0eDN2QmREUmZMUVVOVENNOXE5TGVxd0tPcFhtcmQyTFRWbWR5WjM?oc=5",
+      "source": "Diario HOY – En Paraguay y el Mundo",
+      "publishedAt": "2026-11-11T08:46:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "46b4a09aa1b6",
       "title": "Paraguay Returns $340 Million to Ueno Bank Depositors After Banking Crisis",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTmtOa053cWFOZHdJSVJKTHVxYWtMVGFJMURqejVJZnBFaTg4VHFzMkdJeUZpbWtVeDJZQjBjZkpsYlc0UGNuajFWd3NhUjJScGRsN2R1dFplTlliWVpTOGxQd08zMUQwc0JrdzFYSl9JOU5zMGZHOVBOMnhVQVQzTXg3akxzZ2hOd25Eal9RbTliUHUxakdrMVVidXFwQQ?oc=5",
@@ -4202,6 +4298,14 @@
       "via": "google"
     },
     {
+      "id": "bb1344b6f2c1",
+      "title": "What next for Nubicom in Paraguay after Ueno Bank turmoil?",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQblhKQnJlMnViR0gzb1Vhc1owY2QtSzFtQ1IwbHUwZHh0UFBRaWtxSEJUdE9lbEhLUUZ4c2RFaXR3eXlmTENXNUsycFJ2c0NwWG02RWZlWEc0dlMxVmtCZkxuSG41clpJTENTYTRvY1c5czg1TjJwQjd1VDRGTS1Cb1ZyMTNxRExxQlNsQmJ5QjB2bmU5SHBLTm14Sks?oc=5",
+      "source": "BNamericas",
+      "publishedAt": "2026-11-10T21:31:03.000Z",
+      "via": "google"
+    },
+    {
       "id": "2599117e8d77",
       "title": "Empresa vinculada a ueno bank, involucrada en la mafia de pagarés",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcWVidnh3U0dkVkI5aGNBNVY4WmE0MjJjZms3MC1xMGVjbXI1VFNVZmw0b2ZnOXpFZVdjeUpTQUtfcm10QmdrQmdEZURJRi1rd1p1ZnpvRWUtNjg3Nk5uaUdsY0FraHZPVE5SbTVnUkl5WlpfNnEyWXlDTUtrRUc3bE5aWXNYSmZiWW1Od2ZUaHVFUVpLelHSAaMBQVVfeXFMTTlOY0xQTnIzeUtlZ0pMRHZ5NGNGTGNxcFFrWFpDSHhUMjBBa3lVcXQ1VkR6WlQxdXdiTEEyVUx0SG0zSU5YYzVtVUxWdEZYYUhneFM0QlB0NVlpWlg2VHIwVU96S3BhOHN2VU1qOEZ1b3M4alcxUXBndGRvNnJsTHBKbG9Ic2puTG53Q25iSndmVGM1eXhuVGcwNjYzU3dnV0s0QQ?oc=5",
@@ -4570,6 +4674,14 @@
       "via": "google"
     },
     {
+      "id": "fdaadd0079df",
+      "title": "El Banco Central de Paraguay informa que devolvió parte de sus ahorros a 93% de clientes de Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjM5TGgxR1N0ZXVnak1Bb0RPbUY0Tk9uU0U2U1BlNjZnREMtMEtEc1FhUTBDQmFlYmFkV0FFa1hsRHEtVTQ2Z0YzOVAxUnBYUDJZUVJtNTNnajE4d0hOVG5Rd3RwdEp3VEZ5OGtJTDFkUGNFdmxTdUk2RjBZY1ptZGxKZk05VktDTlpqUG1xdEVqaWhyWlEwVGxrcEFzTW95TjhYcncxbzdUQTJmXzBEdDZjQVYtalJta1k2akJnejI0Z9IBxwFBVV95cUxPdkZ6ZERNdi1CNWZRcmpQNHBNckdOVzIzVWQ5TmlFZF9wV29LYklDWDA2REtyRXNjNF9aTlFMU3lhQllHM0Z3VUJkTV9mU0Nyb2U3eWdxZ194Y0RPV0RLSmtZWWVxM2xMLWRUNTBZZFV4MmEyWS1FZ2ZDcWo0S3BqTUNqLV8zV1VZbGRlS3hLRl9pb1ZpeFh4Y2djWnhIUkdyM3FFTnI1akVTZnVSRmZzUHhBQXIzZmxYN196YjBhZVRoeW92TUIw?oc=5",
+      "source": "subrayado.com.uy",
+      "publishedAt": "2026-11-10T18:38:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "af92f15a5794",
       "title": "Ueno Bank: cuando tu plata amanece intervenida",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbUxJNnhrZEtoZzJYR3g1aGJadDN3UzNxY25NRk0wNGxxeWZteDVodEhPaXVfcE84ZEhOdU1pV0UyZXFyVWVzUUxXeVBmRmlmWTlIaDZCa1ljdmY0bGk4Sk1sQzJwY1R6T193TmttS3AxNnh6cmZUcXkzSVZLTGU0MVFhaUFaUVBIMDJsWnBXONIBqgFBVV95cUxPNmd4NnVIdGhxUWhRUlRUcXQ1dENnbGhqWms3U2JVQUJGU3NGMjNHMDdIWGFYVzYyYzhhd2dEQWxJU0swaWw5NlU1bUVrZHVVQ29na1JkZjZMUG5xUHlkUVRQck53TnRodkQ1TXFzMlpCSkZhWDhsVTlpOVowTUNQWFE4WlBEa1RNR0JsNDdFeEs1SFBROGpHYnhjYU13ZHBILThaVW1KYkxkQQ?oc=5",
@@ -4687,118 +4799,6 @@
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcVc5YXU1djVhX3pNRXltOWFvTDZ2QTJXSnBwZXZpV0FpX0wzaW9tbWtIbk01bDk1SkxYQWVkZlZXSDVoZjBHNkdlOEREZGJvSUZsZmVDTEFyS2hsNk53R19LbTRZVlNYbkNZNU5QZ084U2ZmZTZaRW0yd19oTkV5YkJmT3VOY1JIZDZUNHN4dlV3WUVnWWs4cXhDbTFoRHFhejZyRnI5ZDIxenNXRnh2Y0dpaGtmNDVIU1JYNWYzdTdqNWNTRlZ1b2swRHR6dzJxbk1fTFpqVlExc1lFT2xhSVBvMVp4UzRtR1J3MEwwMWx0MjVfX1RHaHhGZlkzRk0?oc=5",
       "source": "ABC Color",
       "publishedAt": "2026-11-10T17:35:00.000Z",
-      "via": "google"
-    },
-    {
-      "id": "2623f6728fac",
-      "title": "Pedro Alliana: El 95% de los clientes de Ueno Bank ya recibió su dinero",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTUJ1SmJYU2JiaHkwSWd1ck1oVjBfbFVCaHpwRWMyS2RTNzhIbFRSRDl0SEdUNkdYVmFmTUF1dlJVcjdtbEdobnNsTUVzUVRUb1JnVXVTZFJKREk5S1M0c3gxME5odlVfRnRzdzgyQnRlOGhTcW5EZkwzSnJwbXpXd2Z0R204Vk1BWTRjc2VJdmpUV05kVGNDaGdQWXJtSU42alB0VHVDckUzdnlkT0HSAbMBQVVfeXFMTU85RDNIT2c3aU9GQ3BhbHp2dDBNZEE3SXRfLUxGRm1lZFFTdG1mOHlpY3VtczVwVy1iT0JNYmtOM2F3dXptY1ptbThLaTc5TF83ZEs2M0Z6VWNzZ0QyNnVtdkltSGxhVk9tODNXMWFkdEo0TXVodGoxallkZjFnMXk2TDNMZVJqMV83MlBOdmdkcl9WUWdwbklHYXUwMGQtSnRQc2lFZ2xNTXJGWWpZa2xSTFE?oc=5",
-      "source": "CRÍTICA",
-      "publishedAt": "2026-11-10T17:30:42.000Z",
-      "via": "google"
-    },
-    {
-      "id": "a96ba0a15479",
-      "title": "Quiebra de Ueno Bank deja sin empleos a 7.000 trabajadores en Paraguay y otros cuatro países",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSnhRZjQyZFJ2ci1JRjBCdG5BeTdKc0lkQ0x4dTg2Nk1WR1pqR0VDeWxKbER4ZTJQUV9kc05ETmhvc1h1SFVDN0x4RU9FSlF2bUhHMmROQWdMOENxRmlXNEtiS1drcHdJVDFXQzZQbFJ4bVo1MWxrNkJKd0pnWTNNUDJ6ZWtVV2pGUVU4MlNXN0NZVVF3OThoWVlYYzdRLWJKbmZGcGpXZWJEM3otc0tIbkV2Uk1LLUlBVlFwUUo2dkI2Q0tSQzJndnY1ZzlfNTBCQnFQTWdqMGhtRmgwYk5IaXZHLUVtVXNsbXc?oc=5",
-      "source": "ELHERALDO.CO",
-      "publishedAt": "2026-11-10T17:26:08.000Z",
-      "via": "google"
-    },
-    {
-      "id": "a69e6c8e93fe",
-      "title": "Devolución de ahorros de Ueno Bank: casi el 95% de los ahorristas ya recibió su dinero, anuncia el Gobierno",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTWt6WkRLNmhVeTR3ZEd2QmtBcjliSWJwTFYxbF9kVVJhbllaZU53QVcyRnhhdTlveTZBMmRXc3cxQ1UxTUIwRW82ejN5RDVnVkduZ1lCcmhvSi1zOHNBZUs3VEx5R1VrRTRZWWg3VGswbGxMN0RuVUZqUTNKaVh0Q2xiNEk5T2hWT0NzcnJTRmR1Z1BGcGdpXzBzM29aZjB3cFd6WUpCczlsVGNFWGdjZkwzQ2pZbXRhZlhTMmlldjBvQkN1dllyRGd0RU1TUEJGaThHelVNdjRPUG9rcnY3bA?oc=5",
-      "source": "NPY",
-      "publishedAt": "2026-11-10T17:20:41.000Z",
-      "via": "google"
-    },
-    {
-      "id": "9a3a00ce74f3",
-      "title": "Crisis de Ueno Bank deja sin empleo a 7 mil personas en 5 países, incluyendo México",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVNpcXNBYk8xUEN2bUFFTFo2MnFxdmVUcmlKZnREVlJBU2FuNG9pU3FKT3l3cjgzb290VHVIZ1hFMnI4QjlPOGhfdE9McjZFbjNHelBwSWVVb2xsLTgwX2pfVlZsUnloQ3hnODJRSWs1aVg5eTNLdUZNUjFHQ2UxNzV0a0hTN09vZXVqMkFSRkpZbWpCZ3pWako1TTRlc3UwVnVtR1BubE5pZUtWR3MwU2pNa2RoQQ?oc=5",
-      "source": "El Sol de México",
-      "publishedAt": "2026-11-10T17:17:23.000Z",
-      "via": "google"
-    },
-    {
-      "id": "41825ce54437",
-      "title": "Crisis de Ueno Bank deja sin empleo a 7 mil personas en cinc países",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONUQwRnYwcUdUZFc3QTNPX0dtWjdwT0YtSTJNT0w1Z0wtNTEyTklLVno4RUJoRkxPbFlTMXJFZUxqY0l4OUF2Vi03TnZpQ3JaS1c0bDZrdDRteE13dUZIbzdON2doQkRBbFFGdjFMWlVmM0puSmphSWtNS1BXNUFwRkR3WG42Mm1wSkpNNlRpZEZCVmtCajFSNTg2bzdvcjNtaUczX0VodEsyTzdrQUxsU3VxZDZoSVI2cHc?oc=5",
-      "source": "El Sol de México",
-      "publishedAt": "2026-11-10T17:17:23.000Z",
-      "via": "google"
-    },
-    {
-      "id": "fa7e3e4b96a3",
-      "title": "Casi el 95% de los ahorristas de ueno ya cobró y el resto lo hará hasta mañana, anuncia Alliana",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2xXc1F5Nl84N1UxVmoyN3cxYjVuYzdtTWhUSHBLVHlWQ3V5UlJoVmxsNEtma3JVbjhVRVZFNnJ4X1RZMEQxMExWaGR1TEVpLWtxU1BFRHd3dUQwckpXZFZacFhZdkZRdFZBNnI5MkVqbGtNUjA3TkVjY1Q1b2ZjSV93cUNvYTM5MDJvajI2TkI3ZG9TTnFoYmhzb2FJU0RHYkhiMUxjMXM3RmcwOEdCUGVGMldPT1ZydERoT3laSFZNNUZpZ0dhNQ?oc=5",
-      "source": "El Trueno",
-      "publishedAt": "2026-11-10T17:17:23.000Z",
-      "via": "google"
-    },
-    {
-      "id": "63974e4d91ba",
-      "title": "La Fiscalía de Paraguay solicitó ayuda a Argentina, Estados Unidos y Luxemburgo para rastrear el dinero de Ueno Bank",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOEw3bTl0QTBaRkxsSEZBMV93cjlmMEVjbGdwSEJST0pjekFpLTVfVFg3TzJkTHVpUW9jd3NmUzJOcTdJQXlIYXlVcGt3aDRPMEJwMnpXUmk5UGk2aElYUHFyX21ydWRYWmdIanNxSW5qWVd2QnZGcDk3S2VyYV9FM3hKQTRfUHNUN1NWTURLWmktQkJHa0o2M2J0VjBXZ3o1N2xGUmVFWW94UWhkUzFqc2gyOHdOZVNmY2kwX2tHZkRmLXRpTzhFV2ZmT1Q4a1hqdGpqMFRfNnM1LWhvU1FRdkJTcw?oc=5",
-      "source": "Crónica",
-      "publishedAt": "2026-11-10T17:17:03.000Z",
-      "via": "google"
-    },
-    {
-      "id": "6b6e4fb66bf3",
-      "title": "Compara Sheinbaum caso Paraguay y Ueno Bank con Fobaproa en México",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV0lQcGFRU0d5ek10eFhkUUdPYjhRdzJFemRzZnZHME85T2VxVDdqd2g3X3BqYjZvay0yUUFvdE5XaG96aW13NXBNLUhKbnlWMkVNZHJpeHNnSk9iRmVMSEl4Z3RrV2JJZDJGUEU4ZGh1UE42bHQzN3N0OUdCWFByc09RRXp2NmZ6aGFDLTdqaThVQWtQVXEyazlFNW5ORFdpbWgtTWVwMHhjQdIBrwFBVV95cUxOSjlUOE5sdjJNWnBrZWNLU1NCRHZZLVQwVTNWcGZZNk1VSnVqQVZlblhvejFoVjF0UERTNThmNFlsd0htNWoxSUF1ZDRnNDFseEJ0d1liR1dzcGJRRUk2SHNYOWRvVGxiemVRMkFpRndxUW53R09BM0xCX3NuWGd3R0F3dkhEdllXY21WT0lqSkJKZ3dTVEZFdHE0N2hlSHJkZV93UXc0ZXhxa2dEUkx3?oc=5",
-      "source": "Uniradio Informa",
-      "publishedAt": "2026-11-10T17:16:00.000Z",
-      "via": "google"
-    },
-    {
-      "id": "7ac64818af9c",
-      "title": "¿Qué son los datos biométricos? Base de datos de ueno bank que enciende las alarmas sobre privacidad",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTlRSEZ6U0ZTTkp0aEdWSTF2MUpfRFJXbFBlbHVsR01COUJjaUJkVy1relZ4Y0MzRG9hbXB0LWN3YTBHMS1yRS1NLTFLUWNHT05IS2NlTVFrRXNyUmgtNmNyZlhtRjl4WjFlX1VucW50UXl4SXhmSEF2Q2Rzdk9JYmR1TWFTbmtJd3lNX0RrRkczN2hlZ01Wc1EwVHoxby0ydDB0aXVnQmNoT19XTXpGX0U3U3JYc0ZSLVFUcVUtYUg2LWPSAdABQVVfeXFMUEtGWXB3MjZ2dnczNjY4ajI1ZVpGeUxpamJFeHVUcTdCLVpFaUJJY3dqLXE2d19HM2Vmc0MweHhxSjJmZ3dQQ0ktT0J1Q2NZeXd4OVA1MmNEX3M3MF91c0NpS0FQN0VuQUNDTlRnV2dOYV9nSHN5VGRiZnZQOHB1cUd3b0Q5MnA3VG5WN3FITkJ5WXZkNmdvYTh3TE9ua0YyVTlUTlVveC00YWdOTFVnMDJGU0xfMm1tMk9QLVpUbWxXNDFIU19XLTlUZGxWSkRGcg?oc=5",
-      "source": "Última Hora",
-      "publishedAt": "2026-11-10T17:12:00.000Z",
-      "via": "google"
-    },
-    {
-      "id": "984a4b7bfe11",
-      "title": "Lilian Samaniego destaca avances en Ueno Bank: el 93,1% de los ahorristas ya cobró",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWxDdkhQQ01IN1h2eDhUbi1DN1M2b01pZlRzSU1MMjhVMHRrMzhrNzlrTklXeDJvc2h4OEVpcjE3T0xPM0dITkx5eFRwMlR0TzllMFdOTVBwbGFnLVhVbERoTmRtb1RyWl80VTQ0by1oeHhvaWhkTzlaeXhWRXdvRmh2Y0g0alhnZTc5ZnR5RHp6TUdVVnZEaE9JeVRHekNQa3dxRk96TFJOV0xNakJKdzl2X3hPVS1ZVWc3VWxMYm0?oc=5",
-      "source": "NewsDigitales",
-      "publishedAt": "2026-11-10T17:09:06.000Z",
-      "via": "google"
-    },
-    {
-      "id": "25fb9688bdd3",
-      "title": "Banco Central de Paraguay reporta devolución de 340 millones de dólares tras caída de Ueno Bank",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX0ExVjFFUF8zbWxtYXk4UjNfZjA3UEozRHptcjl0SzA4YzdrRkFXRkRNMEd1cDk2OWFmQ1BILTBjcXpZTVNnQW5ZdUFxNURLUDJVVkc0V0hUM01VOUFlc3g0SDRMQi15eEhxajE0WUR1cHRtcVMtLU5PQzBmTnltSlZsWmVWQThRWnFoYWxXVDZWWmN5Y05R0gGkAUFVX3lxTE5PSXlGYjBRaTlpRk9HNm1HN3FBZ1lkWVNfc1NjZHVKUGJ3ZjFtMDRweFVOd21SbkxwX3FVT0pjcGFXRnlNdVBqRGd0Vm1sZkF6VGQ4dU1PZDN1VUpJZ3VGRXdzcDkzelgtR0dSV2R0R2FWRU9pUjByREJpNWYtMFdRbkw2STBkeHprXzVhdGtSb0ZDay1RZERWTlNqNExFRmdybUNU?oc=5",
-      "source": "Expansión",
-      "publishedAt": "2026-11-10T17:04:00.000Z",
-      "via": "google"
-    },
-    {
-      "id": "1bb25996c330",
-      "title": "How Ueno, the Paraguayan bank that promised customers 40% cashback, went bust",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0lYM3ExbGhzd2tDYVp5RFZieG9lN2NmZnp6SGVJekxqMW90Y3FjRDBmaWJIdXh3NmlBMENOaXpQMkt0RXYzQ2hOektPcXZDby1wc09mYUV5ZUZIdWQ5M1VmRVZXMDBES1FEOW1CRFBXeHgyNlpPWEVMM21UdGxncGRQeS1xWWlMR3lMUHhkbjVuTl9oYnVjc3dIdUdrMmdEaUptY0tvR1phVDljWVpnZTl4bWpyeEZXUzJ5WGs1cDM1YzhZalJXMmFLOUZLclJ0blhEadIB6AFBVV95cUxQUEFLWkpyeTl3LW1Wb25tdHZ2OXo0QXF1dkJMZmt4V0tJU3R6Mm5QZndiYzFNeDR2X0w4di10NXhaM0xScERqV3BBUXctdWNVWkx1NXJJTHpsYkE4c2FMelJtUnd4R09wVE5iOFlWUWRKMDVrblEwNWNHVjB5VUlEbm1NdG40dlVJWmhYOEg4N3k2OGlNTFZKdlBsQmloUmVXUUJ0Rno5TkQwRV92emdia1kxSTMyZEFGRHZ6Wlctam5reDhFeHJLSFk1ZWI5NlIyb0Q4bXFFN1dyMFNtZWlkcHM4N1U4bWdI?oc=5",
-      "source": "EL PAÍS English",
-      "publishedAt": "2026-11-10T16:56:54.000Z",
-      "via": "google"
-    },
-    {
-      "id": "459e5d475d52",
-      "title": "Caso Ueno Bank: Fiscalía avanza con las investigaciones",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV1hEMU1DUEhxYjBQYWRtQk91MDBFNUlKU1JMTTFpVjFPNlpZLW80aHpqRWQ3VU9jMWhFY0x0ZzI2TFBsQlU4N3R0WFJVa2o0TTNxVkJSUXBsRi1iS2ZIYlh5QUdKb2R6RHgwMVMtbEVLY2tTT3dGYk03TWY1cU9TMUg3MnhhODQ1X0RsWnFrVk1ob3k4MUl4b2pLQzlRUUpY?oc=5",
-      "source": "La Nación",
-      "publishedAt": "2026-11-10T16:55:37.000Z",
-      "via": "google"
-    },
-    {
-      "id": "133e42fb5a1f",
-      "title": "Crisis de Ueno y Grupo Vázquez alcanza a más de 7.000 trabajadores: buscan destrabar dificultades jurídicas",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb210NHRud2FRTnM5U0ZZLVNsUGpaQnpaeWFEVlZzMTlpQW15WnluWXI1cEM1aVg0dW9Lc1J6bFlFWmNHOXBpbWxGSjFCMGNtQm9GSVdaWGZQMTYyakw0VTdLdEJ2cnRsWjlyS0tZNVF4SWMzSGVjY3I4Tk4xRkZOdEUwbG5fR18yZS1mUWotWlBZdGZya21pcC1kcmlsS1I5emExeXpRVnpVQ1hLQmNpRHVtcE9Cb2k1NlZtSUJrRF9TV0FuUG1HeTZtcTFZS29mSTRodnpVYzZpT1JuYjVRcU95MTlIVW5TTEE?oc=5",
-      "source": "La Nación",
-      "publishedAt": "2026-11-10T16:55:37.000Z",
       "via": "google"
     }
   ]
