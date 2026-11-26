@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-25T22:26:14.561Z",
+  "updatedAt": "2026-11-26T04:57:10.457Z",
   "items": [
+    {
+      "id": "ee1c42e81541",
+      "title": "Sistema financiero mantiene liquidez y estabilidad, tras la caída de Ueno",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNTlUUTdINHNvd0lHMjlXR1lBLXZTdWNkTEozOTFRS0lJVy1UaHdYNTEwY3FaQS1hdzFJTkEwVGVrcnRfVVdJX0tpd3RqeUZmSEZ1NXpWbXY1TW5maTJxcXZyR29PdkhmOVN6M3Rsbnk1R0hxYTFDZGw4aGJtSmQ3Z2tSbjhzODZJdXhTdFlNX0swc0lqNDlHaUVjNlptR0RJUlRaOGg3X2FBXzRXc1ExSTlhNTQtYl9CUWo2Z2M3aE9jMTRVXzBkZko4THNibnJIQkxz?oc=5",
+      "source": "La Nación",
+      "publishedAt": "2026-11-26T03:39:37.000Z",
+      "via": "google"
+    },
+    {
+      "id": "38b4a0e490bb",
+      "title": "Ordenan detener a hermano de Santiago Peña por el caso Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRUtlMndlX0NKbjZ6cVR0cUI0VFJmMHhuUG1lX01rd1Z2MWRxZjI5UnpBOERCSGlZM2l0VDg4MjM4WnlLQXJmd3Z3N3ZfLXVxYmVTWDNERkxhZmgzbzhmcjJiRnpqT0JLbkVNNTYyeGVwSDNkUFdEalJDM3VMdU5wdU5lT1VhOGJzN0pNT2pfU2I4TmxZdXRNd2dCZGtqeXNGS3dLQXBSX3hjb0ZSd21uc0lGX2pYdDRYa1RhdXFsTdIBvwFBVV95cUxNRUtlMndlX0NKbjZ6cVR0cUI0VFJmMHhuUG1lX01rd1Z2MWRxZjI5UnpBOERCSGlZM2l0VDg4MjM4WnlLQXJmd3Z3N3ZfLXVxYmVTWDNERkxhZmgzbzhmcjJiRnpqT0JLbkVNNTYyeGVwSDNkUFdEalJDM3VMdU5wdU5lT1VhOGJzN0pNT2pfU2I4TmxZdXRNd2dCZGtqeXNGS3dLQXBSX3hjb0ZSd21uc0lGX2pYdDRYa1RhdXFsTQ?oc=5",
+      "source": "Radio Salta",
+      "publishedAt": "2026-11-26T02:42:02.000Z",
+      "via": "google"
+    },
+    {
+      "id": "01a344225fcc",
+      "title": "Caso Ueno Bank: Rivarola revela todas las fallas que llevaron a la extinción del banco",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWWRWNDdDc3haMEpHcHF3LTNDYUZodWNROFZJb2dFNkpqWFdEMGZmUUloajJLWkxWYklHMnZmLUs5M0RRbFVfd0lXZGVuVlI1aHdFLXk0MU1KQ0g5RVJLRjFoUlFnWS14ZTVXbDVHemRZX2pycjQzellYYlFZSFpuXzJURWxwbGo0T2E4T25Gb2Joa1lLbHpsd0R3aUQ2ZGV2OTF2WnUzRzBWWVZnRVJBb2tCZWY1N3BJVUZUU05KeWlPQTBOUkxZZw?oc=5",
+      "source": "ABC Color",
+      "publishedAt": "2026-11-26T01:01:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "e685bdcc9e97",
+      "title": "Luxemburgo depositó sus fondos verdes en Ueno y hoy corren riesgo, revelan - Economía",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcFlyUWVCSldiOUtGODQ2T2ZRSkx0cGh1U20tWFNaRFhuOGJwOEVScXhqYUlMS0NVQjBhYmRtTDB1TE8zYlJSNUVKeTJNZkNKZHh6SnhEem03QS1WZWVHbTFicU5zV1BOelJkTEg4LUp6RVpWY0dpaHptQkZ5cFlLeWoyZE5KaUpCeWlNRHU3YlF6OWFBbWw1VkphNXF4QVdRZHpEMEFtSWNlNktfTl9TQlg5bXdPTjl3QXRUbmhn?oc=5",
+      "source": "ABC Color",
+      "publishedAt": "2026-11-25T23:24:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "b76ee8e43ddf",
+      "title": "Provisional prison for the brother of the former Paraguayan president Santiago Peña for the Ueno Bank case",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRXB3X0NzLVpJQ19xRmZlNEdWSGJRMmlpU25HZDI0dy1MNkY1QU5wWV9DOU53Mk44cUFpanVJcW41YlpiTnZyY2hkd1RpS0FwY2xac2JFVHgycWFJRElHdDVBeXV6TGE0UHpIZ2pzSU4tNTBZbVZiUS1xbktfaDE1dEwtQWkzWFo5X2E3NWNXaXFZcmE2eFBUN1l5MTNJUnhyMldaTTV1RFd5N0VqR1hVcElwQXYtUkpURmh4VGs5UDRXMzNvanlXWGtZOThXZmFmS0I5ZkdQMWs1aWVWNjBpbGVRVdIB6AFBVV95cUxNVC0xRFhRMWdnMDJLdjNER1RpV1NEa0xYWV9ybFIzQ3poMFpiazBQbldCMWVyb2MwOHB0QXV2eUtPRWVSOVh6eTNKQ29qeFNBbEFCejFqQ1hyRUw3clNDOWhTUnBiZ283VVlHaTcxbm1uM0pnQmlrUkp0VmYxdUVSTGM0M3BSQkhSMjNJNEUzVXQ1NUFlTEpnenFhQ01QZDZPM3ZYdzEybUYwV2htN0lRRld0RGd4ZkNNeDd3Rlh1VlgtbjNMd0RmRDlKdmJfamx1S1RhQVFZbGtyQ2ppMk90WkliQXlOM1ct?oc=5",
+      "source": "Demócrata",
+      "publishedAt": "2026-11-25T22:34:31.000Z",
+      "via": "google"
+    },
+    {
+      "id": "2fb97cd79e97",
+      "title": "Ueno Bank’s Collapse Leaves Latin American Soccer Checking Its Balance",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUp3dngxbW12ZzJxcVBvRzhtUktERldOWklvODQxTU9jeXE2RWFkTHhZcWM5bV9HcFBYZlFlZV90UGlRUl9YZENRNEJ5OHEydTZCa1llc2pLejRrWVpROHNYcUhONUJtdE1UOE5yU1BQTF9URUFvMkNjZmZGSDQzRW14TkhpVUxGRFZrenJadGs5NExWUHQ1WEd0UThDa0ZnUUhvNlZlVGNUZ2RhcUZnYmN3NkdwSmpVTkR0Q1NB?oc=5",
+      "source": "LatinAmerican Post",
+      "publishedAt": "2026-11-25T22:23:07.000Z",
+      "via": "google"
+    },
     {
       "id": "d77fae429991",
       "title": "Paraguay destinará US$10 millones para indemnizaciones a empleados de Ueno Bank",
@@ -42,6 +90,14 @@
       "via": "google"
     },
     {
+      "id": "a6eaac3822cd",
+      "title": "Caso ueno bank: Apuntan a liquidación de fondos mutuos para devolver dinero a inversores",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkRzZGJJRzJTeVVIazdEQUtaeUhHRVVCb08zbGZMVExaTXlmTEEzQk03MFRyZWotb24xWlBXckhROWg4dVVQQVJVRHlScVI1d2VjYUFpNzQyWDJUX2VWb1dDQVBzR1JpQm5IMVlWaTczT1RrNFhOU0JsZ3h6LW1vMVBjNjNtUlBqQ0dvTlJmVW9rWlh2Vm1wekp5aURjQ0c4TUVQNnFFZVdMcWZBUmFvV193S1TSAcIBQVVfeXFMTmhTeU5VVmRZdXprRXo1azlkZmpwN0tvU2ZBLW5Eajh5VnNsWkxLSXBwTmFKbFBsd3EtalM0Z3dwNWV0UWlNc3FMV2dNSXlOdTVET0Eta2lJYThTX1BDQnlrSjM3TXhBYnh4ZlhnTkRZQVJmdEIwMVQzQU83aUZ5LXBXZ2xaUVVOSnpjZ3pFazZ1T01mbm1YLUZ2TEdaU3pXVVljU3VvekhSOU43ell5R2JFS2gwcm1oa1BpVTQ1LVY4T3c?oc=5",
+      "source": "Última Hora",
+      "publishedAt": "2026-11-25T20:23:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "a7c83f752519",
       "title": "Caída de Ueno Bank genera reducción de 30 % en eventos a nivel país, según Aseppe",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGVhel85Uy1pZEt4ZEVXZFlzYXRCdVRuTUVLRzlpS3R0VzYwTzZCRnhjWlVjdzZMR0s5WE56ckdiWU9LOElUYlhtOXNpU1RCQmcwNndHMjkwQVB1WGxoNGZzOGpTM0daRWJpTURkQlB1alNPeWxhSFdXYUZOYlJ4QUJEZ1N0OTZsUzVjckZPZEVDVWJJQmZkYXRrbG03WldnQzM5UDk3bW1Idk1qQngyQjZDMDJ6d1owd21KRVhmTXhxQjY4OHc?oc=5",
@@ -74,6 +130,14 @@
       "via": "google"
     },
     {
+      "id": "b6f163807c2d",
+      "title": "Caso Ueno Bank: dictan arresto domiciliario para Rocío Caballero Bosch",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVc5enVFTW9aTFNVWGtTN2RaQmhtU3hjOXp1bkdCOVpVVlpLTUhUNG1FdVVqUTBHam1VdHNKeDloX3FGcGd2aUVPbFdNanZYX1pKSE50cVZnZzVwRk94cjhNNTJZaU5pbV9MSlkxcXNtckhLUEZNREJCeFdSSmYwMmtVcTZWNEZkZUhpNkdGYkswY19JZzd1d2xiVkNTMjlZUWpBTnBSM0xfUGvSAbABQVVfeXFMUGtfcnYwWFhJSjZ3Q29SelREYmNZb2pnczJNUUhWTjNYQ3lfbFNnSHowVEJIZUpGU2t6eTZ1ZHgxVThfTXdvbFJTSXpRMjJJekVRMW8yS1E5TERzamhjbHBlWktVeHNCeTl1S2Z2UmdSTnhNYnpNZVdwLUkwSVNoanVfYWpsQnpLZTQ5b3Jfb3RGZzJ3d1g0MkhmOVllQkZEN3o3N3ZqZDVITmRSWFM0VTE?oc=5",
+      "source": "El Nacional - El diario de los lectores influyentes",
+      "publishedAt": "2026-11-25T18:50:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "9be6d3b0fcdc",
       "title": "Caso ueno: Oposición corrige su proyecto para blindar fondos destinados a trabajadores y ahorristas",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWk4yb01MbW44bVZ5TUZkbWxFZUdJMV9jakFidFJwQ0VlUm1GbFFyWjJSb0lsQmpTUkRJcHhoaXM4TFJXaUVkTWZPaFF6cmxWYnpTM1Q5WE8yLTVYVTRRME42S0ZFR2NBQ2NKRk5wZ1p5d01WRmY4bmljOEJpVzlIYVVOMUtVaEttdC0zVm42WkVscXRUcldlQ2RGSUF5eDViQ1JjVkd1WHp6TU1IZ0dkMDhBaEloTXdITy1RUmwxMmpLVTjSAdABQVVfeXFMTVZxSlZDQlZBVzNLbXJDNzhLbURodlF2YVJ6T3VETk0wU0JuaXktWWpmRmtlYzZ3RG5LM0RYUmlOM1VCRS04a0NVQXdiMWUtVkNWNmZsUEdkX2lJX1NaMWoxUE10d0hCRVY5UDZETmZEUmcwT1FmU1B6MXhXd1hpQWgwR3pwaFNKUTR2SkFxWVl3WU13a2JiSDYtUDlYc0p6dkE0Vi1PLUhpVUdBX0QzWVN5blI0eDd6Z0tIak42ZmxtanFtUDFteDlPb1V2dWJZdQ?oc=5",
@@ -82,11 +146,43 @@
       "via": "google"
     },
     {
+      "id": "4351bb30efca",
+      "title": "Caso Ueno Bank: ordenan inhibición de bienes de Francisco Peña y Rocío Caballero",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS05TTnFiWl9hdHBXTlhGbmd3NzdjZWJ1TGQ2RGlHUzlBWEQzeFZWcDdqMTg4LVNxWjZTd1phTVZhMlN5RUFEX1dqemF3ck9EZFpqUVpzYzB5OTUxRUVxTTFpS0hnMUtUMWZIOG1scWF2WnRhc1ZKdkkydDhuUnRyMk1OQ1dQVnJLc0VOeklnRTFoOHBZRmFfY0ZQOE9TbWhjcnNMTWlwNzB5NEZ1SFdpSjVRQUTSAboBQVVfeXFMTXFSWEQxdElHa3drcjVJNnFpYS1oN2JBUWNLeWoyVTR2dmNDc1N0VWR6Q0RoQl9WeWtqN0RMOEdfUDl3aFMwSFdva3NNdk42bWZjYXBtVWc2SWtKcEFja0VsbUw3a21TU2pxRTdvYi1lRDByVnRuazBIY21vOHlpSVF3YjdmZFc3S2gwRnRHV2c0eGkzeXFvT0tZZnV2WkRQc1EyUmRfcFlPSXZvbFMwYlNiWHFCSXBUSUh3?oc=5",
+      "source": "El Nacional - El diario de los lectores influyentes",
+      "publishedAt": "2026-11-25T18:24:00.000Z",
+      "via": "google"
+    },
+    {
+      "id": "cfe9990d9165",
+      "title": "Caso Ueno: ordenan prisión preventiva para el hermano de Santiago Peña",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVR6U1Q0SVBtZkRJMnJ3THJLZU9LOFUzeUM5eDFwbDF3VWlKTDlPaXQ1YjlVN0hfTzRqUC1BLXg1WlpReV9TWndFcGFtSXp0a29RZmpQVGgyY1VaQlJ3VjhOdEpILXMxWDBoa01OOFFkcWhBcHV2T3NTMVctdTVJWDFDYWhGSW9XRHBVcml3RkZJUFgzMG1OTVA5VWQzTHpSVUHSAacBQVVfeXFMT1d4X2VSazh3X3k2cjdKVW1WRG8wUU5NS0RYUW1FM2hrU3E0RHJHRktGbHdFVmNVUWt6MVN0VGVxWG4wTHdPMzlKNWRVMkl2d215RlQzSFU0X0hyOVJIaTdGYUx4REFaWGYtblA2SFIwTjVMMVRpTGtRS0pkQkpqTGVucDFsZGZ0YkFMWUlvRFhHaTk2ZzljTGtPQTZfbG5OX0Ffd0Nvc1U?oc=5",
+      "source": "Red Chaqueña de Comunicaciones",
+      "publishedAt": "2026-11-25T18:05:34.000Z",
+      "via": "google"
+    },
+    {
+      "id": "b961360291a9",
+      "title": "Fiscalía de Paraguay acusa a Santiago Peña por lavado de activos y cohecho por Ueno Bank",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc0ZBblpURE9nZ3Fnb1pNWU02RVUwczdpUXRZZmNicUl5OGFfNzJKd0RaaU5ldVhidnY5LVVqc1BSV2FaQURTc2JLUTI2QURiQ2NkZm1ZUDlfRmtnbHEwTGdrdkl3RHo2eURmWnJnRnd4N3NnTDh2NkVXUy1tdUVMNzB1WDRsak9JdGlYbGFURmloM1JZdkhLRkNzV25xaENxdFHSAaIBQVVfeXFMTXNGQW5aVERPZ2dxZ29aTVlNNkVVMHM3aVF0WWZjYnFJeThhXzcySndEWmlOZXVYYnZ2OS1VanNQUldhWkFEU3NiS1EyNkFEYkNjZGZtWVA5X0ZrZ2xxMExna3ZJd0R6NnlEZlpyZ0Z3eDdzZ0w4djZFV1MtbXVFTDcwdVg0bGpPSXRpWGxhVEZpaDNSWXZIS0ZDc1ducWhDcXRR?oc=5",
+      "source": "MILENIO",
+      "publishedAt": "2026-11-25T17:59:00.000Z",
+      "via": "google"
+    },
+    {
       "id": "fac4bb694025",
       "title": "Hermano de Santiago Peña va a prisión preventiva en la Agrupación Especializada por el caso Ueno Bank",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcUlfUXBJWkdXcFdYTUFXUGtzckt3NExVWFFQV2RLc0xEZGd2QktUZzQyZGYyTC1JdkNSek40ZVp1eTczcnNmYk5jaE9tM0NYTHl0OFhzUXNTa2QtZk9TY3d0X1o3LUlSYm90a2VvcEwwWURMSUdjdWxycGNFb2FyRk11STFBSlFvR0E2THM0b1BrZXNydDB0Z1lhTHJLY2dteUFqLVNOMHJmdXlZZ2NKUDdQd3JZd29jRUg4VXNPLTlPWVBubmpKUkMySlFUZVBnZVE?oc=5",
       "source": "www.rdn.com.py",
       "publishedAt": "2026-11-25T17:52:25.000Z",
+      "via": "google"
+    },
+    {
+      "id": "75c361d49d81",
+      "title": "Caso Ueno Bank: decretan prisión preventiva para el hermano de Santiago Peña, inhiben sus bienes y los de su esposa",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzdTMEExUlpMdmFxZDBtX0lLN05EUmtyei0wMXlkVXVBYURqdDExMmhDMGpGWVZQdzB0VXRNMzZIOTM3UnpnNElOUG43M0o4M2xCY1RGbWh6WHRob1RpOFdydEwzNFhYRjQxM3Q0aTIzaXlKTzc5aFQxeVpYRmJ0MFFGRjl1clY4Y2ZlUWpSNllhVGtKdlhvc2FVQkFOU1hXSExVNjRhRVloUG1xVUU1clF6WDhfVGxJYTRHVjZwSXVIM1FuaGJDRVNab1VKUDU0bHc?oc=5",
+      "source": "Ñanduti",
+      "publishedAt": "2026-11-25T17:40:14.000Z",
       "via": "google"
     },
     {
@@ -122,6 +218,14 @@
       "via": "google"
     },
     {
+      "id": "78164dfd71b3",
+      "title": "Hermano del ex presidente de Paraguay quedó metido en caso Ueno Bank y en la cárcel",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY2xtTWpHM042NFFKS1NSOWtGUzZ0YXFvbnExREw5N3AtZUlMQTFJR0swT2VUTGRkdTlnSWdXbElRNExKVS02MXRRNkVMSDZ4VmJRaUdMdjJRaUZRbUxtNksxQTdOZUh2Z1l4NDZaY0FUbzZpMlVrYnFhNkxyb0xPaHBOY3VkVndkcFBCdjQwS20xemtDbkxSYW95Nmd6QUJuR1l5RUJsdzE2TzZKSlVpckd4Y0V1Nm9qT01SV3hR?oc=5",
+      "source": "Destino Panamá",
+      "publishedAt": "2026-11-25T16:39:08.000Z",
+      "via": "google"
+    },
+    {
       "id": "499058fc8d73",
       "title": "Gobierno propone adelanto de liquidaciones para 3.600 trabajadores afectados por el caso Ueno",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTF83YmZfRWZpa255WGMwd2FPNWJxYXlGUUZJZklQV2prbUJabDUtcG1qMkhueE1nVndlSnFobVNvRmxvYVA5TjAxbVlrZ1U0MzZhOG1RTldPc2RfWFRrOTVKX3hDMm5tMFZvaVdYVzJSRDB6NnhpbjFnSzY1bmxxbGdfaWZnd2J5MGFvbHRiR1BlTHBpZkRraTgxdFotRmlfU3ljdjV2TG5VT25kOGpYWTNZVW5vbkVvTFdpeHZsMXc3R1VjdEVvdi1KUnU?oc=5",
@@ -135,6 +239,14 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQVhwMnhyQ3kxcHhTa0pUVUpYNnc1SHhBUnNpaGlKcVVxb1pTZF9TN0J4WldIcEQ1WlZNbnQxdHAxVHNRWEI1d1RKMTJ5TFFVenJveGZ4em9PNlp3UGlRbWE0UVV2aGI3Y0FsMUZfaTdhRmRtdDNTbk53TndQaXZNRTMydzNDODlnUEFicFAyTXRpbXFlVk9oczJJWFBrYVd4Snd5NFl3SXRoZHFZcmstcFJfbFJtV2w2YUxPUmV3?oc=5",
       "source": "Diario la Ventana",
       "publishedAt": "2026-11-25T16:29:24.000Z",
+      "via": "google"
+    },
+    {
+      "id": "07976a4d364c",
+      "title": "Caso Ueno: imputaron al expresidente paraguayo Santiago Peña por lavado de activos y cohecho agravado",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZmxXcnNYaE5jM0xjT0lPdDl0RS1fekQyZE5zdVpGa3lMYmlpSUVVb3piZU56NVRlWVVZSU4zTlpudktXdjFPNENHR213ZmJRTDNtaUZXT1JtSDFWWjJQNVMwdlUyZDdybUdmSS11Vm85eWY1TWtoNGJ3ZjJMYVN2R0x6b2d3b1lkVVYySVZLMTZqMkthWlBpN0dyQU1IWVhGSjQtdUY3QWxIWVl2QzhrT1ZwclBLN09BOWZVdFJyTW9rT0ZSbm5qT0pZZ1JjSHMzaHhNbmtxVGlteUHSAeABQVVfeXFMUGtwR3RrX1hxdmRYaFAtWDBOSUxpNnFQa2Y5ODg0WTNxODlMbk9rMjJTWXpvb1ktOE5Jam5rdFlCNkRlLV9oVXlhX1FyTGF3NUJwbkpGc3FxcjBZckN0enhMN2kwZXBDOWl3SnpvTUR0VWFicHVzTWxiLTFhdW1wajZNU09SSzBuT2Q3eW55Z2FRd2pSRS1OeVlDel9kVnJhcF9hUXc5bWU4bHBrOU94WFhURk9jdzZsWVRnVTE2N05PN1Vfc050YWdNTWdINEZ0My10WU9MT0dpVTJ5by1JM2M?oc=5",
+      "source": "La Gaceta",
+      "publishedAt": "2026-11-25T16:18:59.000Z",
       "via": "google"
     },
     {
@@ -271,6 +383,14 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGtHX3VSRDNKX2gxb29SRlFBckZkMFNtZFZ3WFhyeEtaMERqU0p3UnBhMTNzam4xZjNMdnpJYW1QMy1ra0hZZHU5UVhQOGxxRmhmOVh1OEIzZWtqUWJKM2N5U3Z6UDBLcFQ3dEZwdTJ2M2ZqU1RTODEzZnBtb2E1UHdCbmw5Tld5c0tnMVpJRDRWeWJEUGJubS0wdlNMN19O?oc=5",
       "source": "El Independiente -Py",
       "publishedAt": "2026-11-25T11:05:39.000Z",
+      "via": "google"
+    },
+    {
+      "id": "1256484faeb6",
+      "title": "Fondos de Itaipú en Ueno y tarifa energética, temas centrales entre Paraguay y Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUEZFNDZib3lRTUw0YW9DeUFBbjB5UFRaT2MzU2NUeDRmTS01ak8wSUp4U0tVM29ONk5OVkR2d2lJdm9UX3lnY1kzeHFuSzI0RENGbGVVTFExenhiQVhfa1RfNjR1UC0wbG15V2xBeXhGT2gyam1oeXFFWEZKNkVmWGY1TU1LZnRNVTI5X3UtNkcwSEYzZ1FVTmdBMFNoMWV3NHpVdmtJemRIQ2NTTjRCcUhrNVgzUQ?oc=5",
+      "source": "ADN Paraguayo",
+      "publishedAt": "2026-11-25T11:02:22.000Z",
       "via": "google"
     },
     {
@@ -1154,6 +1274,14 @@
       "via": "google"
     },
     {
+      "id": "6d1f5ab26d28",
+      "title": "Paraguay. Ueno Bank: detienen a hermano de expresidente Santiago Peña por presunto lavado de activos",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQXRvNWxEcnVmalY1bzA3UlFHYU9fY004TElyNzBnSzRjT3pDa3hTOWxsNllkQ1kxUHJIc2xhWVNpRGJVNE9DWjVsWThWcGswUHFoM3hTZFZNd2dOa0F0MFVheEk0c0g4cEJ3djRxZDVZZVk0Q1hWb3hKQjYwX3YyUEhCbEZkbVBjVzIySUxfR2hvUmZEVDZwelpObUg5NTlfZEdfWXlCTmpxbjd0MGZQVlBsZmluOVE0NWVvMUlDMmQxam9Rd0ZXVU1nbjVuc1ZrWkpBSmZGVWgzRnZnbDUtZTR0UQ?oc=5",
+      "source": "Resumen Latinoamericano -",
+      "publishedAt": "2026-11-24T11:37:24.000Z",
+      "via": "google"
+    },
+    {
       "id": "4810a2d3a1c1",
       "title": "Más sindicatos rechazan recortes salariales a funcionarios públicos por crisis de ueno bank",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2tXblJqUFc1R1N3QVQ3TndLNFFNOURIRURUMjJ2UVhZQ19faFlkc0tpbjRtVXA0ZmJYVVJKcC05Ykx6U1dWQm5kYm44bHJJM19RYTYzM2V2WHBxRHZQLUhmNEJWX3BhWDBvbEUwNklDaTdkQlhSNUktWkhvTGFBd2ZpQkVxYWtvS1dlYTltVzFnSHVNdGJXY2pXZ2VCbDhPX0p1Z2l4MDNaUVNLY2t6aU5IaF91UFV4dnfSAccBQVVfeXFMTTNzcG0wNG95QTRCUDFPampuR2ZjYjJuc2dPdVBLazBtRG5ZNGRmbjNJY1dwZ1NORVNMWU0xYXFGanh6LXo4YUliUkhlWE16aDZxRVhsOUU4M1VLZFk3M2hlSXlYWkJ4N1hyMTVKZmNFcTB6T2FIV1A2ZWMtUGJwdldiOUZCV0JzRDNZWmEyNm1oWnY2TjhFbElKblFaTThmZXBaU0VIQlVNaFFOZ3BvS3p5MXY0alV2elk5MVZ2dlVQSUFSS01ocw?oc=5",
@@ -1263,6 +1391,14 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1JjcmZJX0t3V180cGlWenYtMWJ3RUc1Y0djWWRJR1UtZXN1N2RfdVRvYmNZc1M1a0gwVW1LUjlCUWdsLURtU0FhRFYwS1lxSU9vUkRsSFRIbFRab280WVlDV2tWeDlVQ3BNcTU4ZVBvZFRYVnF3TkZJVDNvd21YYjJTMEtQemZsZ0cxd1RwT3h1c2hiRG84ZndtbjRaMjlxR2dodmVQVFR1dWpWT1BUWDhTMlJJZ3JfZVB1MdIBwgFBVV95cUxNbVFjVHVaVTVGUVRkSzFTYnBFLWxHWVVTVE1QaUNtZWV6WjRIWEtxUVpNVkRFRXQ0Z1ZmM3RSM0tFZU9YX0xHbi1VY29fWWN4eUVybThCYVh3SWFlWGtBa3drSF9UNWx0VS16OU4wbVc5RlNkbUlxT0phSzhsY3FaTXdtNVVpT0I5cXdmV0xaZ0R4ZGRJMWxFVzl3Z2hmOWpIdGE5M3IwN3hobEpHczVJVXBDb1BTbUQ0M04xWFprNElUUQ?oc=5",
       "source": "El Economista",
       "publishedAt": "2026-11-24T04:27:32.000Z",
+      "via": "google"
+    },
+    {
+      "id": "189962d44468",
+      "title": "Comisión de Diputados hará seguimiento al caso Ueno y convocará a autoridades",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcnZqSVRteDN5NV9FVTlUMHMwTUZaQXp3aVRXQ1NVMFFxQnRMaGNBNDlaU1k5bkh4ekJmYXg4NEkxOW8xNXZzZ1VqUnBEZDc4UnRDc2tCT2NydnkyZUlVM0RCcU92WHZjTTBZZ3dfRkVCY1RadkczY2ljYXdKeUxzYm41M0VibDA2VzNrN0RMOU5oUkNDdk0xZ3RZRUFteGdGQlBzdEZqUjFEaDlfZHNTUzVpbTh4M1F4V2hUQllQYXQwVk1F?oc=5",
+      "source": "La Nación",
+      "publishedAt": "2026-11-24T04:00:57.000Z",
       "via": "google"
     },
     {
@@ -4362,6 +4498,14 @@
       "via": "google"
     },
     {
+      "id": "d2a810a09944",
+      "title": "BCP informó que devolverán plata a todos los depositantes de ueno",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRmhGRnk2ZERpdE04WWxyN1BTOEk5VXFUYVkwel80Ry1IT0tfT182YjVLN25WUUVsZUF6REIxR1BXdEhFRV9oaUJLSVlNYWdoMzhuS0pzZm9iN25EZFpuM252LVRxV3o4TFpUcWJ5U0JidHNZQVNTbjMxUGtXM1p5aDQ5YjVmRXpGdjJYa08wTXNzbFpiZVJkNDgwZHRWRXhpMS1V0gGwAUFVX3lxTE1ET1RyMk1ka2JCWklWSEpNbU5pYU9FVk9kaXo0X3A2VUlZYVdEQ2w2WVVsdHJjMTlLa1pDRjFEUmRNcjlNbkhJd2d0M1N0ZFliekZDb19NeXM0SXdIV28tQWl0ZVlvdDhlN1B6eWN3dGRoYmp2Y0JDZWp3d01TQWhnc1hBYUpvNm5SaklYbmlMU041NjRYUlFxeXIwSHdsazRBLTJVeHduWV9zeHdzV1ox?oc=5",
+      "source": "Extra",
+      "publishedAt": "2026-11-19T10:07:06.000Z",
+      "via": "google"
+    },
+    {
       "id": "ad736cdf9d98",
       "title": "Fiscalía imputa a Fabricio Martínez por faltante de G. 3.090 millones en firma vinculada a Ueno Bank",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHBxY2ZXUDNIeUFiOUhBbkRkbS1CSUFmQnMyUVQ1Y3FxaVJuYlo1N2k1U0MzTktTY1I4S21Kd1JqOERhOUxJXzN0ck5iZFZoZWRoSUE5R0lQZWFzYWZ3RlZnc2J6LW4yS09ValFBS0cyWVM1MHdfd3JZRDUyUUd3amJCaUt0TXBXVXU4RjBDaVBWbkNHam1PWDgyaXhJaDBfOGdyLW9WbXdqbEFkRy1lTUV3UHFZaXh6OE5VNUkzSm12aWs3X29BUw?oc=5",
@@ -4423,6 +4567,14 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkVUbXRJaGp4ZWVWWHBreEVxTzFZYURMY2NxVjEwRW9Ua0FvUVY3OE4tX0RVaHFaUVJESlZYUTlKTlpja2lOS3gtSVp3Q21JWkcxRGRQZGtQTkpVSTE5V210WTVUOTNZRmg4ZHdsaExNTklrWUFjMmJaRGpSaXN3dkloOF9VUjNkc1RPdVlsanlUdmY2NlcwNXNOdm5yX2JYMW5ucTZJU05vcTTSAasBQVVfeXFMT1pFVG10SWhqeGVlVlhwa3hFcU8xWWFETGNjcVYxMEVvVGtBb1FWNzhOLV9EVWhxWlFSREpWWFE5Sk5aY2tpTkt4LUlad0NtSVpHMURkUGRrUE5KVUkxOVdtdFk1VDkzWUZoOGR3bGhMTU5Ja1lBYzJiWkRqUmlzd3ZJaDhfVVIzZHNUT3VZbGp5VHZmNjZXMDVzTnZucl9iWDFubnE2SVNOb3E0?oc=5",
       "source": "ABC",
       "publishedAt": "2026-11-19T08:48:38.000Z",
+      "via": "google"
+    },
+    {
+      "id": "478ff11f4cf4",
+      "title": "Agentes económicos mantienen tasa de crecimiento de 4,5 % tras el caso Ueno",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWHFzYUZxdFBjT0x6em9aUmxWY3NnamhXYTE2VWVYdU92WHZtQlV0b0dVSkxYYmhBWkZydnNsZ3RRRGg5MDZRWUlCWHhaTDc5SmN1aHBsWXRoenpKQzU2b3c0RDNCOHc5UlQ3U2xGeGI3T0tqOVJnU1ZyeEtnMDVFVDBWeG9IN2NTMm5VZWxNbFljOXFFVzVLMEM0TWVXTDVNeDhMZHZxblhuWkljb3VMb3pSYVpNQ2lWMlZveGV3?oc=5",
+      "source": "La Nación",
+      "publishedAt": "2026-11-19T08:01:18.000Z",
       "via": "google"
     },
     {
@@ -4647,158 +4799,6 @@
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRFJKZVhmQ2VtaE9ON09iWHZIbWpIY3g0c3ZEWnFGUkUxdnQ0UGp0OEg3SzJxREdWcXRQSWVnaTgyRWd3TE1XeTlqWGlVMkw0bmtiaF92b2NQM2l2c2lfS2tIWUx6M1E1RFNKcUp5bHE2WXBaQkE3el9uWEV3Rk04X0dRdlRmM0hwZkNaMmRNSzJxdmpReE1nYkkxMVk2WFpFVzRNMWVaeVp3RDJwMDVZQ2RWaE1xRXhIcGsxXzVzU3dFSUdwZ1NqeXRCNTlzaE91LXpiSVpWV1QweWtzQ283WWVYUHJfRU1pQXFEREhvTTFQS3ZmdmZPeXRqOHo?oc=5",
       "source": "Univision",
       "publishedAt": "2026-11-18T22:30:00.000Z",
-      "via": "google"
-    },
-    {
-      "id": "582a6934078a",
-      "title": "Nuevo director de Itaipú firmó resolución que habilitó a Ueno Bank, pero dice que no sabía de los depósitos - Economía",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOemRHWjdHekxyVDNhbFlRSXY5TEcxdkttUUphMUFYZ011amlkSS1zN1hMUGFTNGxhdUNvX285T1VCS0pJS184Zk1TLTcyV0FBdW9NZHU0dENUVDZaYW1QcUFSazNwR2RQUTBDVDFzNzY4M1VKZGI2VmUtN1NtZU9xR0k1a0UyVmtuR3k2Zkhla0tubUowNlk5LVVfNkRnZmJ4ZWZXSDFISlAxbGN5ZkFXcVROdnk3UEFsQTAwWGM3WEpLOUxjb2kzV0xXNklpNkpWcmY2YUs4a3BrZ21RU3huXy14NnM?oc=5",
-      "source": "ABC Color",
-      "publishedAt": "2026-11-18T22:25:00.000Z",
-      "via": "google"
-    },
-    {
-      "id": "5e8a35980cc0",
-      "title": "Ueno Bank: agujero financiero de hasta USD 1.500 millones y BCP prepara subasta de carteras a otros bancos",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE4xNHl1elJQdmVPdC02c0s1Y0cxbjZXWGpmVzllMDhSeHBaQkpIZTNzS1BFbmYwblFnalpr?oc=5",
-      "source": "Howl.Link",
-      "publishedAt": "2026-11-18T22:23:24.000Z",
-      "via": "google"
-    },
-    {
-      "id": "f1bbeb51619d",
-      "title": "Caso Ueno Bank: un empleado de GSR Security denunció que retiraron dinero, vehículos y armas antes del allanamiento",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPc080SGoyTGs2bk5zRWtFZlRQVXFLc3ZRQWZFR1IyTWlscXd6U3hrWHo3OUZSUnhIUTRDLW5mc0ZqQl9IYUV6SDdUaXc4a0FBUi10dzY1QzN0TU03NWFZRGlLQ09jMFhSNmZIbUthZlR4U0stZHdUTTNycUpYbHl6ZmFOeFZvblZLMnlHVXBYQlE0Y2lVa2N1NXFjOHJCQkZlSDZVd1BzUTZYMkVUYTZtekZvN0xIa01jY3RzeHItM1FwMV9wN2EwTU1qZGU4Sld2cFV4Y09vM1BvLUhpT2tpUlZxOFFOd3pHTFlHSmE1SkFpa1h2MFE1OVhRS3F1d9IBgwJBVV95cUxOOFpLblRlRUpxN3hJcFc4UXRLQ0lXaWc2UkRQc0FtbXJkZzVsLXZnX2ZFTmlndXhPNFJ1b2FUYkdvVVNnWkZoc19hMTdFblFLRkwxeXFybkktM0Q2X3hFMUZyeUxBV0RzVWh4eDEtUkVuWUNBeEpFZ1pxbWduV2VUOWlLVXkybHJ3MG95U2d6SmV2SFZZUzh1aXp0UUZ5cVNreC1TUEpqZVFOMU1xSW1sWGtSa24tMTZsYWRuSnJPdnVSa1g3eTdxQVRHUUdjb0xYX1dPMUpYckJfS0VGNnRzcXgwYmpDRXBYWTljWVpGZmp3YVlwVGlfMjh5REZQLXp6SE0w?oc=5",
-      "source": "Alerta Digital",
-      "publishedAt": "2026-11-18T22:00:02.000Z",
-      "via": "google"
-    },
-    {
-      "id": "7f2e0061b777",
-      "title": "Caso Ueno: Identifican activos que salvarían a ahorristas, pero hablan de déficit preliminar de US$ 1.500 millones",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORU9ZRDgwRjNoOFlaU1dxLTFJNHF6ZGJOZXg4VHF1ektTdkduZUJLQWVKY1FWeFVacENsazFOY3VCNG8xS0dpdTlhZEluQUdoTlh3a2EwTDBFMndRTEVBMnZjRUZFSjJMUVBSQnVjT2huUEtSRE1uTm5QMGIxa19temJDSGlBTHBCN1BuTkRRTnE0REhBOFNGZXFpdE0wa3RXZzdhRmpfMWdlcmNmb09UNldOSHZuVHNnblV0QWtuekJTTFNSZExPSHM2OER3d0ZWekVaeHJ4WF9OZVVUNVhaRTh6TWZyZDVYMEk4TmhuZWVXYjBLdkoyczgyd2I0dnM?oc=5",
-      "source": "ABC Color",
-      "publishedAt": "2026-11-18T21:35:00.000Z",
-      "via": "google"
-    },
-    {
-      "id": "4f20ceb2dfe3",
-      "title": "Trasladan a Santiago Peña a la cárcel militar de Viñas Cué por el caso Ueno Bank",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ0F5TFNyRlJqU056ZGYtU29rRlgwX0haVmZOZ0dPLWE5eHhKOXFrNUFIZDVfZktxalB3MzF1M1BEc0hfR0U4RUVaU1hZeDFGQUFzREpLdEYtRUhpS0dHeXdsal9lMENjMklrNDNMMnJFNDYzOURvN0xsVDJWeGtJTWl4NTRjMUtIc2llNm51bFlOaTlnVWU0NmJuN1pmNmVseDVuRy1OR2tuUGxvOXIwMEdERjktWXNKUG04?oc=5",
-      "source": "Prensa Mercosur",
-      "publishedAt": "2026-11-18T21:34:59.000Z",
-      "via": "google"
-    },
-    {
-      "id": "19c1ee11ac00",
-      "title": "El presidente de Paraguay destituyó al director de la represa Itaipú tras la crisis de Ueno Bank",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMC1RUXZTbThZSjFHRmwtc2JYUmVVTnVKbGtWTVBzRzlIMm9Ub1ZHUms4eFd0Y3hNRkhmNjRiVHNOYkMtYmxGRVh2MF9SQW1ESmhmWXhuejdxdXFrX0ZaQVdfOHhWNFZoY0YyaTI2Yl9hN1FIZ25tX0xoNGc0UXR4WGFfaHFNd1pDRjltMFFqT0dJSGtwYnFkdGFod3lsRWVMaWpZeFpBZ0djTmVnbUxVcWRfQTZwby1oZjg4ZU9Fd0JtR1hVYXBnQllCRTI4dmFaaHBqLW1CbWJhY1dRV0J5c3NBc2VlYlFMNjRv0gGGAkFVX3lxTE5YcUxBbDdtZDNJSGtlSXVpZU1GTnFBVVdwMFF5bzIzSVotbjIybzJocDV5WFFKUUJLTzNfcmR4c29XQk8zU1VBdkRLeDA4aWo3UXFOMzBOakVNVElJMTFSdEtrOWh2bDNCS29oczRocDloYlZZYjJSdGFqWUxjdTRHcUJqVmR2aDZoaXF3NzQ2YmRJQVdLN083UEpWNXFDY1FiSGRFNEt0WTlTRi1kdlY5SV83cEFYV3Nyd1EzWkxISnNyaWZWeDBKLUZOWTItOVROWlhHREJrLUFLRkRRQjhfWXBsdzlLWEJ3dTdmaFFfNWlBbWlrZlNsajI1MllWTTVzdEs4SVE?oc=5",
-      "source": "Infobae",
-      "publishedAt": "2026-11-18T21:29:00.000Z",
-      "via": "google"
-    },
-    {
-      "id": "3acf95c9d8b6",
-      "title": "BCP: Ueno Bank arrastra millonario agujero financiero de USD 1.500 millones",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOVJnX2wweWlacnVXc2N4ZmpXY1BuU1ZsMmdYTkQtZVdZNkNJNkJEaDROM1J5TjRSZ1dBS1hNWjR6blFqbTNkaXNDTGRSSU1ZM3NCbUo0LVFYUm5VS045RURDSU1kbnljWEQwZVpkT2w2ekhXR0pabXhUaUM1cWFqSVdmQWZDWno5eTV0OTF5N0pQM1dwWlM4TkNVaEJxbFpsN29CalJTZXhfU3pTZkxwNUpHRdIBuAFBVV95cUxQbS1aQnp5OEgzSmFReHJ3dzUzMEdzRldlMWFIOEJ6ZGpiZmRaTS0xTko3RWV2STlFTmNKZE1haXdSRnZMOGpVb01IbGFTczNTOFZqaVlyTXY5SG1uTGZ6ZHh2Rko3M2ZBZWNtN1ZhcE52ellUYU1RUDhNdGYzdV9QQkpDS04zS1c2UlBIeUxBdFAtTWVYcDdwX212U1JUOExjelNSZkRtY3l1R0FpS0lwZVRHQy1NOF8y?oc=5",
-      "source": "El Nacional - El diario de los lectores influyentes",
-      "publishedAt": "2026-11-18T21:26:00.000Z",
-      "via": "google"
-    },
-    {
-      "id": "e112e44d10ea",
-      "title": "Barrio ueno: Aprueban investigar plan de presunta usurpación de terrenos municipales por grupo Vázquez",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOTZWaVJrQUUzTkg2VVFZekdNVmZFSkpwWlJZMXB2WUVYQkxSSEdEaF9FSWtvRVY5bjJ0QkxwNUl2QjBfUEpZNHJWelVIaXFWZDRpTkZ2QldaN3cwRVRGUVRFSk5KbUpfLXhUOUVQbFNxQkRKaHNMRnp2UkRwc3B4am5KOUdPSDlFdFE4SzUzSE1JdEIxZk9CWEJWT0pyRko0RzJMbXRzQUd6YXgxajZINUExWUlzRWY1LU9rNDJVVXozZTFXNlFv0gHUAUFVX3lxTFBLajNQMWEwdFdaUUgtVTNxXzJfaDJBRnN1WnRMZVhpWGYxMTRBeUk4RGZrY3FtQmdpbFVlU3dPbEZpb09TOTJ4NXFodG92MkRDaENxRXhSeXpZRFRUQnV0ZkpUQk5XaHR6ZWtuLS1pVlV4b2tuN0MwYjBZNERDYS01LXJCM2xEYW9rRWZIWFdvTDRiYUJVY2J1M3hDSDFfQVVrZUNaSW9zd0JkeEZ0eUJTUXNLdzVSRl92aGdHZ01pOWZHV0dJemdfa2Jnb2ZEQmpxbHdD?oc=5",
-      "source": "Última Hora",
-      "publishedAt": "2026-11-18T21:09:00.000Z",
-      "via": "google"
-    },
-    {
-      "id": "68956e98b6ea",
-      "title": "Fiscalía vuelve a intervenir empresa de seguridad vinculada al caso Ueno",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTEM1Y0pUOE5rWVUyQ196cHlndkUyR0hscXdoNmtyVXBoVlQzVlZST1c2WjM5a3JDTk1rOVdMSEctY1o3X2N5OVBCbUkyRkJJM0pkTWs3SEZDVFdCem5rOFRaZW9WYi16Y2labTZWOXppSjhzdzNzdWozUDZXOEhmWkFfcWczSmxrcV96bGdFMGE2Zk5rSjZFSDUtOWxsRzlDTkdYSF9B?oc=5",
-      "source": "ADN Paraguayo",
-      "publishedAt": "2026-11-18T20:53:33.000Z",
-      "via": "google"
-    },
-    {
-      "id": "4e0b93740f19",
-      "title": "Alba Cantero asume la Fiscalía General con el desafío del caso Ueno Bank",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUDdieXNvTW5GSG9HNjIwT3E1emt2Um1YMHpxeXUzV3lWRk5aRHlHZGtUSERjaTFPbkMzOVFwVW9DbXJ3aU40dUxXYWpZS3lreEhkUXFkRmdhVG5kT2R1WEVuM2RlZjRXajBpSDJWRkJSVElfQXVZcFVaSVJyLTlDV2xVbXE3T054N1lfVlJvazlNbThDTk5Va25jcC04YmNMT0E?oc=5",
-      "source": "Judiciales.net",
-      "publishedAt": "2026-11-18T20:50:25.000Z",
-      "via": "google"
-    },
-    {
-      "id": "990fa004c1c7",
-      "title": "La encargada de despacho de la Fiscalía General respalda labor de fiscales en caso Ueno Bank",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZWc2RmJSUTlmZWo5SVZoWmJtUm8zX3FDM1FmbWlHWm1CRU53S0ZpWEdfVms4QnEwZXByZUI0X3M2eTBfdTE1XzlwT2N4Y2hiMTRkbjdQT3RsYTRqUUk1TXd4S1RkUmU5U0dVVVBrVXBPNFlFcDBDazlFU0xSUkVud1pMT3plQ01YSkI3Y0pxdkJlVmpNX1JFWnB2dVg2N29SSjBTemlYakItUVp1SlNwbUItQThyanR4eUk3WGlMY3dTcjhlWHY0TDhSelB0dmVEdGQ3cHZJd29Pb28?oc=5",
-      "source": "La Nación",
-      "publishedAt": "2026-11-18T20:46:48.000Z",
-      "via": "google"
-    },
-    {
-      "id": "ec4fa730e15a",
-      "title": "Destituido el codirector de la represa de Itaipú por su implicación en el escándalo de Ueno Bank",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc0lZTE9LWFoyM214OHhsSUY4b29YcHMyYkxRU0U1Nmx0UERaZkhJOVlER0F1TUNYZ0I3Mk5WOE5GVG5nVHpVc3F6N1BZNTZVcmFfbEROOFhXZV9rZHJ4M3dEa0F0dGl0RFJUUnk5d2E5TmdaQUxUT29vNmpvSkNLR2pmRXBuTWxHUWJJYW5EWDRUOVpDbFhWYVRULUZjX1pQNEo5Z1RtbEx5MFNrb3VsUUhQNk0ydVpsYmEtX29jR2dtQ3hfc2V1UG5lWXdLeFVwNXZtRFYybC1BNk1tSVhaLTRfUdIB_gFBVV95cUxNNEQ5U01ERDRPclBlOFFmVHJTRkZ0eTc4bXZ0clEyWHRIUHpwRDlNaUdSYmtiQU1EbjdJNm41QV9YSG9xT2tweGhpN1l4NC1XNFdwQXR3c2NvWGdnRjUwSjJ5Njl6TngyS1FORG5rU1JySmctZUxGT200TzVZa2tGajdSNmd3dlpkcGNhM19RNm1wZXFsRlgwNXdUWjBzRnRFRXdQd2NIb2JHZDNSZWV4WFFUSWc2bjYyTGJXUlFhdW4wazhXcXJmSGxiRFdIYi14WWRDV0hic0U1VkhtUVJnbWZUaUlKdTMzX3BrbnlEMW16R3U5OHRjcGhBMlRwUQ?oc=5",
-      "source": "Infobae",
-      "publishedAt": "2026-11-18T20:46:00.000Z",
-      "via": "google"
-    },
-    {
-      "id": "31edfcd3d5b7",
-      "title": "Pedro Alliana destituye al director de hidroeléctrica Itaipú tras escándalo de Ueno Bank",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcmdrbW9LZi15NXNWZTVRSFloajVxMGc2ZzdPZjc1c2xQaGhzTTE4MEpvRDl0UkNWTjUwT1lfS2hpTE5wVDZQTEJDMVlGYk10d0RvRU00UVlrUl92TmxHeGxmd2ZnSUoxelFLeFh3eFVfbkFUQkZzR3BrQjdsa29ISDUxaU5TWjZFQmdSNnlOcFJiOGh2UnNGVWhzY1U0a1N1aFllMmppcE5NYzRxeDFiRXIzZ1doSUxuQVJkR016eTVJWmpsUDd0X2pJY1pyd9IBzgFBVV95cUxPYXBQakVGVGpqMWtYbENTam1XemF6NDZiR1RYZ3Jqd3lqck9hT2N3dG15Z1prR2hmaGwtSUd1YXIwNV9mbWs2UGNubC1rUFRnVTNGWTVUa1lwWUp2M0dmVklsWEhObEpqd1F5Zk1rTjVzdjFLTFVtSE5vb0g5OXdzaGNGNzVpVWZhaUY0bURqUGtUQUhrQk1sZC1oZEc1c2kyUmdMODhzTktHUnFoZmhtS3BZamxxYTBUMjZxdWowZG9QSVB0WnVFMmtMRjljZw?oc=5",
-      "source": "DW.com",
-      "publishedAt": "2026-11-18T20:36:30.000Z",
-      "via": "google"
-    },
-    {
-      "id": "dd83a9d73989",
-      "title": "Incautan más de 300 armas en empresa de seguridad vinculada a ueno bank",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVFhR2NFR1pfYllTV09sSThSaWd0XzB2SzktRmZJeFhQem9EWjM1djdRQzlad1JTY2NXQUJCVU9id081V18ydzktMGxVcUcwY1FoYmlfV05pUTRBQ0JiOXNJMXhVTkF1TjktY0pqMWZULXNqYmlBYWJzZ2NyUVduVzVYbjBibmtvdm5sN1oySlg5S0FhU0RUZzJKNHY2OEXSAawBQVVfeXFMUDdiUU9oUnp0bUQyOF9TZ3ZSazZKTXVlZURYNlc1YmY4WkxFblF2QkF5enc5cE5qNHgzbThGQ3JYVlZuOVhNeVZqeGJlcUM3b3laQlFkajFvSjlabTZuMHJJdFNxazAyZUVPOU5hMXRtZmdFRERXN0phTkQ3SnR2dDZSNzNhaS0zNlVKY1Q3NUwwMV9TSWxtOFEtLTR0bGNDbDNBZnRqMUppRWVXdQ?oc=5",
-      "source": "Última Hora",
-      "publishedAt": "2026-11-18T20:28:00.000Z",
-      "via": "google"
-    },
-    {
-      "id": "727a9972e92d",
-      "title": "BCP confirmó que hay dinero para devolver a todos los depositantes de Ueno, según Latorre",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdmRSTExYTzRITktldTBLcTQxV2JXa1JTUXltQzhKR3JtcTdvSkNGSGdnNmFjNThLSzZITXQ3T204eFdJM0t1dnRNVTY3d0M4aEdNR1lYa3VfaFJ3UFJOQWljbG9FQXhzaUp2c18zcVNuSkFGQmNwaTU4cmhSYlFNdEFuVU1wVnZBSjNURnlhbUtOWWRjdUFuZnJycEszalhqWDJvcG1TZGRYMHkwazJGY0FHMVpmazRtOVdkeDZtbDNtTGgzdE5QYU5nSEdMWkZUcGVJ?oc=5",
-      "source": "La Nación",
-      "publishedAt": "2026-11-18T20:26:15.000Z",
-      "via": "google"
-    },
-    {
-      "id": "2ade81c84e8b",
-      "title": "They dismiss the co-director of Itaipú for his ties to the Ueno Bank scandal",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTWN0NERuQVdZZ0lmeUxrQ0ZjeVlORGo3R1dsbjJsWDk0Yk53dUNxQzZZWW5nSUgydmloTlJEYnJCVnhGbDVYX3BzN0dvcVJtNks1dlo0THFKQjdmUzhSWHF0N3NJSW5GQUxwLXJfVGg3ZExOMVdLdWcwemVHWHZxMS1hZzNsM1B2cUZqSkRXZUQ2YmJXZXdNSWxpamxuX2xGVmxJekZtdzFwbWRLR0VxM1MzM0xBZWdoTzB30gHAAUFVX3lxTFBuT3lQNzl5dGd2ajktVmhBR0pEWTdMMUpNcHBEbmtTQWpRMDlnZ1V0eUxIeGtfNmVENU9QZDRoUHlxYl9OdkprSlBnZWp5ai0zSjQ4VGQ0OEpBQnRySHBtb0FxaHU3bnNjeEFLZVB5SEZhNmZLUmF3cFpSSURwMk1lUG1uWXp1RUNJTUZGV0FYTHIzRmpoN1JIYUJnNDNvWFJfT0sxQnNtZkpLcU41VG1ub1Z4RTBZbEcwZm1zMDEzYQ?oc=5",
-      "source": "Demócrata",
-      "publishedAt": "2026-11-18T20:22:32.000Z",
-      "via": "google"
-    },
-    {
-      "id": "ba7bd17c0fa4",
-      "title": "BCP: Caso Ueno no modifica expectativas de crecimiento, se mantiene en 4,5% para Paraguay",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZHlKUndqclhubzJ3VnFOQmFfaS1vVG1qN0c0d2R4REtsc0w0S3dXMi1lM25hZ1JDYjVtUUd6OS1PNHlLWEdScTdYbG5OOXRfV0dqdDAtenZzcTJVTzFnVlMzSTkxWW9lZlNIWGFyRUlxcUhQTVA4bk1pbVEzVFdLc3VJdmwxSnFBdE00NjJIbTkxeW53MkZXc0dheWRERlBQaURvbkIySjBBSmloNGJXNtIBtgFBVV95cUxOVHNkN1YwN2pmbXZfOWZuQWo2Sm1OblpRV2VfaERhdldZNXI3RU43Z1J3SjhxVHpEWlBDQ3FuNExwbW8xNW5ENFFFMTFfZ2p1ZU9jY3pwd29EcEk3X21LdXFYSTJGQzB1TUNYeEhnQXNtRFpfLVR5WktCU3ZJMkgwRkNZUV93U0ZxTE5lcXlVeHQ3VUpNOGRjZkpxOWFVbFBqOWVKZldMTjNuSjdCeENHN2dqYXQ0Zw?oc=5",
-      "source": "El Nacional - El diario de los lectores influyentes",
-      "publishedAt": "2026-11-18T20:00:00.000Z",
-      "via": "google"
-    },
-    {
-      "id": "43c1ce83d56f",
-      "title": "\"¡Basta ya de burlarse de nuestra gente y de explotar al pueblo paraguayo!\": La Iglesia reclama justicia por la megaestafa de Ueno Bank",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSWFzTUU0NGV2OEZIUVdHVml6QkNSM2dUQy1seHpOa0htaFRxbi01U1hlUE5wRVZzTHlGWS1UU25SNmNaRHZkbGdRdHVaMDBRdHV0MUJNUnF6c01zS1pCVTROYnExZ3RWaG0yUm5PWWhMMXFOczRXRFcxNlFJQmtMNk05MjJhckFpb2JvVEFibzBoekxOOUFoVzYzT0dwTWpENGRtU3luZDVQUU9saWJuWFh3XzFvYkxl0gG-AUFVX3lxTE1tVjBITmJQeVNOczd1dlVuc1NDUUU1YnMyLUNHWnQyQkpRVTN6NXU1VmFNQzlHS2czclQxRy1QRUN5bm8tdXB3QlFta1RKcFA3bE9nVWJMTTNfZV9VOFIzZkxpM0pYNnNiWndnMm1Wa0ZTVU5Nd2EyZ21NYmREZHJLd1NlV3NraXFiOUVSblZyTk04Umd2c211UktFMGx4cXRBdWlEampHYTQxM0dGUkkyOHZOMFhEdXlTYWlwN2c?oc=5",
-      "source": "Religión Digital",
-      "publishedAt": "2026-11-18T19:56:57.000Z",
-      "via": "google"
-    },
-    {
-      "id": "2646e8a8d012",
-      "title": "En Senado coinciden en destituir a todas las autoridades que hicieron depósitos en ueno",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWk5a0JvLXZCTjFrQi1kMEdYdTV1eFZPci1zVU1oc0ZTbTQ2amlLS1ZfMzl2ck9JbXB6TnB2ZkNQV0V5MzQ0MFJYYnV2Z09DZFhUME1CZmRva1l0VU1MNW5oei1OYkRfeHFka2x1azZJcFBPSU5yVTRLbjZ6c19iWEJrSEJfcEF2RW5WWnZpYXRuYTR3Q0FwZFlaM2JMZFkyNnlKV3AwQTBxSHFBUEhMYTJreHLSAcIBQVVfeXFMTm12NDUyazZFSEctcXliTVhCMGhxY0drVWlSMzN4VUp4dWYyd2tweGN4YWNPaU5EdEwtV3dIcUl6LVpLd1p1VVl1RVpTb3BqSmVTeHZldC05N3VXWldhREdOdFZfRXh1SExQRWVoLXBKVHRQR1lib2lZLU0yNTZnVUFyeXptNGNCXzdaQmhVVW1NcXlYOEhoNzJjTnNtNkZpRDA1bTBPNVVhUHltdzVOaTVrZHRMblkyNlJ2LWp3a010c3c?oc=5",
-      "source": "Última Hora",
-      "publishedAt": "2026-11-18T19:52:00.000Z",
       "via": "google"
     }
   ]
