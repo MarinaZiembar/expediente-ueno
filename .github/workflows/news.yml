@@ -1,8 +1,8 @@
 name: Actualizar archivo de prensa
 
+# Actualización automática desactivada (27/11/2026): el archivo de prensa queda con lo recopilado.
+# Para correrla a mano: GitHub → Actions → "Actualizar archivo de prensa" → Run workflow.
 on:
-  schedule:
-    - cron: '7 * * * *' # cada hora, al minuto 7 (UTC)
   workflow_dispatch: {}
 
 permissions:
