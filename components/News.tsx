@@ -65,13 +65,12 @@ export default function News({ news, posts }: { news: NewsFile; posts: SocialPos
   return (
     <section id="noticias" className="sec sec--news">
       <header className="sec__head">
-        <DTitle lines={['Noticias', 'en vivo']} size="lg" swash />
+        <DTitle lines={['Archivo', 'de prensa']} size="lg" swash />
         <Reveal className="sec__lead" delay={200}>
           <p className="live">
-            <span className="live__dot" aria-hidden />
-            {news.items.length} titulares · actualizado {news.updatedAt ? `${fmtDate(news.updatedAt, true)} (hora PY)` : '—'}
+            {news.items.length} titulares · recopilados hasta el {news.updatedAt ? fmtDate(news.updatedAt) : '—'}
           </p>
-          <p>Se revisan Google News y Bing News cada hora y se suman los titulares que mencionan a ueno.</p>
+          <p>Titulares que mencionan a ueno, reunidos de Google News y Bing News mientras el caso estuvo en desarrollo. La recopilación automática ya terminó.</p>
         </Reveal>
       </header>
 

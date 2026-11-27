@@ -126,7 +126,7 @@ function Cover({ active, updatedAt }: { active: boolean; updatedAt: string | nul
       <div className="cover__head">
         <p className="eyebrow rv" style={d(100)}>
           <span className="lbar">Investigación abierta</span>
-          {updatedAt && <span> Actualizado {fmtDate(updatedAt, true)} (hora PY)</span>}
+          {updatedAt && <span> Noticias recopiladas hasta el {fmtDate(updatedAt)}</span>}
         </p>
         <DTitle lines={['El caso', 'ueno']} size="xl" active={active} as="h1" swash />
       </div>

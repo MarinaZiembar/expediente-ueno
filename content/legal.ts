@@ -1,6 +1,6 @@
 /** Términos, condiciones y aviso legal. Editá este archivo para cambiar el texto de la modal. */
 
-export const LEGAL_UPDATED = '2026-11-07';
+export const LEGAL_UPDATED = '2026-11-27';
 
 export type LegalSection = { title: string; body: string[] };
 
@@ -16,7 +16,7 @@ export const LEGAL: LegalSection[] = [
     title: 'Origen de la información',
     body: [
       'Todo el contenido proviene de fuentes de terceros —medios de comunicación, comunicados oficiales, documentos públicos y publicaciones en redes sociales— que se citan y enlazan en cada caso. Los titulares y extractos se reproducen con fines exclusivamente informativos y de cita, conforme al derecho de información.',
-      'La sección de noticias se actualiza de forma automática a partir de buscadores de noticias públicos. Esa selección se hace por coincidencia de palabras clave, sin revisión humana previa, por lo que puede incluir notas desactualizadas, duplicadas o no relacionadas.',
+      'La sección de noticias se armó de forma automática a partir de buscadores de noticias públicos y dejó de actualizarse el 27 de noviembre de 2026. Esa selección se hizo por coincidencia de palabras clave, sin revisión humana previa, por lo que puede incluir notas desactualizadas, duplicadas o no relacionadas.',
     ],
   },
   {

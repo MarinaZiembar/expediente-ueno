@@ -20,7 +20,7 @@ const body = Josefin_Sans({
 export const metadata: Metadata = {
   title: 'El caso ueno — explicado simple',
   description:
-    'Qué pasó con ueno bank y por qué la crisis llegó al presidente de Paraguay: presentación, infografía y noticias actualizadas cada hora.',
+    'Qué pasó con ueno bank y por qué la crisis llegó al presidente de Paraguay: presentación, infografía y archivo de prensa.',
   robots: {
     index: false,
     follow: false,

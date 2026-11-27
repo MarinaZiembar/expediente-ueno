@@ -53,7 +53,7 @@ export default function Nav() {
         ))}
       </nav>
       <a className="nav__live" href="#noticias" onClick={() => setOpen(false)}>
-        <span className="live__dot" aria-hidden /> En vivo
+        Archivo
       </a>
     </header>
   );
